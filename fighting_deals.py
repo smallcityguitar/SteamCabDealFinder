@@ -3,7 +3,10 @@
 fighting_deals.py
 
 Checks Steam for fighting games on sale at or above a discount threshold,
-and pushes an ntfy notification for each new/changed deal.
+and pushes ONE summary ntfy notification (not one per game) when the set of
+qualifying deals changes. The notification links to a small generated page
+(docs/index.html) listing every current deal, sortable by discount, price,
+review score, and review count - meant to be served via GitHub Pages.
 
 Steam has no official "search by tag+discount" JSON API, so this uses the
 same public search endpoint the Steam store website itself calls
@@ -11,16 +14,16 @@ same public search endpoint the Steam store website itself calls
 (tag id 1743) and specials only. No API key or login required.
 
 Run it however you like: a cron job, a systemd timer, or just manually.
-See the bottom of this file / README for a systemd timer example that
-works well on a Steam Deck (SteamOS).
+See the README for a systemd timer example (SteamOS) and for the GitHub
+Actions + GitHub Pages setup this is primarily designed around.
 """
 
 import argparse
 import json
+import os
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urlencode
 
 import requests
 from bs4 import BeautifulSoup
@@ -33,7 +36,7 @@ DEFAULTS = {
     # ntfy topic to publish to. Anyone who knows the topic name can read it
     # unless you put it behind auth, so pick something unguessable, e.g.
     # "will-arcade-deals-8f2a".
-    "ntfy_topic": "steam_cab_deal_finder",
+    "ntfy_topic": "CHANGE_ME_arcade_deals",
     # Use "https://ntfy.sh" for the public service, or your own server URL
     # (e.g. "https://ntfy.example.com") if you self-host.
     "ntfy_server": "https://ntfy.sh",
@@ -43,11 +46,16 @@ DEFAULTS = {
     "steam_tag_id": 1743,
     # Steam country/region code - affects pricing and which regional sales apply.
     "country_code": "us",
-    # Where to remember which deals we've already notified about, so we
-    # don't spam the same discount every run. Deleting this file resets state.
-    # Kept relative (not in $HOME) so the GitHub Actions workflow can commit
-    # it back to the repo between runs; override with STATE_FILE if needed.
+    # Where to remember the last-notified set of deals, so we don't spam on
+    # every run. Kept relative (not in $HOME) so the GitHub Actions workflow
+    # can commit it back to the repo between runs.
     "state_file": str(Path(__file__).with_name("state.json")),
+    # Where to write the generated results page + data for GitHub Pages.
+    "docs_dir": str(Path(__file__).with_name("docs")),
+    # The public URL the notification should link to. If not set, this is
+    # built from the GITHUB_REPOSITORY env var GitHub Actions provides
+    # (assumes Pages is set to serve from main /docs).
+    "pages_url": "",
     # Max results to pull per run (Steam paginates in chunks of 50).
     "max_results": 100,
 }
@@ -66,11 +74,27 @@ HEADERS = {
 # Steam search
 # ---------------------------------------------------------------------------
 
-def fetch_fighting_specials(cfg: dict) -> list[dict]:
-    """Query Steam's search endpoint for discounted games tagged Fighting.
+def _parse_review_summary(row) -> dict:
+    """Pull rating label / % positive / review count out of the review
+    tooltip Steam embeds in each search result row, if present."""
+    summary = {"review_label": None, "review_pct": None, "review_count": 0}
 
-    Returns a list of dicts: {appid, name, discount_pct, final_price, url}
-    """
+    el = row.select_one(".search_review_summary")
+    tooltip_html = el.get("data-tooltip-html") if el else None
+    if not tooltip_html:
+        return summary
+
+    text = BeautifulSoup(tooltip_html, "html.parser").get_text(" ", strip=True)
+    m = re.match(r"^(.*?)\s*(\d+)%\s+of the\s+([\d,]+)\s+user reviews", text)
+    if m:
+        summary["review_label"] = m.group(1).strip() or None
+        summary["review_pct"] = int(m.group(2))
+        summary["review_count"] = int(m.group(3).replace(",", ""))
+    return summary
+
+
+def fetch_fighting_specials(cfg: dict) -> list[dict]:
+    """Query Steam's search endpoint for discounted games tagged Fighting."""
     results = []
     start = 0
     page_size = 50
@@ -80,16 +104,14 @@ def fetch_fighting_specials(cfg: dict) -> list[dict]:
             "query": "",
             "start": start,
             "count": page_size,
-            "specials": 1,             # on sale only
-            "tags": cfg["steam_tag_id"],  # Fighting
-            "category1": 998,          # Games (excludes DLC/software/etc.)
+            "specials": 1,                 # on sale only
+            "tags": cfg["steam_tag_id"],    # Fighting
+            "category1": 998,               # Games (excludes DLC/software/etc.)
             "infinite": 1,
             "cc": cfg["country_code"],
             "l": "english",
         }
-        resp = requests.get(
-            SEARCH_URL, params=params, headers=HEADERS, timeout=20
-        )
+        resp = requests.get(SEARCH_URL, params=params, headers=HEADERS, timeout=20)
         resp.raise_for_status()
         data = resp.json()
 
@@ -115,8 +137,13 @@ def fetch_fighting_specials(cfg: dict) -> list[dict]:
             m = re.search(r"-?(\d+)%", discount_text)
             discount_pct = int(m.group(1)) if m else 0
 
-            price_el = row.select_one(".discount_final_price")
-            final_price = price_el.get_text(strip=True) if price_el else "?"
+            final_price_el = row.select_one(".discount_final_price")
+            final_price = final_price_el.get_text(strip=True) if final_price_el else "?"
+
+            orig_price_el = row.select_one(".discount_original_price")
+            original_price = orig_price_el.get_text(strip=True) if orig_price_el else final_price
+
+            review = _parse_review_summary(row)
 
             results.append(
                 {
@@ -124,7 +151,9 @@ def fetch_fighting_specials(cfg: dict) -> list[dict]:
                     "name": name,
                     "discount_pct": discount_pct,
                     "final_price": final_price,
+                    "original_price": original_price,
                     "url": f"https://store.steampowered.com/app/{appid}/",
+                    **review,
                 }
             )
 
@@ -137,7 +166,7 @@ def fetch_fighting_specials(cfg: dict) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# State (avoid re-notifying the same deal every run)
+# State (avoid re-notifying when nothing's changed)
 # ---------------------------------------------------------------------------
 
 def load_state(path: str) -> dict:
@@ -155,26 +184,166 @@ def save_state(path: str, state: dict) -> None:
 
 
 # ---------------------------------------------------------------------------
-# ntfy
+# ntfy - one summary notification, not one per game
 # ---------------------------------------------------------------------------
 
-def send_ntfy(cfg: dict, game: dict) -> None:
+def send_ntfy_summary(cfg: dict, qualifying: list[dict], pages_url: str) -> None:
     url = f"{cfg['ntfy_server'].rstrip('/')}/{cfg['ntfy_topic']}"
-    title = f"-{game['discount_pct']}% {game['name']}"
-    message = f"Now {game['final_price']} on Steam.\n{game['url']}"
+    count = len(qualifying)
+    title = f"{count} fighting game{'s' if count != 1 else ''} \u2265{cfg['min_discount']}% off"
 
-    resp = requests.post(
-        url,
-        data=message.encode("utf-8"),
-        headers={
-            "Title": title.encode("utf-8"),
-            "Click": game["url"],
-            "Tags": "fire,video_game",
-            "Priority": "default",
-        },
-        timeout=15,
-    )
+    top = sorted(qualifying, key=lambda g: -g["discount_pct"])[:5]
+    lines = [f"-{g['discount_pct']}% {g['name']} ({g['final_price']})" for g in top]
+    if count > len(top):
+        lines.append(f"...and {count - len(top)} more")
+    message = "\n".join(lines) if lines else "No qualifying deals right now."
+
+    headers = {
+        # See earlier note: bytes here bypasses Python's Latin-1-only header
+        # encoding, since game titles can contain non-Latin-1 characters.
+        "Title": title.encode("utf-8"),
+        "Tags": "fire,video_game",
+        "Priority": "default",
+    }
+    if pages_url:
+        headers["Click"] = pages_url
+
+    resp = requests.post(url, data=message.encode("utf-8"), headers=headers, timeout=15)
     resp.raise_for_status()
+
+
+# ---------------------------------------------------------------------------
+# Results page (for GitHub Pages)
+# ---------------------------------------------------------------------------
+
+PAGE_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fighting Game Deals</title>
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: -apple-system, system-ui, sans-serif; background: #0f1115; color: #e6e6e6;
+         margin: 0; padding: 16px; }
+  h1 { font-size: 1.3rem; margin: 0 0 4px; }
+  #updated { color: #9aa0a6; font-size: 0.85rem; margin-bottom: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+  th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid #2a2d34; }
+  th { cursor: pointer; user-select: none; color: #9aa0a6; font-weight: 600;
+       white-space: nowrap; position: sticky; top: 0; background: #0f1115; }
+  th.sorted::after { content: " \\25BE"; }
+  th.sorted.asc::after { content: " \\25B4"; }
+  tr:hover { background: #171a20; }
+  a { color: #6cb6ff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .discount { color: #7ee787; font-weight: 700; }
+  .orig { color: #9aa0a6; text-decoration: line-through; margin-right: 6px; }
+  .empty { color: #9aa0a6; padding: 24px 8px; }
+  .table-wrap { overflow-x: auto; }
+</style>
+</head>
+<body>
+<h1>Fighting Game Deals</h1>
+<div id="updated"></div>
+<div class="table-wrap">
+<table id="deals">
+  <thead>
+    <tr>
+      <th data-key="name">Game</th>
+      <th data-key="discount_pct">Discount</th>
+      <th data-key="final_price">Price</th>
+      <th data-key="review_pct">Rating</th>
+      <th data-key="review_count">Reviews</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+<div class="empty" id="empty" hidden>No qualifying deals right now.</div>
+</div>
+<script>
+let deals = [];
+let sortKey = "discount_pct";
+let sortAsc = false;
+
+function render() {
+  const tbody = document.querySelector("#deals tbody");
+  const empty = document.getElementById("empty");
+  const sorted = [...deals].sort((a, b) => {
+    let av = a[sortKey], bv = b[sortKey];
+    if (av == null) av = sortKey === "name" ? "" : -1;
+    if (bv == null) bv = sortKey === "name" ? "" : -1;
+    if (typeof av === "string") { av = av.toLowerCase(); bv = bv.toLowerCase(); }
+    if (av < bv) return sortAsc ? -1 : 1;
+    if (av > bv) return sortAsc ? 1 : -1;
+    return 0;
+  });
+
+  tbody.innerHTML = "";
+  empty.hidden = sorted.length > 0;
+
+  for (const g of sorted) {
+    const tr = document.createElement("tr");
+    const rating = g.review_pct != null
+      ? `${g.review_pct}% <span style="color:#9aa0a6">(${g.review_label || ""})</span>`
+      : "\u2014";
+    const reviewCount = g.review_count ? g.review_count.toLocaleString() : "\u2014";
+    tr.innerHTML = `
+      <td><a href="${g.url}" target="_blank" rel="noopener">${g.name}</a></td>
+      <td class="discount">-${g.discount_pct}%</td>
+      <td><span class="orig">${g.original_price}</span>${g.final_price}</td>
+      <td>${rating}</td>
+      <td>${reviewCount}</td>
+    `;
+    tbody.appendChild(tr);
+  }
+
+  document.querySelectorAll("th[data-key]").forEach(th => {
+    th.classList.toggle("sorted", th.dataset.key === sortKey);
+    th.classList.toggle("asc", th.dataset.key === sortKey && sortAsc);
+  });
+}
+
+document.querySelectorAll("th[data-key]").forEach(th => {
+  th.addEventListener("click", () => {
+    const key = th.dataset.key;
+    if (sortKey === key) { sortAsc = !sortAsc; }
+    else { sortKey = key; sortAsc = key === "name"; }
+    render();
+  });
+});
+
+fetch("deals.json")
+  .then(r => r.json())
+  .then(data => {
+    deals = data.deals || [];
+    document.getElementById("updated").textContent =
+      `Updated ${new Date(data.updated_at).toLocaleString()} \u00b7 ${deals.length} deal(s) \u2265${data.min_discount}% off`;
+    render();
+  })
+  .catch(() => {
+    document.getElementById("updated").textContent = "Couldn't load deals.json";
+  });
+</script>
+</body>
+</html>
+"""
+
+
+def write_pages(docs_dir: str, qualifying: list[dict], min_discount: int) -> None:
+    import datetime
+
+    out_dir = Path(docs_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    (out_dir / "index.html").write_text(PAGE_TEMPLATE)
+
+    payload = {
+        "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "min_discount": min_discount,
+        "deals": qualifying,
+    }
+    (out_dir / "deals.json").write_text(json.dumps(payload, indent=2))
 
 
 # ---------------------------------------------------------------------------
@@ -182,8 +351,6 @@ def send_ntfy(cfg: dict, game: dict) -> None:
 # ---------------------------------------------------------------------------
 
 def load_config() -> dict:
-    import os
-
     cfg = dict(DEFAULTS)
     config_path = Path(__file__).with_name("config.json")
     if config_path.exists():
@@ -198,6 +365,8 @@ def load_config() -> dict:
         "MIN_DISCOUNT": "min_discount",
         "COUNTRY_CODE": "country_code",
         "STATE_FILE": "state_file",
+        "DOCS_DIR": "docs_dir",
+        "PAGES_URL": "pages_url",
     }
     for env_key, cfg_key in env_map.items():
         val = os.environ.get(env_key)
@@ -208,6 +377,12 @@ def load_config() -> dict:
                 val = int(val)
             cfg[cfg_key] = val
 
+    if not cfg["pages_url"]:
+        repo = os.environ.get("GITHUB_REPOSITORY")  # "owner/repo"
+        if repo and "/" in repo:
+            owner, name = repo.split("/", 1)
+            cfg["pages_url"] = f"https://{owner}.github.io/{name}/"
+
     return cfg
 
 
@@ -215,7 +390,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--min-discount", type=int, help="Override min discount %%")
     parser.add_argument("--dry-run", action="store_true",
-                         help="Print what would be notified, but don't call ntfy")
+                         help="Print what would happen, but don't call ntfy or write files")
     args = parser.parse_args()
 
     cfg = load_config()
@@ -236,35 +411,36 @@ def main() -> int:
         print(f"Error fetching Steam data: {e}", file=sys.stderr)
         return 1
 
-    qualifying = [g for g in games if g["discount_pct"] >= cfg["min_discount"]]
+    qualifying = sorted(
+        (g for g in games if g["discount_pct"] >= cfg["min_discount"]),
+        key=lambda g: -g["discount_pct"],
+    )
+    current_ids = sorted(g["appid"] for g in qualifying)
 
     state = load_state(cfg["state_file"])
-    notified = 0
+    previously_notified_ids = state.get("qualifying_ids", [])
 
-    for game in qualifying:
-        prev_discount = state.get(game["appid"])
-        # Notify if we've never seen this deal, or the discount got deeper.
-        if prev_discount is None or game["discount_pct"] > prev_discount:
-            if args.dry_run:
-                print(f"[DRY RUN] Would notify: -{game['discount_pct']}% "
-                      f"{game['name']} ({game['final_price']}) {game['url']}")
-            else:
-                send_ntfy(cfg, game)
-                print(f"Notified: -{game['discount_pct']}% {game['name']}")
-            notified += 1
-        state[game["appid"]] = game["discount_pct"]
+    changed = current_ids != previously_notified_ids
+    sent = False
 
-    # Drop games from state that are no longer on sale at/above threshold,
-    # so if a deal reappears later it notifies again.
-    current_ids = {g["appid"] for g in qualifying}
-    state = {k: v for k, v in state.items() if k in current_ids}
+    if changed and qualifying:
+        if args.dry_run:
+            print(f"[DRY RUN] Would send summary notification for {len(qualifying)} deal(s):")
+            for g in qualifying:
+                print(f"  -{g['discount_pct']}% {g['name']} ({g['final_price']})")
+        else:
+            send_ntfy_summary(cfg, qualifying, cfg["pages_url"])
+            sent = True
 
     if not args.dry_run:
-        save_state(cfg["state_file"], state)
+        write_pages(cfg["docs_dir"], qualifying, cfg["min_discount"])
+        save_state(cfg["state_file"], {"qualifying_ids": current_ids})
 
     print(f"Checked {len(games)} fighting-game specials, "
           f"{len(qualifying)} at >= {cfg['min_discount']}%, "
-          f"{notified} new notification(s) sent.")
+          f"{'notification sent' if sent else 'no notification (unchanged or none qualifying)'}.")
+    if cfg["pages_url"]:
+        print(f"Results page: {cfg['pages_url']}")
     return 0
 
 
