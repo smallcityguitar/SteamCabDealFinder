@@ -167,7 +167,7 @@ def send_ntfy(cfg: dict, game: dict) -> None:
         url,
         data=message.encode("utf-8"),
         headers={
-            "Title": title,
+            "Title": title.encode("utf-8"),
             "Click": game["url"],
             "Tags": "fire,video_game",
             "Priority": "default",
