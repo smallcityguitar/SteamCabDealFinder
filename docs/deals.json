@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:52:09.421637+00:00",
+  "updated_at": "2026-09-22T14:57:13.910953+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -234,17 +234,6 @@
       "review_count": 327
     },
     {
-      "appid": "989550",
-      "name": "Million Arthur: Arcana Blood",
-      "discount_pct": 80,
-      "final_price": "$7.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/989550/",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 296
-    },
-    {
       "appid": "536560",
       "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
       "discount_pct": 80,
@@ -254,6 +243,17 @@
       "review_label": "Very Positive",
       "review_pct": 90,
       "review_count": 253
+    },
+    {
+      "appid": "989550",
+      "name": "Million Arthur: Arcana Blood",
+      "discount_pct": 80,
+      "final_price": "$7.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/989550/",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 296
     },
     {
       "appid": "542240",
@@ -267,17 +267,6 @@
       "review_count": 20
     },
     {
-      "appid": "1052360",
-      "name": "Combate Monero",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1052360/",
-      "review_label": "Mostly Positive",
-      "review_pct": 70,
-      "review_count": 27
-    },
-    {
       "appid": "1338100",
       "name": "Teratopia",
       "discount_pct": 80,
@@ -287,6 +276,17 @@
       "review_label": "Positive",
       "review_pct": 83,
       "review_count": 24
+    },
+    {
+      "appid": "1052360",
+      "name": "Combate Monero",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1052360/",
+      "review_label": "Mostly Positive",
+      "review_pct": 70,
+      "review_count": 27
     },
     {
       "appid": "297740",
