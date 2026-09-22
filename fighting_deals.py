@@ -154,6 +154,7 @@ def fetch_fighting_specials(cfg: dict) -> list[dict]:
                     "final_price": final_price,
                     "original_price": original_price,
                     "url": f"https://store.steampowered.com/app/{appid}/",
+                    "header_image": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg",
                     **review,
                 }
             )
@@ -312,6 +313,9 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   .orig { color: #9aa0a6; text-decoration: line-through; margin-right: 6px; }
   .empty { color: #9aa0a6; padding: 24px 8px; }
   .table-wrap { overflow-x: auto; }
+  .game-cell { display: flex; align-items: center; gap: 10px; }
+  .thumb { width: 120px; height: 56px; object-fit: cover; border-radius: 4px;
+           flex-shrink: 0; background: #1c1f26; }
 </style>
 </head>
 <body>
@@ -334,7 +338,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 </div>
 <script>
 let deals = [];
-let sortKey = "discount_pct";
+let sortKey = "review_count";
 let sortAsc = false;
 
 function render() {
@@ -360,7 +364,13 @@ function render() {
       : "\u2014";
     const reviewCount = g.review_count ? g.review_count.toLocaleString() : "\u2014";
     tr.innerHTML = `
-      <td><a href="${g.url}" target="_blank" rel="noopener">${g.name}</a></td>
+      <td>
+        <div class="game-cell">
+          <img class="thumb" src="${g.header_image || ""}" alt="" loading="lazy"
+               onerror="this.style.display='none'">
+          <a href="${g.url}" target="_blank" rel="noopener">${g.name}</a>
+        </div>
+      </td>
       <td class="discount">-${g.discount_pct}%</td>
       <td><span class="orig">${g.original_price}</span>${g.final_price}</td>
       <td>${rating}</td>
@@ -418,6 +428,44 @@ def write_pages(docs_dir: str, qualifying: list[dict], min_discount: int) -> Non
 
 
 # ---------------------------------------------------------------------------
+# Pending-notification handoff. --generate-only writes this instead of
+# sending the ntfy push immediately, so a later --send-pending step (after
+# the GitHub Pages deploy has had time to finish) can send it once the page
+# is actually live. Purely a same-job handoff file; never committed to git.
+# ---------------------------------------------------------------------------
+
+def pending_notification_path() -> Path:
+    return Path(__file__).with_name("pending_notification.json")
+
+
+def save_pending_notification(qualifying: list[dict], pages_url: str, min_discount: int) -> None:
+    payload = {"qualifying": qualifying, "pages_url": pages_url, "min_discount": min_discount}
+    pending_notification_path().write_text(json.dumps(payload))
+
+
+def send_pending_notification(cfg: dict, dry_run: bool = False) -> int:
+    path = pending_notification_path()
+    if not path.exists():
+        print("No pending notification to send.")
+        return 0
+
+    payload = json.loads(path.read_text())
+    qualifying = payload["qualifying"]
+    pages_url = payload.get("pages_url") or cfg["pages_url"]
+
+    if dry_run:
+        print(f"[DRY RUN] Would send pending summary notification for {len(qualifying)} deal(s):")
+        for g in qualifying:
+            print(f"  -{g['discount_pct']}% {g['name']} ({g['final_price']})")
+        return 0
+
+    send_ntfy_summary(cfg, qualifying, pages_url)
+    path.unlink()
+    print(f"Sent pending notification for {len(qualifying)} deal(s).")
+    return 0
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -462,6 +510,11 @@ def main() -> int:
     parser.add_argument("--min-discount", type=int, help="Override min discount %%")
     parser.add_argument("--dry-run", action="store_true",
                          help="Print what would happen, but don't call ntfy or write files")
+    parser.add_argument("--generate-only", action="store_true",
+                         help="Fetch/filter and write docs/+state, but don't send ntfy yet - "
+                              "instead save a pending notification for a later --send-pending run")
+    parser.add_argument("--send-pending", action="store_true",
+                         help="Send the notification saved by an earlier --generate-only run, if any")
     args = parser.parse_args()
 
     cfg = load_config()
@@ -475,6 +528,9 @@ def main() -> int:
             file=sys.stderr,
         )
         return 1
+
+    if args.send_pending:
+        return send_pending_notification(cfg, dry_run=args.dry_run)
 
     try:
         games = fetch_fighting_specials(cfg)
@@ -495,12 +551,16 @@ def main() -> int:
 
     changed = current_ids != previously_notified_ids
     sent = False
+    deferred = False
 
     if changed and qualifying:
         if args.dry_run:
             print(f"[DRY RUN] Would send summary notification for {len(qualifying)} deal(s):")
             for g in qualifying:
                 print(f"  -{g['discount_pct']}% {g['name']} ({g['final_price']})")
+        elif args.generate_only:
+            save_pending_notification(qualifying, cfg["pages_url"], cfg["min_discount"])
+            deferred = True
         else:
             send_ntfy_summary(cfg, qualifying, cfg["pages_url"])
             sent = True
@@ -509,9 +569,14 @@ def main() -> int:
         write_pages(cfg["docs_dir"], qualifying, cfg["min_discount"])
         save_state(cfg["state_file"], {"qualifying_ids": current_ids})
 
+    if deferred:
+        status = "notification deferred (run --send-pending after the page deploys)"
+    elif sent:
+        status = "notification sent"
+    else:
+        status = "no notification (unchanged or none qualifying)"
     print(f"Checked {len(games)} fighting-game specials, "
-          f"{len(qualifying)} at >= {cfg['min_discount']}%, "
-          f"{'notification sent' if sent else 'no notification (unchanged or none qualifying)'}.")
+          f"{len(qualifying)} at >= {cfg['min_discount']}%, {status}.")
     if cfg["pages_url"]:
         print(f"Results page: {cfg['pages_url']}")
     return 0
