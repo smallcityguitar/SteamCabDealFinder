@@ -33,7 +33,7 @@ DEFAULTS = {
     # ntfy topic to publish to. Anyone who knows the topic name can read it
     # unless you put it behind auth, so pick something unguessable, e.g.
     # "will-arcade-deals-8f2a".
-    "ntfy_topic": "steam_cab_deal_finder",
+    "ntfy_topic": "CHANGE_ME_arcade_deals",
     # Use "https://ntfy.sh" for the public service, or your own server URL
     # (e.g. "https://ntfy.example.com") if you self-host.
     "ntfy_server": "https://ntfy.sh",
@@ -201,7 +201,9 @@ def load_config() -> dict:
     }
     for env_key, cfg_key in env_map.items():
         val = os.environ.get(env_key)
-        if val is not None:
+        # GitHub Actions sets an env var to "" (not unset) when the
+        # underlying secret doesn't exist, so treat blank as not-provided.
+        if val:
             if cfg_key == "min_discount":
                 val = int(val)
             cfg[cfg_key] = val
