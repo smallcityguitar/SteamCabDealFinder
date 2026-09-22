@@ -1,0 +1,6 @@
+{
+  "ntfy_topic": "will-arcade-deals-8f2a",
+  "ntfy_server": "https://ntfy.sh",
+  "min_discount": 60,
+  "country_code": "us"
+}
