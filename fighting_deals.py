@@ -23,6 +23,7 @@ import json
 import os
 import re
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -163,6 +164,69 @@ def fetch_fighting_specials(cfg: dict) -> list[dict]:
             break
 
     return results
+
+
+# ---------------------------------------------------------------------------
+# Secondary verification: Steam's search tag filter matches ANY tag a game
+# has, even one applied by a handful of users and buried in a long list
+# (e.g. Star Wars Jedi: Fallen Order and Ghostrunner both turn up under the
+# "Fighting" tag despite being action-adventure games). To weed those out,
+# check each *candidate's* own store page and only keep it if one of the
+# core fighting-game tags is actually among its top, prominently-displayed
+# tags - the ones Steam shows directly under the game's description.
+# ---------------------------------------------------------------------------
+
+FIGHTING_VERIFY_TAGS = {"Fighting", "2D Fighter", "3D Fighter"}
+VERIFY_TOP_N_TAGS = 10
+
+# Cookies to skip the mature-content interstitial some game pages show,
+# which would otherwise hide the tag list behind an age-check page.
+AGE_GATE_COOKIES = {
+    "birthtime": "0",
+    "lastagecheckage": "1-January-1970",
+    "wants_mature_content": "1",
+}
+
+
+def verify_is_fighting_game(appid: str):
+    """Return True/False if we could confirm one way or the other, or None
+    if the check itself failed (e.g. network error) - callers should treat
+    None as "keep it, we just don't know" rather than as a rejection."""
+    try:
+        resp = requests.get(
+            f"https://store.steampowered.com/app/{appid}/",
+            headers=HEADERS,
+            cookies=AGE_GATE_COOKIES,
+            timeout=15,
+        )
+        resp.raise_for_status()
+    except requests.RequestException:
+        return None
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+    tag_container = soup.select_one(".glance_tags.popular_tags") or soup.select_one(".glance_tags")
+    if not tag_container:
+        return None
+    tag_els = tag_container.select("a.app_tag") or tag_container.select("a")
+    if not tag_els:
+        return None
+
+    top_tags = [t.get_text(strip=True) for t in tag_els[:VERIFY_TOP_N_TAGS]]
+    return any(t in FIGHTING_VERIFY_TAGS for t in top_tags)
+
+
+def filter_to_genuine_fighting_games(games: list[dict]) -> list[dict]:
+    """Runs the secondary per-game check above over a (already small,
+    discount-filtered) candidate list."""
+    verified = []
+    for g in games:
+        result = verify_is_fighting_game(g["appid"])
+        time.sleep(0.4)  # be polite to Steam's servers
+        if result is False:
+            print(f"  Dropping '{g['name']}' - not actually tagged as a fighting game")
+            continue
+        verified.append(g)
+    return verified
 
 
 # ---------------------------------------------------------------------------
@@ -415,6 +479,8 @@ def main() -> int:
         (g for g in games if g["discount_pct"] >= cfg["min_discount"]),
         key=lambda g: -g["discount_pct"],
     )
+    if qualifying:
+        qualifying = filter_to_genuine_fighting_games(qualifying)
     current_ids = sorted(g["appid"] for g in qualifying)
 
     state = load_state(cfg["state_file"])
