@@ -27,14 +27,15 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}     # optional, defaults to https://ntfy.sh
           MIN_DISCOUNT: ${{ secrets.MIN_DISCOUNT }}   # optional, defaults to 60
+          PAGES_URL: ${{ secrets.PAGES_URL }}         # optional, auto-detected from repo if unset
         run: python fighting_deals.py
 
-      - name: Save updated state
+      - name: Save updated state and results page
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- state.json; then
-            git add state.json
-            git commit -m "Update notified-deals state"
+          if ! git diff --quiet -- state.json docs/; then
+            git add state.json docs/
+            git commit -m "Update deal state and results page"
             git push
           fi
