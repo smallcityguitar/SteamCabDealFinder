@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fighting Game Deals</title>
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: -apple-system, system-ui, sans-serif; background: #0f1115; color: #e6e6e6;
+         margin: 0; padding: 16px; }
+  h1 { font-size: 1.3rem; margin: 0 0 4px; }
+  #updated { color: #9aa0a6; font-size: 0.85rem; margin-bottom: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+  th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid #2a2d34; }
+  th { cursor: pointer; user-select: none; color: #9aa0a6; font-weight: 600;
+       white-space: nowrap; position: sticky; top: 0; background: #0f1115; }
+  th.sorted::after { content: " \25BE"; }
+  th.sorted.asc::after { content: " \25B4"; }
+  tr:hover { background: #171a20; }
+  a { color: #6cb6ff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .discount { color: #7ee787; font-weight: 700; }
+  .orig { color: #9aa0a6; text-decoration: line-through; margin-right: 6px; }
+  .empty { color: #9aa0a6; padding: 24px 8px; }
+  .table-wrap { overflow-x: auto; }
+</style>
+</head>
+<body>
+<h1>Fighting Game Deals</h1>
+<div id="updated"></div>
+<div class="table-wrap">
+<table id="deals">
+  <thead>
+    <tr>
+      <th data-key="name">Game</th>
+      <th data-key="discount_pct">Discount</th>
+      <th data-key="final_price">Price</th>
+      <th data-key="review_pct">Rating</th>
+      <th data-key="review_count">Reviews</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+<div class="empty" id="empty" hidden>No qualifying deals right now.</div>
+</div>
+<script>
+let deals = [];
+let sortKey = "discount_pct";
+let sortAsc = false;
+
+function render() {
+  const tbody = document.querySelector("#deals tbody");
+  const empty = document.getElementById("empty");
+  const sorted = [...deals].sort((a, b) => {
+    let av = a[sortKey], bv = b[sortKey];
+    if (av == null) av = sortKey === "name" ? "" : -1;
+    if (bv == null) bv = sortKey === "name" ? "" : -1;
+    if (typeof av === "string") { av = av.toLowerCase(); bv = bv.toLowerCase(); }
+    if (av < bv) return sortAsc ? -1 : 1;
+    if (av > bv) return sortAsc ? 1 : -1;
+    return 0;
+  });
+
+  tbody.innerHTML = "";
+  empty.hidden = sorted.length > 0;
+
+  for (const g of sorted) {
+    const tr = document.createElement("tr");
+    const rating = g.review_pct != null
+      ? `${g.review_pct}% <span style="color:#9aa0a6">(${g.review_label || ""})</span>`
+      : "—";
+    const reviewCount = g.review_count ? g.review_count.toLocaleString() : "—";
+    tr.innerHTML = `
+      <td><a href="${g.url}" target="_blank" rel="noopener">${g.name}</a></td>
+      <td class="discount">-${g.discount_pct}%</td>
+      <td><span class="orig">${g.original_price}</span>${g.final_price}</td>
+      <td>${rating}</td>
+      <td>${reviewCount}</td>
+    `;
+    tbody.appendChild(tr);
+  }
+
+  document.querySelectorAll("th[data-key]").forEach(th => {
+    th.classList.toggle("sorted", th.dataset.key === sortKey);
+    th.classList.toggle("asc", th.dataset.key === sortKey && sortAsc);
+  });
+}
+
+document.querySelectorAll("th[data-key]").forEach(th => {
+  th.addEventListener("click", () => {
+    const key = th.dataset.key;
+    if (sortKey === key) { sortAsc = !sortAsc; }
+    else { sortKey = key; sortAsc = key === "name"; }
+    render();
+  });
+});
+
+fetch("deals.json")
+  .then(r => r.json())
+  .then(data => {
+    deals = data.deals || [];
+    document.getElementById("updated").textContent =
+      `Updated ${new Date(data.updated_at).toLocaleString()} · ${deals.length} deal(s) ≥${data.min_discount}% off`;
+    render();
+  })
+  .catch(() => {
+    document.getElementById("updated").textContent = "Couldn't load deals.json";
+  });
+</script>
+</body>
+</html>
