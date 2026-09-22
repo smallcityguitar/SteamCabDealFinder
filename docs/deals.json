@@ -1,62 +1,7 @@
 {
-  "updated_at": "2026-09-22T15:04:39.408175+00:00",
+  "updated_at": "2026-09-22T15:13:37.297721+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "304390",
-      "name": "FOR HONOR\u2122",
-      "discount_pct": 90,
-      "final_price": "$2.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/304390/",
-      "review_label": "Mixed",
-      "review_pct": 68,
-      "review_count": 59396
-    },
-    {
-      "appid": "473690",
-      "name": "Absolver",
-      "discount_pct": 90,
-      "final_price": "$2.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/473690/",
-      "review_label": "Mostly Positive",
-      "review_pct": 74,
-      "review_count": 7354
-    },
-    {
-      "appid": "323470",
-      "name": "DRAGON BALL XENOVERSE",
-      "discount_pct": 90,
-      "final_price": "$3.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/323470/",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 6946
-    },
-    {
-      "appid": "755500",
-      "name": "ONE PIECE World Seeker",
-      "discount_pct": 90,
-      "final_price": "$8.99",
-      "original_price": "$89.99",
-      "url": "https://store.steampowered.com/app/755500/",
-      "review_label": "Mostly Positive",
-      "review_pct": 78,
-      "review_count": 2168
-    },
-    {
-      "appid": "331600",
-      "name": "One Piece Pirate Warriors 3",
-      "discount_pct": 90,
-      "final_price": "$3.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/331600/",
-      "review_label": "Mostly Positive",
-      "review_pct": 74,
-      "review_count": 2812
-    },
     {
       "appid": "991560",
       "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
@@ -67,17 +12,6 @@
       "review_label": "Mixed",
       "review_pct": 53,
       "review_count": 1693
-    },
-    {
-      "appid": "746940",
-      "name": "Nippon Marathon",
-      "discount_pct": 90,
-      "final_price": "$1.49",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/746940/",
-      "review_label": "Very Positive",
-      "review_pct": 89,
-      "review_count": 275
     },
     {
       "appid": "658500",
@@ -113,17 +47,6 @@
       "review_count": 905
     },
     {
-      "appid": "714080",
-      "name": "BLACK CLOVER: QUARTET KNIGHTS",
-      "discount_pct": 87,
-      "final_price": "$8.44",
-      "original_price": "$64.99",
-      "url": "https://store.steampowered.com/app/714080/",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 832
-    },
-    {
       "appid": "571260",
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
@@ -135,17 +58,6 @@
       "review_count": 641
     },
     {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
-      "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 372
-    },
-    {
       "appid": "794580",
       "name": "SNK HEROINES Tag Team Frenzy",
       "discount_pct": 85,
@@ -155,6 +67,17 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 892
+    },
+    {
+      "appid": "999660",
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "discount_pct": 85,
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/999660/",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 372
     },
     {
       "appid": "222420",
@@ -188,17 +111,6 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 927
-    },
-    {
-      "appid": "384200",
-      "name": "Raging Justice",
-      "discount_pct": 85,
-      "final_price": "$2.24",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/384200/",
-      "review_label": "Mostly Positive",
-      "review_pct": 78,
-      "review_count": 113
     },
     {
       "appid": "678950",
@@ -256,6 +168,17 @@
       "review_count": 296
     },
     {
+      "appid": "263620",
+      "name": "Mitsurugi Kamui Hikae",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/263620/",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 1159
+    },
+    {
       "appid": "542240",
       "name": "TZOMPANTLI",
       "discount_pct": 80,
@@ -265,28 +188,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 70,
       "review_count": 20
-    },
-    {
-      "appid": "1338100",
-      "name": "Teratopia",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/1338100/",
-      "review_label": "Positive",
-      "review_pct": 83,
-      "review_count": 24
-    },
-    {
-      "appid": "1052360",
-      "name": "Combate Monero",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1052360/",
-      "review_label": "Mostly Positive",
-      "review_pct": 70,
-      "review_count": 27
     },
     {
       "appid": "297740",
@@ -320,17 +221,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 70,
       "review_count": 198
-    },
-    {
-      "appid": "633230",
-      "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
-      "discount_pct": 75,
-      "final_price": "$9.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/633230/",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 17782
     },
     {
       "appid": "1498570",
@@ -421,17 +311,6 @@
       "review_count": 5293
     },
     {
-      "appid": "3027930",
-      "name": "Karate Survivor",
-      "discount_pct": 70,
-      "final_price": "$1.49",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/3027930/",
-      "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 957
-    },
-    {
       "appid": "585190",
       "name": "A Gummy's Life",
       "discount_pct": 70,
@@ -441,17 +320,6 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 194
-    },
-    {
-      "appid": "449640",
-      "name": "Bloody Zombies",
-      "discount_pct": 70,
-      "final_price": "$4.49",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/449640/",
-      "review_label": "Mixed",
-      "review_pct": 58,
-      "review_count": 81
     },
     {
       "appid": "2563030",
@@ -465,17 +333,6 @@
       "review_count": 42
     },
     {
-      "appid": "763710",
-      "name": "River City Melee Mach!!",
-      "discount_pct": 67,
-      "final_price": "$4.61",
-      "original_price": "$13.99",
-      "url": "https://store.steampowered.com/app/763710/",
-      "review_label": "Mostly Positive",
-      "review_pct": 70,
-      "review_count": 145
-    },
-    {
       "appid": "1835240",
       "name": "Spiritfall",
       "discount_pct": 66,
@@ -485,39 +342,6 @@
       "review_label": "Very Positive",
       "review_pct": 92,
       "review_count": 1846
-    },
-    {
-      "appid": "1394810",
-      "name": "Colossus Down",
-      "discount_pct": 66,
-      "final_price": "$6.11",
-      "original_price": "$17.99",
-      "url": "https://store.steampowered.com/app/1394810/",
-      "review_label": "Very Positive",
-      "review_pct": 86,
-      "review_count": 94
-    },
-    {
-      "appid": "3150970",
-      "name": "Party Madness",
-      "discount_pct": 65,
-      "final_price": "$1.39",
-      "original_price": "$3.99",
-      "url": "https://store.steampowered.com/app/3150970/",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 53
-    },
-    {
-      "appid": "703180",
-      "name": "Ben 10",
-      "discount_pct": 65,
-      "final_price": "$8.74",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/703180/",
-      "review_label": "Mostly Positive",
-      "review_pct": 77,
-      "review_count": 448
     },
     {
       "appid": "1689620",
@@ -531,48 +355,15 @@
       "review_count": 2744
     },
     {
-      "appid": "1390410",
-      "name": "Midnight Fight Express",
+      "appid": "572220",
+      "name": "MageQuit",
       "discount_pct": 60,
-      "final_price": "$7.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1390410/",
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/572220/",
       "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 1989
-    },
-    {
-      "appid": "1374970",
-      "name": "Moonscars",
-      "discount_pct": 60,
-      "final_price": "$7.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1374970/",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 1217
-    },
-    {
-      "appid": "447290",
-      "name": "Redeemer: Enhanced Edition",
-      "discount_pct": 60,
-      "final_price": "$4.80",
-      "original_price": "$11.99",
-      "url": "https://store.steampowered.com/app/447290/",
-      "review_label": "Very Positive",
-      "review_pct": 86,
-      "review_count": 872
-    },
-    {
-      "appid": "1247160",
-      "name": "WarDogs: Red's Return",
-      "discount_pct": 60,
-      "final_price": "$1.59",
-      "original_price": "$3.99",
-      "url": "https://store.steampowered.com/app/1247160/",
-      "review_label": "Positive",
-      "review_pct": 85,
-      "review_count": 40
+      "review_pct": 94,
+      "review_count": 1032
     },
     {
       "appid": "1028130",
@@ -584,17 +375,6 @@
       "review_label": "Mixed",
       "review_pct": 51,
       "review_count": 149
-    },
-    {
-      "appid": "1102650",
-      "name": "Neon City Riders",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1102650/",
-      "review_label": "Mostly Positive",
-      "review_pct": 77,
-      "review_count": 44
     },
     {
       "appid": "1447570",
