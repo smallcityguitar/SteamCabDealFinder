@@ -170,14 +170,21 @@ def fetch_fighting_specials(cfg: dict) -> list[dict]:
 # Secondary verification: Steam's search tag filter matches ANY tag a game
 # has, even one applied by a handful of users and buried in a long list
 # (e.g. Star Wars Jedi: Fallen Order and Ghostrunner both turn up under the
-# "Fighting" tag despite being action-adventure games). To weed those out,
-# check each *candidate's* own store page and only keep it if one of the
-# core fighting-game tags is actually among its top, prominently-displayed
-# tags - the ones Steam shows directly under the game's description.
+# "Fighting" tag despite being action-adventure games). Worse, plain
+# "Fighting" is itself too broad even when genuinely a top tag - For Honor
+# is legitimately tagged "Fighting" prominently but is a third-person melee
+# action game, not a traditional fighter. So instead of checking for
+# "Fighting" at all, check each *candidate's* own store page for the more
+# precise sub-genre tags ("2D Fighter" / "3D Fighter") among its top,
+# prominently-displayed tags - the ones Steam shows directly under the
+# game's description. Verified against a reference list of ~18 traditional
+# fighting games (Street Fighter 6, Tekken 8, Guilty Gear, BlazBlue, etc.)
+# which all carry one of these two tags; For Honor, Jedi: Fallen Order, and
+# Ghostrunner carry neither.
 # ---------------------------------------------------------------------------
 
-FIGHTING_VERIFY_TAGS = {"Fighting", "2D Fighter", "3D Fighter"}
-VERIFY_TOP_N_TAGS = 10
+FIGHTING_VERIFY_TAGS = {"2D Fighter", "3D Fighter"}
+VERIFY_TOP_N_TAGS = 15
 
 # Cookies to skip the mature-content interstitial some game pages show,
 # which would otherwise hide the tag list behind an age-check page.
