@@ -22,13 +22,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run deal check
+      - name: Generate deal data and results page
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}     # optional, defaults to https://ntfy.sh
           MIN_DISCOUNT: ${{ secrets.MIN_DISCOUNT }}   # optional, defaults to 60
           PAGES_URL: ${{ secrets.PAGES_URL }}         # optional, auto-detected from repo if unset
-        run: python fighting_deals.py
+        run: python fighting_deals.py --generate-only
 
       - name: Save updated state and results page
         run: |
@@ -39,3 +39,22 @@ jobs:
             git commit -m "Update deal state and results page"
             git push
           fi
+
+      - name: Wait for GitHub Pages to redeploy
+        # A blind wait rather than polling the Pages API - simple and reliable
+        # enough for this project. Only matters if something actually changed;
+        # if nothing did (no notification pending anyway), no need to wait.
+        run: |
+          if [ -f pending_notification.json ]; then
+            echo "Deal set changed - giving GitHub Pages time to redeploy before notifying..."
+            sleep 90
+          else
+            echo "Nothing changed, skipping the wait."
+          fi
+
+      - name: Send notification (only after the page has had time to update)
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          PAGES_URL: ${{ secrets.PAGES_URL }}
+        run: python fighting_deals.py --send-pending
