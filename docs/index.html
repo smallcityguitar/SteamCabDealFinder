@@ -23,6 +23,9 @@
   .orig { color: #9aa0a6; text-decoration: line-through; margin-right: 6px; }
   .empty { color: #9aa0a6; padding: 24px 8px; }
   .table-wrap { overflow-x: auto; }
+  .game-cell { display: flex; align-items: center; gap: 10px; }
+  .thumb { width: 120px; height: 56px; object-fit: cover; border-radius: 4px;
+           flex-shrink: 0; background: #1c1f26; }
 </style>
 </head>
 <body>
@@ -45,7 +48,7 @@
 </div>
 <script>
 let deals = [];
-let sortKey = "discount_pct";
+let sortKey = "review_count";
 let sortAsc = false;
 
 function render() {
@@ -71,7 +74,13 @@ function render() {
       : "—";
     const reviewCount = g.review_count ? g.review_count.toLocaleString() : "—";
     tr.innerHTML = `
-      <td><a href="${g.url}" target="_blank" rel="noopener">${g.name}</a></td>
+      <td>
+        <div class="game-cell">
+          <img class="thumb" src="${g.header_image || ""}" alt="" loading="lazy"
+               onerror="this.style.display='none'">
+          <a href="${g.url}" target="_blank" rel="noopener">${g.name}</a>
+        </div>
+      </td>
       <td class="discount">-${g.discount_pct}%</td>
       <td><span class="orig">${g.original_price}</span>${g.final_price}</td>
       <td>${rating}</td>
