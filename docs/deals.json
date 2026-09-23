@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-09-23T02:04:36.392110+00:00",
+  "updated_at": "2026-09-23T10:22:58.576003+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "991560",
-      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
-      "discount_pct": 90,
-      "final_price": "$7.99",
-      "original_price": "$79.99",
-      "url": "https://store.steampowered.com/app/991560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 1695
-    },
     {
       "appid": "263720",
       "name": "Brawlout",
@@ -25,6 +13,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 74,
       "review_count": 524
+    },
+    {
+      "appid": "991560",
+      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+      "discount_pct": 90,
+      "final_price": "$7.99",
+      "original_price": "$79.99",
+      "url": "https://store.steampowered.com/app/991560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 1696
     },
     {
       "appid": "658500",
@@ -75,16 +75,16 @@
       "review_count": 641
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
+      "appid": "999660",
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
       "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 892
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/999660/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 372
     },
     {
       "appid": "222420",
@@ -99,16 +99,16 @@
       "review_count": 703
     },
     {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
       "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 372
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 892
     },
     {
       "appid": "366240",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26261
+      "review_count": 26263
     },
     {
       "appid": "544750",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5786
+      "review_count": 5787
     },
     {
       "appid": "989550",
@@ -348,7 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1846
+      "review_count": 1847
     },
     {
       "appid": "1689620",
@@ -360,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2746
+      "review_count": 2747
     },
     {
       "appid": "572220",
