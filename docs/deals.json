@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-23T10:22:58.576003+00:00",
+  "updated_at": "2026-09-23T15:40:44.347532+00:00",
   "min_discount": 60,
   "deals": [
+    {
+      "appid": "991560",
+      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+      "discount_pct": 90,
+      "final_price": "$7.99",
+      "original_price": "$79.99",
+      "url": "https://store.steampowered.com/app/991560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 1697
+    },
     {
       "appid": "263720",
       "name": "Brawlout",
@@ -13,18 +25,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 74,
       "review_count": 524
-    },
-    {
-      "appid": "991560",
-      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
-      "discount_pct": 90,
-      "final_price": "$7.99",
-      "original_price": "$79.99",
-      "url": "https://store.steampowered.com/app/991560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 1696
     },
     {
       "appid": "658500",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/425220/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 79,
-      "review_count": 905
+      "review_count": 906
     },
     {
       "appid": "571260",
@@ -75,16 +75,16 @@
       "review_count": 641
     },
     {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
       "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 372
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 892
     },
     {
       "appid": "222420",
@@ -99,16 +99,16 @@
       "review_count": 703
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
+      "appid": "999660",
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
       "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 892
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/999660/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 372
     },
     {
       "appid": "366240",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26263
+      "review_count": 26262
     },
     {
       "appid": "544750",
@@ -252,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2126
+      "review_count": 2127
     },
     {
       "appid": "1891090",
@@ -279,16 +279,16 @@
       "review_count": 67
     },
     {
-      "appid": "4718030",
-      "name": "Goof Off",
-      "discount_pct": 75,
-      "final_price": "$2.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/4718030/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4718030/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
+      "appid": "1372280",
+      "name": "MELTY BLOOD: TYPE LUMINA",
+      "discount_pct": 70,
+      "final_price": "$14.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372280/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 5293
     },
     {
       "appid": "1020790",
@@ -301,18 +301,6 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 1453
-    },
-    {
-      "appid": "1372280",
-      "name": "MELTY BLOOD: TYPE LUMINA",
-      "discount_pct": 70,
-      "final_price": "$14.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1372280/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 5293
     },
     {
       "appid": "585190",
