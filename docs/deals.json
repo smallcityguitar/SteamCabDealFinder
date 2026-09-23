@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:40:44.347532+00:00",
+  "updated_at": "2026-09-23T20:46:17.111753+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -63,18 +63,6 @@
       "review_count": 906
     },
     {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-      "discount_pct": 85,
-      "final_price": "$11.24",
-      "original_price": "$74.99",
-      "url": "https://store.steampowered.com/app/571260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 641
-    },
-    {
       "appid": "794580",
       "name": "SNK HEROINES Tag Team Frenzy",
       "discount_pct": 85,
@@ -87,16 +75,16 @@
       "review_count": 892
     },
     {
-      "appid": "222420",
-      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
-      "final_price": "$2.24",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/222420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
+      "final_price": "$11.24",
+      "original_price": "$74.99",
+      "url": "https://store.steampowered.com/app/571260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 703
+      "review_pct": 82,
+      "review_count": 641
     },
     {
       "appid": "999660",
@@ -111,6 +99,18 @@
       "review_count": 372
     },
     {
+      "appid": "222420",
+      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "discount_pct": 85,
+      "final_price": "$2.24",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/222420/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 703
+    },
+    {
       "appid": "366240",
       "name": "GAROU: MARK OF THE WOLVES",
       "discount_pct": 85,
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 927
+      "review_count": 928
     },
     {
       "appid": "702110",
@@ -156,7 +156,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5787
+      "review_count": 5788
+    },
+    {
+      "appid": "1372110",
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "discount_pct": 80,
+      "final_price": "$9.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372110/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 89,
+      "review_count": 5727
     },
     {
       "appid": "989550",
@@ -169,18 +181,6 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 296
-    },
-    {
-      "appid": "263620",
-      "name": "Mitsurugi Kamui Hikae",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/263620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/263620/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 1159
     },
     {
       "appid": "542240",
@@ -205,18 +205,6 @@
       "review_label": "Mixed",
       "review_pct": 60,
       "review_count": 20
-    },
-    {
-      "appid": "292480",
-      "name": "Magical Battle Festa",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/292480/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/292480/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 68,
-      "review_count": 264
     },
     {
       "appid": "1663320",
@@ -279,16 +267,16 @@
       "review_count": 67
     },
     {
-      "appid": "1372280",
-      "name": "MELTY BLOOD: TYPE LUMINA",
-      "discount_pct": 70,
-      "final_price": "$14.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1372280/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 5293
+      "appid": "4718030",
+      "name": "Goof Off",
+      "discount_pct": 75,
+      "final_price": "$2.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/4718030/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4718030/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
     },
     {
       "appid": "1020790",
@@ -301,6 +289,18 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 1453
+    },
+    {
+      "appid": "1372280",
+      "name": "MELTY BLOOD: TYPE LUMINA",
+      "discount_pct": 70,
+      "final_price": "$14.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372280/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 5294
     },
     {
       "appid": "585190",
@@ -363,18 +363,6 @@
       "review_count": 1032
     },
     {
-      "appid": "1028130",
-      "name": "Gamble Fight Plus",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1028130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 51,
-      "review_count": 149
-    },
-    {
       "appid": "2249070",
       "name": "Strip Fighter ZERO",
       "discount_pct": 60,
@@ -385,6 +373,18 @@
       "review_label": "Mixed",
       "review_pct": 59,
       "review_count": 27
+    },
+    {
+      "appid": "1028130",
+      "name": "Gamble Fight Plus",
+      "discount_pct": 60,
+      "final_price": "$3.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1028130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 51,
+      "review_count": 149
     },
     {
       "appid": "1447570",
