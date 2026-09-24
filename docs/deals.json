@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T20:46:17.111753+00:00",
+  "updated_at": "2026-09-24T01:52:50.544663+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
       "review_label": "Mixed",
       "review_pct": 53,
-      "review_count": 1697
+      "review_count": 1698
     },
     {
       "appid": "263720",
@@ -75,16 +75,16 @@
       "review_count": 892
     },
     {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
+      "appid": "222420",
+      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
       "discount_pct": 85,
-      "final_price": "$11.24",
-      "original_price": "$74.99",
-      "url": "https://store.steampowered.com/app/571260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
+      "final_price": "$2.24",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/222420/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 641
+      "review_pct": 92,
+      "review_count": 703
     },
     {
       "appid": "999660",
@@ -99,16 +99,16 @@
       "review_count": 372
     },
     {
-      "appid": "222420",
-      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
-      "final_price": "$2.24",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/222420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
+      "final_price": "$11.24",
+      "original_price": "$74.99",
+      "url": "https://store.steampowered.com/app/571260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 703
+      "review_pct": 82,
+      "review_count": 641
     },
     {
       "appid": "366240",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26262
+      "review_count": 26264
     },
     {
       "appid": "544750",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5788
+      "review_count": 5787
     },
     {
       "appid": "1372110",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5727
+      "review_count": 5728
     },
     {
       "appid": "989550",
@@ -279,6 +279,18 @@
       "review_count": 0
     },
     {
+      "appid": "1372280",
+      "name": "MELTY BLOOD: TYPE LUMINA",
+      "discount_pct": 70,
+      "final_price": "$14.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372280/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 5296
+    },
+    {
       "appid": "1020790",
       "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
       "discount_pct": 70,
@@ -289,18 +301,6 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 1453
-    },
-    {
-      "appid": "1372280",
-      "name": "MELTY BLOOD: TYPE LUMINA",
-      "discount_pct": 70,
-      "final_price": "$14.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1372280/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 5294
     },
     {
       "appid": "585190",
