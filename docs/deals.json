@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:00:55.189085+00:00",
+  "updated_at": "2026-09-24T20:52:10.061540+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -63,6 +63,18 @@
       "review_count": 906
     },
     {
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
+      "discount_pct": 85,
+      "final_price": "$13.49",
+      "original_price": "$89.99",
+      "url": "https://store.steampowered.com/app/571260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 640
+    },
+    {
       "appid": "794580",
       "name": "SNK HEROINES Tag Team Frenzy",
       "discount_pct": 85,
@@ -73,18 +85,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 892
-    },
-    {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-      "discount_pct": 85,
-      "final_price": "$13.49",
-      "original_price": "$89.99",
-      "url": "https://store.steampowered.com/app/571260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 641
     },
     {
       "appid": "1076550",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5787
+      "review_count": 5788
     },
     {
       "appid": "1372110",
@@ -255,16 +255,16 @@
       "review_count": 0
     },
     {
-      "appid": "1372280",
-      "name": "MELTY BLOOD: TYPE LUMINA",
+      "appid": "1602010",
+      "name": "Persona 4 Arena Ultimax",
       "discount_pct": 70,
-      "final_price": "$14.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1372280/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "final_price": "$8.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1602010/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 5296
+      "review_pct": 87,
+      "review_count": 2579
     },
     {
       "appid": "1020790",
@@ -277,6 +277,18 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 1453
+    },
+    {
+      "appid": "1372280",
+      "name": "MELTY BLOOD: TYPE LUMINA",
+      "discount_pct": 70,
+      "final_price": "$14.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372280/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 5296
     },
     {
       "appid": "585190",
@@ -303,18 +315,6 @@
       "review_count": 42
     },
     {
-      "appid": "1835240",
-      "name": "Spiritfall",
-      "discount_pct": 66,
-      "final_price": "$6.79",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1835240/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 1847
-    },
-    {
       "appid": "1689620",
       "name": "BLEACH Rebirth of Souls",
       "discount_pct": 60,
@@ -325,6 +325,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 2747
+    },
+    {
+      "appid": "1451190",
+      "name": "Undisputed",
+      "discount_pct": 60,
+      "final_price": "$19.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1451190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 58,
+      "review_count": 13912
     },
     {
       "appid": "572220",
@@ -339,30 +351,6 @@
       "review_count": 1032
     },
     {
-      "appid": "2249070",
-      "name": "Strip Fighter ZERO",
-      "discount_pct": 60,
-      "final_price": "$5.19",
-      "original_price": "$12.99",
-      "url": "https://store.steampowered.com/app/2249070/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2249070/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 59,
-      "review_count": 27
-    },
-    {
-      "appid": "1028130",
-      "name": "Gamble Fight Plus",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1028130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 51,
-      "review_count": 149
-    },
-    {
       "appid": "1447570",
       "name": "Monkey King vs Transformers",
       "discount_pct": 60,
@@ -373,18 +361,6 @@
       "review_label": "Positive",
       "review_pct": 90,
       "review_count": 10
-    },
-    {
-      "appid": "1924820",
-      "name": "StudioS Fighters: Climax Champions",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1924820/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1924820/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 76,
-      "review_count": 13
     }
   ]
 }
