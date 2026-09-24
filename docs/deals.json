@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:38:30.914672+00:00",
+  "updated_at": "2026-09-24T16:00:55.189085+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26265
+      "review_count": 26266
     },
     {
       "appid": "544750",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5731
+      "review_count": 5732
     },
     {
       "appid": "989550",
@@ -327,18 +327,6 @@
       "review_count": 2747
     },
     {
-      "appid": "2249070",
-      "name": "Strip Fighter ZERO",
-      "discount_pct": 60,
-      "final_price": "$5.19",
-      "original_price": "$12.99",
-      "url": "https://store.steampowered.com/app/2249070/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2249070/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 59,
-      "review_count": 27
-    },
-    {
       "appid": "572220",
       "name": "MageQuit",
       "discount_pct": 60,
@@ -349,6 +337,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 1032
+    },
+    {
+      "appid": "2249070",
+      "name": "Strip Fighter ZERO",
+      "discount_pct": 60,
+      "final_price": "$5.19",
+      "original_price": "$12.99",
+      "url": "https://store.steampowered.com/app/2249070/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2249070/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 59,
+      "review_count": 27
     },
     {
       "appid": "1028130",
