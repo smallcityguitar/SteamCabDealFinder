@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-09-24T01:52:50.544663+00:00",
+  "updated_at": "2026-09-24T10:38:30.914672+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "991560",
-      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
-      "discount_pct": 90,
-      "final_price": "$7.99",
-      "original_price": "$79.99",
-      "url": "https://store.steampowered.com/app/991560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 1698
-    },
     {
       "appid": "263720",
       "name": "Brawlout",
@@ -25,6 +13,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 74,
       "review_count": 524
+    },
+    {
+      "appid": "991560",
+      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+      "discount_pct": 90,
+      "final_price": "$7.99",
+      "original_price": "$79.99",
+      "url": "https://store.steampowered.com/app/991560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 1698
     },
     {
       "appid": "658500",
@@ -66,8 +66,8 @@
       "appid": "794580",
       "name": "SNK HEROINES Tag Team Frenzy",
       "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
+      "final_price": "$8.99",
+      "original_price": "$59.99",
       "url": "https://store.steampowered.com/app/794580/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
       "review_label": "Mostly Positive",
@@ -75,35 +75,11 @@
       "review_count": 892
     },
     {
-      "appid": "222420",
-      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
-      "discount_pct": 85,
-      "final_price": "$2.24",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/222420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 703
-    },
-    {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
-      "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 372
-    },
-    {
       "appid": "571260",
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
-      "final_price": "$11.24",
-      "original_price": "$74.99",
+      "final_price": "$13.49",
+      "original_price": "$89.99",
       "url": "https://store.steampowered.com/app/571260/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
       "review_label": "Very Positive",
@@ -111,28 +87,28 @@
       "review_count": 641
     },
     {
-      "appid": "366240",
-      "name": "GAROU: MARK OF THE WOLVES",
+      "appid": "1076550",
+      "name": "SAMURAI SHODOWN V SPECIAL / \u30b5\u30e0\u30e9\u30a4\u30b9\u30d4\u30ea\u30c3\u30c4\u96f6\u30b9\u30da\u30b7\u30e3\u30eb",
       "discount_pct": 85,
       "final_price": "$1.49",
       "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/366240/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 928
-    },
-    {
-      "appid": "702110",
-      "name": "THE LAST BLADE 2",
-      "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/702110/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702110/header.jpg",
+      "url": "https://store.steampowered.com/app/1076550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1076550/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 374
+      "review_count": 523
+    },
+    {
+      "appid": "465840",
+      "name": "THE LAST BLADE",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/465840/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/465840/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 78,
+      "review_count": 178
     },
     {
       "appid": "678950",
@@ -144,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26264
+      "review_count": 26265
     },
     {
       "appid": "544750",
@@ -168,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5728
+      "review_count": 5731
     },
     {
       "appid": "989550",
@@ -222,13 +198,13 @@
       "appid": "1498570",
       "name": "THE KING OF FIGHTERS XV",
       "discount_pct": 75,
-      "final_price": "$7.49",
-      "original_price": "$29.99",
+      "final_price": "$9.99",
+      "original_price": "$39.99",
       "url": "https://store.steampowered.com/app/1498570/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2768
+      "review_count": 2769
     },
     {
       "appid": "1877020",
@@ -351,18 +327,6 @@
       "review_count": 2747
     },
     {
-      "appid": "572220",
-      "name": "MageQuit",
-      "discount_pct": 60,
-      "final_price": "$5.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/572220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/572220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1032
-    },
-    {
       "appid": "2249070",
       "name": "Strip Fighter ZERO",
       "discount_pct": 60,
@@ -373,6 +337,18 @@
       "review_label": "Mixed",
       "review_pct": 59,
       "review_count": 27
+    },
+    {
+      "appid": "572220",
+      "name": "MageQuit",
+      "discount_pct": 60,
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/572220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/572220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1032
     },
     {
       "appid": "1028130",
