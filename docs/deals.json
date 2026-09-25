@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T02:09:24.161184+00:00",
+  "updated_at": "2026-09-25T10:41:42.563757+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1655
+      "review_count": 1656
     },
     {
       "appid": "425220",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26266
+      "review_count": 26269
     },
     {
       "appid": "544750",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5732
+      "review_count": 5733
     },
     {
       "appid": "989550",
@@ -276,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1453
+      "review_count": 1454
     },
     {
       "appid": "1372280",
@@ -315,18 +315,6 @@
       "review_count": 42
     },
     {
-      "appid": "1689620",
-      "name": "BLEACH Rebirth of Souls",
-      "discount_pct": 60,
-      "final_price": "$33.99",
-      "original_price": "$84.99",
-      "url": "https://store.steampowered.com/app/1689620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 2749
-    },
-    {
       "appid": "1451190",
       "name": "Undisputed",
       "discount_pct": 60,
@@ -336,7 +324,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13912
+      "review_count": 13913
+    },
+    {
+      "appid": "1689620",
+      "name": "BLEACH Rebirth of Souls",
+      "discount_pct": 60,
+      "final_price": "$33.99",
+      "original_price": "$84.99",
+      "url": "https://store.steampowered.com/app/1689620/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 2750
     },
     {
       "appid": "572220",
