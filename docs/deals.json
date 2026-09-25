@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-09-25T10:41:42.563757+00:00",
+  "updated_at": "2026-09-25T16:01:53.179236+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "263720",
-      "name": "Brawlout",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/263720/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/263720/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 74,
-      "review_count": 524
-    },
     {
       "appid": "991560",
       "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
@@ -25,6 +13,18 @@
       "review_label": "Mixed",
       "review_pct": 53,
       "review_count": 1699
+    },
+    {
+      "appid": "263720",
+      "name": "Brawlout",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/263720/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/263720/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 74,
+      "review_count": 524
     },
     {
       "appid": "658500",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26269
+      "review_count": 26270
     },
     {
       "appid": "544750",
