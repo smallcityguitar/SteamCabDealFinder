@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-09-25T16:01:53.179236+00:00",
+  "updated_at": "2026-09-25T20:49:34.284688+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "991560",
-      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
-      "discount_pct": 90,
-      "final_price": "$7.99",
-      "original_price": "$79.99",
-      "url": "https://store.steampowered.com/app/991560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 1699
-    },
     {
       "appid": "263720",
       "name": "Brawlout",
@@ -25,6 +13,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 74,
       "review_count": 524
+    },
+    {
+      "appid": "991560",
+      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+      "discount_pct": 90,
+      "final_price": "$7.99",
+      "original_price": "$79.99",
+      "url": "https://store.steampowered.com/app/991560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 1699
     },
     {
       "appid": "658500",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26270
+      "review_count": 26271
     },
     {
       "appid": "544750",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5733
+      "review_count": 5734
     },
     {
       "appid": "989550",
@@ -349,6 +349,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 1033
+    },
+    {
+      "appid": "594680",
+      "name": "Shuyan Saga\u2122",
+      "discount_pct": 60,
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/594680/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/594680/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 86,
+      "review_count": 261
     },
     {
       "appid": "1447570",
