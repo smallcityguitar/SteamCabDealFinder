@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T15:13:55.647659+00:00",
+  "updated_at": "2026-09-26T20:17:18.035357+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -111,6 +111,18 @@
       "review_count": 178
     },
     {
+      "appid": "1522220",
+      "name": "War-Gene",
+      "discount_pct": 85,
+      "final_price": "$1.19",
+      "original_price": "$7.99",
+      "url": "https://store.steampowered.com/app/1522220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1522220/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
       "appid": "678950",
       "name": "DRAGON BALL FighterZ",
       "discount_pct": 84,
@@ -120,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26272
+      "review_count": 26273
     },
     {
       "appid": "544750",
@@ -132,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5789
+      "review_count": 5787
     },
     {
       "appid": "1372110",
@@ -216,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2128
+      "review_count": 2130
     },
     {
       "appid": "1891090",
@@ -336,7 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2753
+      "review_count": 2754
     },
     {
       "appid": "572220",
