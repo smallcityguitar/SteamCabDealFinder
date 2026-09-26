@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-25T20:49:34.284688+00:00",
+  "updated_at": "2026-09-26T02:15:08.280471+00:00",
   "min_discount": 60,
   "deals": [
+    {
+      "appid": "991560",
+      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+      "discount_pct": 90,
+      "final_price": "$7.99",
+      "original_price": "$79.99",
+      "url": "https://store.steampowered.com/app/991560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 1700
+    },
     {
       "appid": "263720",
       "name": "Brawlout",
@@ -13,18 +25,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 74,
       "review_count": 524
-    },
-    {
-      "appid": "991560",
-      "name": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
-      "discount_pct": 90,
-      "final_price": "$7.99",
-      "original_price": "$79.99",
-      "url": "https://store.steampowered.com/app/991560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 1699
     },
     {
       "appid": "658500",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26271
+      "review_count": 26272
     },
     {
       "appid": "544750",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5790
+      "review_count": 5789
     },
     {
       "appid": "1372110",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5734
+      "review_count": 5735
     },
     {
       "appid": "989550",
@@ -324,7 +324,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13913
+      "review_count": 13915
     },
     {
       "appid": "1689620",
@@ -336,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2750
+      "review_count": 2752
     },
     {
       "appid": "572220",
