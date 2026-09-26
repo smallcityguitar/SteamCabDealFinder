@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T02:15:08.280471+00:00",
+  "updated_at": "2026-09-26T10:25:15.635153+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1656
+      "review_count": 1655
     },
     {
       "appid": "425220",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5735
+      "review_count": 5737
     },
     {
       "appid": "989550",
@@ -216,19 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2127
-    },
-    {
-      "appid": "1891090",
-      "name": "Final Vendetta",
-      "discount_pct": 75,
-      "final_price": "$6.24",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/1891090/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1891090/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 383
+      "review_count": 2128
     },
     {
       "appid": "1236490",
@@ -241,6 +229,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 67
+    },
+    {
+      "appid": "1891090",
+      "name": "Final Vendetta",
+      "discount_pct": 75,
+      "final_price": "$6.24",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/1891090/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1891090/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 384
     },
     {
       "appid": "4718030",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5294
+      "review_count": 5297
     },
     {
       "appid": "585190",
@@ -324,7 +324,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13915
+      "review_count": 13916
     },
     {
       "appid": "1689620",
