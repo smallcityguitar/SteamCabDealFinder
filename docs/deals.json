@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T20:17:18.035357+00:00",
+  "updated_at": "2026-09-27T02:08:56.203804+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/263720/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 74,
-      "review_count": 524
+      "review_count": 525
     },
     {
       "appid": "658500",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26273
+      "review_count": 26272
     },
     {
       "appid": "544750",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5738
+      "review_count": 5741
     },
     {
       "appid": "989550",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2769
+      "review_count": 2770
     },
     {
       "appid": "1877020",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2130
+      "review_count": 2133
     },
     {
       "appid": "1891090",
@@ -267,18 +267,6 @@
       "review_count": 0
     },
     {
-      "appid": "1602010",
-      "name": "Persona 4 Arena Ultimax",
-      "discount_pct": 70,
-      "final_price": "$8.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/1602010/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 2580
-    },
-    {
       "appid": "1020790",
       "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
       "discount_pct": 70,
@@ -289,6 +277,18 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 1455
+    },
+    {
+      "appid": "1602010",
+      "name": "Persona 4 Arena Ultimax",
+      "discount_pct": 70,
+      "final_price": "$8.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1602010/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 2581
     },
     {
       "appid": "1372280",
@@ -336,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13917
+      "review_count": 13919
     },
     {
       "appid": "1689620",
