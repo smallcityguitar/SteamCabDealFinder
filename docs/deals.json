@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:56:09.990298+00:00",
+  "updated_at": "2026-09-27T15:54:28.364722+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -75,18 +75,6 @@
       "review_count": 640
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
-      "discount_pct": 85,
-      "final_price": "$8.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 892
-    },
-    {
       "appid": "1076550",
       "name": "SAMURAI SHODOWN V SPECIAL / \u30b5\u30e0\u30e9\u30a4\u30b9\u30d4\u30ea\u30c3\u30c4\u96f6\u30b9\u30da\u30b7\u30e3\u30eb",
       "discount_pct": 85,
@@ -97,6 +85,18 @@
       "review_label": "Very Positive",
       "review_pct": 90,
       "review_count": 523
+    },
+    {
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "discount_pct": 85,
+      "final_price": "$8.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 894
     },
     {
       "appid": "465840",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26271
+      "review_count": 26272
     },
     {
       "appid": "544750",
@@ -327,6 +327,18 @@
       "review_count": 42
     },
     {
+      "appid": "1451190",
+      "name": "Undisputed",
+      "discount_pct": 60,
+      "final_price": "$19.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1451190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 58,
+      "review_count": 13921
+    },
+    {
       "appid": "1689620",
       "name": "BLEACH Rebirth of Souls",
       "discount_pct": 60,
@@ -337,18 +349,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 2755
-    },
-    {
-      "appid": "1451190",
-      "name": "Undisputed",
-      "discount_pct": 60,
-      "final_price": "$19.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1451190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 58,
-      "review_count": 13920
     },
     {
       "appid": "572220",
