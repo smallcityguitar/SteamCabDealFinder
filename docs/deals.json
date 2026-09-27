@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T02:08:56.203804+00:00",
+  "updated_at": "2026-09-27T10:56:09.990298+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26272
+      "review_count": 26271
     },
     {
       "appid": "544750",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5787
+      "review_count": 5788
     },
     {
       "appid": "1372110",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5741
+      "review_count": 5744
     },
     {
       "appid": "989550",
@@ -267,18 +267,6 @@
       "review_count": 0
     },
     {
-      "appid": "1020790",
-      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
-      "discount_pct": 70,
-      "final_price": "$25.49",
-      "original_price": "$84.99",
-      "url": "https://store.steampowered.com/app/1020790/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 57,
-      "review_count": 1455
-    },
-    {
       "appid": "1602010",
       "name": "Persona 4 Arena Ultimax",
       "discount_pct": 70,
@@ -291,6 +279,18 @@
       "review_count": 2581
     },
     {
+      "appid": "1020790",
+      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "discount_pct": 70,
+      "final_price": "$25.49",
+      "original_price": "$84.99",
+      "url": "https://store.steampowered.com/app/1020790/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 57,
+      "review_count": 1454
+    },
+    {
       "appid": "1372280",
       "name": "MELTY BLOOD: TYPE LUMINA",
       "discount_pct": 70,
@@ -300,7 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5298
+      "review_count": 5299
     },
     {
       "appid": "585190",
@@ -327,18 +327,6 @@
       "review_count": 42
     },
     {
-      "appid": "1451190",
-      "name": "Undisputed",
-      "discount_pct": 60,
-      "final_price": "$19.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1451190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 58,
-      "review_count": 13919
-    },
-    {
       "appid": "1689620",
       "name": "BLEACH Rebirth of Souls",
       "discount_pct": 60,
@@ -348,7 +336,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2754
+      "review_count": 2755
+    },
+    {
+      "appid": "1451190",
+      "name": "Undisputed",
+      "discount_pct": 60,
+      "final_price": "$19.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1451190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 58,
+      "review_count": 13920
     },
     {
       "appid": "572220",
