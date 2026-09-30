@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T11:28:43.425594+00:00",
+  "updated_at": "2026-09-30T17:06:19.217956+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -99,18 +99,6 @@
       "review_count": 179
     },
     {
-      "appid": "1522220",
-      "name": "War-Gene",
-      "discount_pct": 85,
-      "final_price": "$1.19",
-      "original_price": "$7.99",
-      "url": "https://store.steampowered.com/app/1522220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1522220/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
       "appid": "678950",
       "name": "DRAGON BALL FighterZ",
       "discount_pct": 84,
@@ -120,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26275
+      "review_count": 26276
     },
     {
       "appid": "544750",
@@ -144,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5761
+      "review_count": 5762
     },
     {
       "appid": "989550",
@@ -195,18 +183,6 @@
       "review_count": 2136
     },
     {
-      "appid": "1236490",
-      "name": "Bamerang",
-      "discount_pct": 75,
-      "final_price": "$1.24",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/1236490/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236490/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 67
-    },
-    {
       "appid": "1602010",
       "name": "Persona 4 Arena Ultimax",
       "discount_pct": 70,
@@ -216,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2583
+      "review_count": 2584
     },
     {
       "appid": "1020790",
@@ -255,18 +231,6 @@
       "review_count": 42
     },
     {
-      "appid": "1689620",
-      "name": "BLEACH Rebirth of Souls",
-      "discount_pct": 60,
-      "final_price": "$33.99",
-      "original_price": "$84.99",
-      "url": "https://store.steampowered.com/app/1689620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 2757
-    },
-    {
       "appid": "1451190",
       "name": "Undisputed",
       "discount_pct": 60,
@@ -277,6 +241,18 @@
       "review_label": "Mixed",
       "review_pct": 58,
       "review_count": 13925
+    },
+    {
+      "appid": "1689620",
+      "name": "BLEACH Rebirth of Souls",
+      "discount_pct": 60,
+      "final_price": "$33.99",
+      "original_price": "$84.99",
+      "url": "https://store.steampowered.com/app/1689620/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 2758
     },
     {
       "appid": "594680",
