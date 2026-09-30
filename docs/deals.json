@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:35:36.654636+00:00",
+  "updated_at": "2026-09-30T02:40:26.908466+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
       "review_label": "Mixed",
       "review_pct": 53,
-      "review_count": 1701
+      "review_count": 1702
     },
     {
       "appid": "658500",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2772
+      "review_count": 2773
     },
     {
       "appid": "1877020",
