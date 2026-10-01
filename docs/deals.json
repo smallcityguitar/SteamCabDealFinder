@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T02:44:38.519859+00:00",
+  "updated_at": "2026-10-01T11:56:33.676772+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26277
+      "review_count": 26278
     },
     {
       "appid": "544750",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5790
+      "review_count": 5791
     },
     {
       "appid": "1372110",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5763
+      "review_count": 5766
     },
     {
       "appid": "989550",
@@ -159,6 +159,18 @@
       "review_count": 20
     },
     {
+      "appid": "1498570",
+      "name": "THE KING OF FIGHTERS XV",
+      "discount_pct": 75,
+      "final_price": "$9.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/1498570/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 84,
+      "review_count": 2774
+    },
+    {
       "appid": "1877020",
       "name": "Jujutsu Kaisen Cursed Clash",
       "discount_pct": 75,
@@ -171,18 +183,6 @@
       "review_count": 2137
     },
     {
-      "appid": "1498570",
-      "name": "THE KING OF FIGHTERS XV",
-      "discount_pct": 75,
-      "final_price": "$9.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/1498570/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 84,
-      "review_count": 2773
-    },
-    {
       "appid": "1602010",
       "name": "Persona 4 Arena Ultimax",
       "discount_pct": 70,
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2585
+      "review_count": 2586
     },
     {
       "appid": "1020790",
