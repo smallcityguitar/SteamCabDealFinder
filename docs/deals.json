@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T21:35:53.440578+00:00",
+  "updated_at": "2026-10-01T02:44:38.519859+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
       "review_label": "Mixed",
       "review_pct": 53,
-      "review_count": 1702
+      "review_count": 1703
     },
     {
       "appid": "658500",
@@ -159,6 +159,18 @@
       "review_count": 20
     },
     {
+      "appid": "1877020",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "discount_pct": 75,
+      "final_price": "$19.99",
+      "original_price": "$79.99",
+      "url": "https://store.steampowered.com/app/1877020/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 2137
+    },
+    {
       "appid": "1498570",
       "name": "THE KING OF FIGHTERS XV",
       "discount_pct": 75,
@@ -169,18 +181,6 @@
       "review_label": "Very Positive",
       "review_pct": 84,
       "review_count": 2773
-    },
-    {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "discount_pct": 75,
-      "final_price": "$19.99",
-      "original_price": "$79.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2136
     },
     {
       "appid": "1602010",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1459
+      "review_count": 1460
     },
     {
       "appid": "585190",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2758
+      "review_count": 2759
     },
     {
       "appid": "1451190",
@@ -252,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13925
+      "review_count": 13926
     },
     {
       "appid": "594680",
