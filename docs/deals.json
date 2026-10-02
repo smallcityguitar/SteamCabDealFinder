@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T02:48:40.121212+00:00",
+  "updated_at": "2026-10-02T11:29:00.521464+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -15,18 +15,6 @@
       "review_count": 25984
     },
     {
-      "appid": "544750",
-      "name": "SOULCALIBUR VI",
-      "discount_pct": 90,
-      "final_price": "$5.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/544750/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 5791
-    },
-    {
       "appid": "627270",
       "name": "Injustice\u2122 2",
       "discount_pct": 90,
@@ -37,6 +25,18 @@
       "review_label": "Very Positive",
       "review_pct": 85,
       "review_count": 6927
+    },
+    {
+      "appid": "544750",
+      "name": "SOULCALIBUR VI",
+      "discount_pct": 90,
+      "final_price": "$5.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/544750/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 5792
     },
     {
       "appid": "245170",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5228
+      "review_count": 5229
     },
     {
       "appid": "586140",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4849
+      "review_count": 4851
     },
     {
       "appid": "389730",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31242
+      "review_count": 31243
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88169
+      "review_count": 88167
     },
     {
       "appid": "586200",
@@ -147,6 +147,18 @@
       "review_count": 3906
     },
     {
+      "appid": "1110100",
+      "name": "Power Rangers: Battle for the Grid",
+      "discount_pct": 85,
+      "final_price": "$2.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1110100/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 1476
+    },
+    {
       "appid": "571260",
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
@@ -159,18 +171,6 @@
       "review_count": 640
     },
     {
-      "appid": "1110100",
-      "name": "Power Rangers: Battle for the Grid",
-      "discount_pct": 85,
-      "final_price": "$2.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1110100/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 1474
-    },
-    {
       "appid": "678950",
       "name": "DRAGON BALL FighterZ",
       "discount_pct": 84,
@@ -180,19 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26283
-    },
-    {
-      "appid": "1372110",
-      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
-      "discount_pct": 80,
-      "final_price": "$9.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1372110/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 89,
-      "review_count": 5772
+      "review_count": 26284
     },
     {
       "appid": "1971870",
@@ -207,6 +195,18 @@
       "review_count": 17481
     },
     {
+      "appid": "1372110",
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "discount_pct": 80,
+      "final_price": "$9.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372110/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 89,
+      "review_count": 5774
+    },
+    {
       "appid": "307780",
       "name": "Mortal Kombat X",
       "discount_pct": 80,
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11858
+      "review_count": 11857
     },
     {
       "appid": "520440",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4631
+      "review_count": 4632
     },
     {
       "appid": "357190",
@@ -264,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40076
+      "review_count": 40073
     },
     {
       "appid": "411370",
@@ -300,7 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4010
+      "review_count": 4009
     },
     {
       "appid": "1004770",
@@ -312,7 +312,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 830
+      "review_count": 831
     },
     {
       "appid": "1877020",
@@ -336,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2587
+      "review_count": 2588
     },
     {
       "appid": "1372280",
@@ -384,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1462
+      "review_count": 1464
     },
     {
       "appid": "1685750",
@@ -420,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 17908
+      "review_count": 17910
     },
     {
       "appid": "1364780",
@@ -432,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20885
+      "review_count": 20886
     },
     {
       "appid": "3717070",
@@ -444,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1746
+      "review_count": 1747
     },
     {
       "appid": "1689620",
@@ -456,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2760
+      "review_count": 2762
     },
     {
       "appid": "1451190",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13927
+      "review_count": 13928
     },
     {
       "appid": "674940",
@@ -481,18 +481,6 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 52654
-    },
-    {
-      "appid": "1329500",
-      "name": "SpiderHeck",
-      "discount_pct": 60,
-      "final_price": "$5.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/1329500/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 2809
     },
     {
       "appid": "578620",
