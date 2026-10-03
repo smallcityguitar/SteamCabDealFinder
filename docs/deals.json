@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T10:44:27.115935+00:00",
+  "updated_at": "2026-10-03T15:19:14.658094+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 25984
+      "review_count": 25983
     },
     {
       "appid": "627270",
@@ -51,6 +51,18 @@
       "review_count": 11940
     },
     {
+      "appid": "425220",
+      "name": "One Piece Burning Blood",
+      "discount_pct": 90,
+      "final_price": "$4.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/425220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/425220/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 906
+    },
+    {
       "appid": "493840",
       "name": "Marvel vs. Capcom: Infinite",
       "discount_pct": 88,
@@ -87,18 +99,6 @@
       "review_count": 5229
     },
     {
-      "appid": "586140",
-      "name": "BlazBlue Centralfiction",
-      "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/586140/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 4855
-    },
-    {
       "appid": "389730",
       "name": "TEKKEN 7",
       "discount_pct": 85,
@@ -109,6 +109,18 @@
       "review_label": "Very Positive",
       "review_pct": 91,
       "review_count": 31242
+    },
+    {
+      "appid": "586140",
+      "name": "BlazBlue Centralfiction",
+      "discount_pct": 85,
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/586140/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 4855
     },
     {
       "appid": "586200",
@@ -132,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88179
+      "review_count": 88181
     },
     {
       "appid": "242700",
@@ -192,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17488
+      "review_count": 17491
     },
     {
       "appid": "1372110",
@@ -204,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5784
+      "review_count": 5786
     },
     {
       "appid": "307780",
@@ -216,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11860
+      "review_count": 11859
     },
     {
       "appid": "357190",
@@ -228,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4204
+      "review_count": 4205
     },
     {
       "appid": "520440",
@@ -264,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40078
+      "review_count": 40077
     },
     {
       "appid": "411370",
@@ -324,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2138
+      "review_count": 2139
     },
     {
       "appid": "1602010",
@@ -396,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 814
+      "review_count": 815
     },
     {
       "appid": "1546400",
@@ -420,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 17916
+      "review_count": 17917
     },
     {
       "appid": "1364780",
@@ -432,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20892
+      "review_count": 20893
     },
     {
       "appid": "3717070",
@@ -481,18 +493,6 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 52654
-    },
-    {
-      "appid": "578620",
-      "name": "GORN",
-      "discount_pct": 60,
-      "final_price": "$7.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/578620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/578620/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 6393
     },
     {
       "appid": "1329500",
