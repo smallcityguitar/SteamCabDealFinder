@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T15:19:14.658094+00:00",
+  "updated_at": "2026-10-03T20:17:48.570226+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31242
+      "review_count": 31244
     },
     {
       "appid": "586140",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4855
+      "review_count": 4856
     },
     {
       "appid": "586200",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88181
+      "review_count": 88183
     },
     {
       "appid": "242700",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17491
+      "review_count": 17492
     },
     {
       "appid": "1372110",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5786
+      "review_count": 5787
     },
     {
       "appid": "307780",
@@ -303,6 +303,18 @@
       "review_count": 2777
     },
     {
+      "appid": "348550",
+      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+      "discount_pct": 75,
+      "final_price": "$3.74",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/348550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 4011
+    },
+    {
       "appid": "1004770",
       "name": "Maiden and Spell",
       "discount_pct": 75,
@@ -313,18 +325,6 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
       "review_count": 831
-    },
-    {
-      "appid": "348550",
-      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
-      "discount_pct": 75,
-      "final_price": "$3.74",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/348550/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 97,
-      "review_count": 4010
     },
     {
       "appid": "1877020",
@@ -418,9 +418,9 @@
       "original_price": "$24.99",
       "url": "https://store.steampowered.com/app/1546400/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1959
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 1960
     },
     {
       "appid": "597170",
@@ -432,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 17917
+      "review_count": 17918
     },
     {
       "appid": "1364780",
@@ -456,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1755
+      "review_count": 1756
     },
     {
       "appid": "1689620",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2762
+      "review_count": 2763
     },
     {
       "appid": "1451190",
@@ -480,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13931
+      "review_count": 13930
     },
     {
       "appid": "674940",
@@ -492,7 +492,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52654
+      "review_count": 52655
     },
     {
       "appid": "1329500",
