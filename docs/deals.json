@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T02:35:00.061451+00:00",
+  "updated_at": "2026-10-03T10:44:27.115935+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 25985
+      "review_count": 25984
     },
     {
       "appid": "627270",
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11941
+      "review_count": 11940
     },
     {
       "appid": "493840",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1657
+      "review_count": 1658
     },
     {
       "appid": "45760",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5228
+      "review_count": 5229
     },
     {
       "appid": "586140",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4854
+      "review_count": 4855
     },
     {
       "appid": "389730",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88176
+      "review_count": 88179
     },
     {
       "appid": "242700",
@@ -156,7 +156,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1477
+      "review_count": 1476
+    },
+    {
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
+      "discount_pct": 85,
+      "final_price": "$13.49",
+      "original_price": "$89.99",
+      "url": "https://store.steampowered.com/app/571260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 641
     },
     {
       "appid": "678950",
@@ -168,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26286
+      "review_count": 26287
     },
     {
       "appid": "1971870",
@@ -180,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17486
+      "review_count": 17488
     },
     {
       "appid": "1372110",
@@ -192,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5780
+      "review_count": 5784
     },
     {
       "appid": "307780",
@@ -216,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4203
+      "review_count": 4204
     },
     {
       "appid": "520440",
@@ -252,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40076
+      "review_count": 40078
     },
     {
       "appid": "411370",
@@ -276,19 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2776
-    },
-    {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2137
+      "review_count": 2777
     },
     {
       "appid": "1004770",
@@ -315,6 +315,18 @@
       "review_count": 4010
     },
     {
+      "appid": "1877020",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1877020/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 2138
+    },
+    {
       "appid": "1602010",
       "name": "Persona 4 Arena Ultimax",
       "discount_pct": 70,
@@ -336,7 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5304
+      "review_count": 5305
     },
     {
       "appid": "502800",
@@ -348,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/502800/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1485
+      "review_count": 1486
     },
     {
       "appid": "2634890",
@@ -360,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1977
+      "review_count": 1978
     },
     {
       "appid": "1020790",
@@ -408,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 17915
+      "review_count": 17916
     },
     {
       "appid": "1364780",
@@ -432,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1753
+      "review_count": 1755
     },
     {
       "appid": "1689620",
@@ -456,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13930
+      "review_count": 13931
     },
     {
       "appid": "674940",
@@ -468,19 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52655
-    },
-    {
-      "appid": "1329500",
-      "name": "SpiderHeck",
-      "discount_pct": 60,
-      "final_price": "$5.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/1329500/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 2810
+      "review_count": 52654
     },
     {
       "appid": "578620",
@@ -493,6 +493,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 6393
+    },
+    {
+      "appid": "1329500",
+      "name": "SpiderHeck",
+      "discount_pct": 60,
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1329500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 2810
     }
   ]
 }
