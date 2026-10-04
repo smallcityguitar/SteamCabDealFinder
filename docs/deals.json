@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T16:04:01.587862+00:00",
+  "updated_at": "2026-10-04T20:34:20.053004+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6929
+      "review_count": 6928
     },
     {
       "appid": "245170",
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11940
+      "review_count": 11941
     },
     {
       "appid": "425220",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5229
+      "review_count": 5228
     },
     {
       "appid": "389730",
@@ -111,18 +111,6 @@
       "review_count": 4856
     },
     {
-      "appid": "976310,1054480,1273971,1449880",
-      "name": "Mortal Kombat 11 Ultimate",
-      "discount_pct": 85,
-      "final_price": "$8.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 88197
-    },
-    {
       "appid": "586200",
       "name": "Street Fighter 30th Anniversary Collection",
       "discount_pct": 85,
@@ -132,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1323
+      "review_count": 1324
     },
     {
       "appid": "242700",
@@ -145,6 +133,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 3906
+    },
+    {
+      "appid": "976310,1054480,1273971,1449880",
+      "name": "Mortal Kombat 11 Ultimate",
+      "discount_pct": 85,
+      "final_price": "$8.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 88200
     },
     {
       "appid": "571260",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1477
+      "review_count": 1478
     },
     {
       "appid": "678950",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26290
+      "review_count": 26291
     },
     {
       "appid": "1971870",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5792
+      "review_count": 5794
     },
     {
       "appid": "307780",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11860
+      "review_count": 11861
     },
     {
       "appid": "357190",
@@ -231,6 +231,18 @@
       "review_count": 4207
     },
     {
+      "appid": "702890",
+      "name": "BlazBlue: Cross Tag Battle",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/702890/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 2253
+    },
+    {
       "appid": "520440",
       "name": "GUILTY GEAR Xrd REV 2",
       "discount_pct": 80,
@@ -243,18 +255,6 @@
       "review_count": 4635
     },
     {
-      "appid": "702890",
-      "name": "BlazBlue: Cross Tag Battle",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/702890/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 2252
-    },
-    {
       "appid": "307780,347880,524620",
       "name": "Mortal Kombat XL",
       "discount_pct": 80,
@@ -264,19 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40084
-    },
-    {
-      "appid": "411370",
-      "name": "Melty Blood Actress Again Current Code",
-      "discount_pct": 80,
-      "final_price": "$4.99",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/411370/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1736
+      "review_count": 40086
     },
     {
       "appid": "1498570",
@@ -288,31 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2777
-    },
-    {
-      "appid": "1004770",
-      "name": "Maiden and Spell",
-      "discount_pct": 75,
-      "final_price": "$3.24",
-      "original_price": "$12.99",
-      "url": "https://store.steampowered.com/app/1004770/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 97,
-      "review_count": 833
-    },
-    {
-      "appid": "348550",
-      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
-      "discount_pct": 75,
-      "final_price": "$3.74",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/348550/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 97,
-      "review_count": 4011
+      "review_count": 2778
     },
     {
       "appid": "1877020",
@@ -327,16 +291,28 @@
       "review_count": 2140
     },
     {
-      "appid": "1372280",
-      "name": "MELTY BLOOD: TYPE LUMINA",
-      "discount_pct": 70,
-      "final_price": "$14.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1372280/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 5305
+      "appid": "1004770",
+      "name": "Maiden and Spell",
+      "discount_pct": 75,
+      "final_price": "$3.24",
+      "original_price": "$12.99",
+      "url": "https://store.steampowered.com/app/1004770/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 834
+    },
+    {
+      "appid": "348550",
+      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+      "discount_pct": 75,
+      "final_price": "$3.74",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/348550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 4011
     },
     {
       "appid": "1602010",
@@ -349,6 +325,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 2589
+    },
+    {
+      "appid": "1372280",
+      "name": "MELTY BLOOD: TYPE LUMINA",
+      "discount_pct": 70,
+      "final_price": "$14.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372280/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 5305
     },
     {
       "appid": "502800",
@@ -387,6 +375,18 @@
       "review_count": 1466
     },
     {
+      "appid": "1685750",
+      "name": "Capcom Fighting Collection",
+      "discount_pct": 67,
+      "final_price": "$9.89",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1685750/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 816
+    },
+    {
       "appid": "1546400",
       "name": "GigaBash",
       "discount_pct": 65,
@@ -396,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 1960
+      "review_count": 1961
     },
     {
       "appid": "597170",
@@ -408,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 17919
+      "review_count": 17920
     },
     {
       "appid": "1364780",
@@ -420,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20900
+      "review_count": 20901
     },
     {
       "appid": "3717070",
@@ -432,7 +432,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1763
+      "review_count": 1764
+    },
+    {
+      "appid": "1451190",
+      "name": "Undisputed",
+      "discount_pct": 60,
+      "final_price": "$19.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1451190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 58,
+      "review_count": 13932
     },
     {
       "appid": "1689620",
@@ -447,18 +459,6 @@
       "review_count": 2766
     },
     {
-      "appid": "1451190",
-      "name": "Undisputed",
-      "discount_pct": 60,
-      "final_price": "$19.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1451190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 58,
-      "review_count": 13931
-    },
-    {
       "appid": "674940",
       "name": "Stick Fight: The Game",
       "discount_pct": 60,
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52655
+      "review_count": 52653
     },
     {
       "appid": "1329500",
@@ -493,6 +493,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 792
+    },
+    {
+      "appid": "578620",
+      "name": "GORN",
+      "discount_pct": 60,
+      "final_price": "$7.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/578620/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/578620/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 6393
     }
   ]
 }
