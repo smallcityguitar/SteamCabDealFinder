@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T03:06:19.720188+00:00",
+  "updated_at": "2026-10-04T11:25:55.889878+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,19 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 25986
-    },
-    {
-      "appid": "627270",
-      "name": "Injustice\u2122 2",
-      "discount_pct": 90,
-      "final_price": "$4.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/627270/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 6929
+      "review_count": 25985
     },
     {
       "appid": "544750",
@@ -37,6 +25,18 @@
       "review_label": "Very Positive",
       "review_pct": 83,
       "review_count": 5792
+    },
+    {
+      "appid": "627270",
+      "name": "Injustice\u2122 2",
+      "discount_pct": 90,
+      "final_price": "$4.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/627270/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 6929
     },
     {
       "appid": "245170",
@@ -75,18 +75,6 @@
       "review_count": 1417
     },
     {
-      "appid": "1058450",
-      "name": "MY HERO ONE'S JUSTICE 2",
-      "discount_pct": 88,
-      "final_price": "$4.79",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/1058450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1658
-    },
-    {
       "appid": "45760",
       "name": "Ultra Street Fighter\u00ae IV",
       "discount_pct": 87,
@@ -108,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31246
+      "review_count": 31245
     },
     {
       "appid": "586140",
@@ -132,7 +120,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1322
+      "review_count": 1323
+    },
+    {
+      "appid": "976310,1054480,1273971,1449880",
+      "name": "Mortal Kombat 11 Ultimate",
+      "discount_pct": 85,
+      "final_price": "$8.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 88193
     },
     {
       "appid": "242700",
@@ -147,16 +147,16 @@
       "review_count": 3906
     },
     {
-      "appid": "976310,1054480,1273971,1449880",
-      "name": "Mortal Kombat 11 Ultimate",
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
-      "final_price": "$8.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "final_price": "$13.49",
+      "original_price": "$89.99",
+      "url": "https://store.steampowered.com/app/571260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 88192
+      "review_pct": 82,
+      "review_count": 641
     },
     {
       "appid": "1110100",
@@ -171,18 +171,6 @@
       "review_count": 1477
     },
     {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-      "discount_pct": 85,
-      "final_price": "$13.49",
-      "original_price": "$89.99",
-      "url": "https://store.steampowered.com/app/571260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 641
-    },
-    {
       "appid": "678950",
       "name": "DRAGON BALL FighterZ",
       "discount_pct": 84,
@@ -192,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26286
+      "review_count": 26287
     },
     {
       "appid": "1971870",
@@ -204,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17494
+      "review_count": 17495
     },
     {
       "appid": "1372110",
@@ -216,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5788
+      "review_count": 5790
     },
     {
       "appid": "307780",
@@ -276,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40078
+      "review_count": 40081
     },
     {
       "appid": "411370",
@@ -303,18 +291,6 @@
       "review_count": 2777
     },
     {
-      "appid": "1004770",
-      "name": "Maiden and Spell",
-      "discount_pct": 75,
-      "final_price": "$3.24",
-      "original_price": "$12.99",
-      "url": "https://store.steampowered.com/app/1004770/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 97,
-      "review_count": 831
-    },
-    {
       "appid": "348550",
       "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
       "discount_pct": 75,
@@ -327,6 +303,30 @@
       "review_count": 4011
     },
     {
+      "appid": "1004770",
+      "name": "Maiden and Spell",
+      "discount_pct": 75,
+      "final_price": "$3.24",
+      "original_price": "$12.99",
+      "url": "https://store.steampowered.com/app/1004770/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 833
+    },
+    {
+      "appid": "1877020",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1877020/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 2140
+    },
+    {
       "appid": "1602010",
       "name": "Persona 4 Arena Ultimax",
       "discount_pct": 70,
@@ -336,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2588
+      "review_count": 2589
     },
     {
       "appid": "1372280",
@@ -387,6 +387,18 @@
       "review_count": 1466
     },
     {
+      "appid": "1685750",
+      "name": "Capcom Fighting Collection",
+      "discount_pct": 67,
+      "final_price": "$9.89",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1685750/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 816
+    },
+    {
       "appid": "1546400",
       "name": "GigaBash",
       "discount_pct": 65,
@@ -408,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 17920
+      "review_count": 17919
     },
     {
       "appid": "1364780",
@@ -420,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20896
+      "review_count": 20898
     },
     {
       "appid": "3717070",
@@ -432,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1760
+      "review_count": 1761
     },
     {
       "appid": "1689620",
@@ -444,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2764
+      "review_count": 2766
     },
     {
       "appid": "1451190",
@@ -468,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52656
+      "review_count": 52654
     },
     {
       "appid": "1329500",
@@ -480,31 +492,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 2810
-    },
-    {
-      "appid": "578620",
-      "name": "GORN",
-      "discount_pct": 60,
-      "final_price": "$7.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/578620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/578620/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 6393
-    },
-    {
-      "appid": "1659600",
-      "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
-      "discount_pct": 60,
-      "final_price": "$15.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/1659600/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1659600/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 791
+      "review_count": 2811
     }
   ]
 }
