@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T12:50:44.618321+00:00",
+  "updated_at": "2026-10-05T23:25:27.295053+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 25985
+      "review_count": 25984
     },
     {
       "appid": "627270",
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6928
+      "review_count": 6929
     },
     {
       "appid": "544750",
@@ -72,19 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
       "review_label": "Mixed",
       "review_pct": 66,
-      "review_count": 1417
-    },
-    {
-      "appid": "1058450",
-      "name": "MY HERO ONE'S JUSTICE 2",
-      "discount_pct": 88,
-      "final_price": "$4.79",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/1058450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1658
+      "review_count": 1418
     },
     {
       "appid": "45760",
@@ -96,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5229
+      "review_count": 5230
     },
     {
       "appid": "389730",
@@ -108,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31245
+      "review_count": 31249
     },
     {
       "appid": "586140",
@@ -120,7 +108,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4857
+      "review_count": 4858
+    },
+    {
+      "appid": "976310,1054480,1273971,1449880",
+      "name": "Mortal Kombat 11 Ultimate",
+      "discount_pct": 85,
+      "final_price": "$8.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 88207
     },
     {
       "appid": "586200",
@@ -133,18 +133,6 @@
       "review_label": "Mixed",
       "review_pct": 69,
       "review_count": 1324
-    },
-    {
-      "appid": "976310,1054480,1273971,1449880",
-      "name": "Mortal Kombat 11 Ultimate",
-      "discount_pct": 85,
-      "final_price": "$8.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 88204
     },
     {
       "appid": "242700",
@@ -171,18 +159,6 @@
       "review_count": 1478
     },
     {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-      "discount_pct": 85,
-      "final_price": "$13.49",
-      "original_price": "$89.99",
-      "url": "https://store.steampowered.com/app/571260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 642
-    },
-    {
       "appid": "678950",
       "name": "DRAGON BALL FighterZ",
       "discount_pct": 84,
@@ -192,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26294
+      "review_count": 26295
     },
     {
       "appid": "1971870",
@@ -204,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17502
+      "review_count": 17503
     },
     {
       "appid": "1372110",
@@ -216,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5795
+      "review_count": 5797
     },
     {
       "appid": "307780",
@@ -243,18 +219,6 @@
       "review_count": 4207
     },
     {
-      "appid": "520440",
-      "name": "GUILTY GEAR Xrd REV 2",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/520440/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 4635
-    },
-    {
       "appid": "702890",
       "name": "BlazBlue: Cross Tag Battle",
       "discount_pct": 80,
@@ -267,6 +231,18 @@
       "review_count": 2253
     },
     {
+      "appid": "520440",
+      "name": "GUILTY GEAR Xrd REV 2",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/520440/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 4635
+    },
+    {
       "appid": "307780,347880,524620",
       "name": "Mortal Kombat XL",
       "discount_pct": 80,
@@ -276,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40093
+      "review_count": 40096
     },
     {
       "appid": "411370",
@@ -303,16 +279,16 @@
       "review_count": 2778
     },
     {
-      "appid": "1004770",
-      "name": "Maiden and Spell",
+      "appid": "348550",
+      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
       "discount_pct": 75,
-      "final_price": "$3.24",
-      "original_price": "$12.99",
-      "url": "https://store.steampowered.com/app/1004770/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
+      "final_price": "$3.74",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/348550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 836
+      "review_count": 4012
     },
     {
       "appid": "1877020",
@@ -325,6 +301,18 @@
       "review_label": "Mixed",
       "review_pct": 60,
       "review_count": 2140
+    },
+    {
+      "appid": "1004770",
+      "name": "Maiden and Spell",
+      "discount_pct": 75,
+      "final_price": "$3.24",
+      "original_price": "$12.99",
+      "url": "https://store.steampowered.com/app/1004770/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 837
     },
     {
       "appid": "1372280",
@@ -348,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2589
+      "review_count": 2590
     },
     {
       "appid": "502800",
@@ -384,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1467
+      "review_count": 1468
     },
     {
       "appid": "1685750",
@@ -399,18 +387,6 @@
       "review_count": 816
     },
     {
-      "appid": "597170",
-      "name": "Clone Drone in the Danger Zone",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/597170/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 96,
-      "review_count": 17919
-    },
-    {
       "appid": "1546400",
       "name": "GigaBash",
       "discount_pct": 65,
@@ -420,7 +396,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 1962
+      "review_count": 1963
+    },
+    {
+      "appid": "597170",
+      "name": "Clone Drone in the Danger Zone",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/597170/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 96,
+      "review_count": 17920
     },
     {
       "appid": "1364780",
@@ -432,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20906
+      "review_count": 20909
     },
     {
       "appid": "3717070",
@@ -444,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1765
+      "review_count": 1766
     },
     {
       "appid": "1689620",
@@ -480,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52658
+      "review_count": 52657
     },
     {
       "appid": "1329500",
@@ -492,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 2813
+      "review_count": 2812
     }
   ]
 }
