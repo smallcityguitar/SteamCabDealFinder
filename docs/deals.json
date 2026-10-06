@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T03:32:34.081921+00:00",
+  "updated_at": "2026-10-06T12:19:15.763721+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 25985
+      "review_count": 25986
     },
     {
       "appid": "627270",
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6929
+      "review_count": 6931
     },
     {
       "appid": "544750",
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11942
+      "review_count": 11941
     },
     {
       "appid": "425220",
@@ -75,6 +75,18 @@
       "review_count": 1418
     },
     {
+      "appid": "1058450",
+      "name": "MY HERO ONE'S JUSTICE 2",
+      "discount_pct": 88,
+      "final_price": "$4.79",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/1058450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 1659
+    },
+    {
       "appid": "45760",
       "name": "Ultra Street Fighter\u00ae IV",
       "discount_pct": 87,
@@ -84,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5230
+      "review_count": 5231
     },
     {
       "appid": "389730",
@@ -96,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31250
+      "review_count": 31252
     },
     {
       "appid": "586140",
@@ -111,16 +123,16 @@
       "review_count": 4859
     },
     {
-      "appid": "976310,1054480,1273971,1449880",
-      "name": "Mortal Kombat 11 Ultimate",
+      "appid": "586200",
+      "name": "Street Fighter 30th Anniversary Collection",
       "discount_pct": 85,
-      "final_price": "$8.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 88210
+      "final_price": "$4.49",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/586200/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 69,
+      "review_count": 1324
     },
     {
       "appid": "242700",
@@ -132,19 +144,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242700/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 3906
+      "review_count": 3907
     },
     {
-      "appid": "586200",
-      "name": "Street Fighter 30th Anniversary Collection",
+      "appid": "976310,1054480,1273971,1449880",
+      "name": "Mortal Kombat 11 Ultimate",
       "discount_pct": 85,
-      "final_price": "$4.49",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/586200/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 69,
-      "review_count": 1324
+      "final_price": "$8.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 88213
     },
     {
       "appid": "1110100",
@@ -168,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26295
+      "review_count": 26296
     },
     {
       "appid": "1971870",
@@ -192,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5800
+      "review_count": 5802
     },
     {
       "appid": "307780",
@@ -204,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11863
+      "review_count": 11865
     },
     {
       "appid": "357190",
@@ -231,18 +243,6 @@
       "review_count": 4635
     },
     {
-      "appid": "307780,347880,524620",
-      "name": "Mortal Kombat XL",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/307780,347880,524620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 40097
-    },
-    {
       "appid": "702890",
       "name": "BlazBlue: Cross Tag Battle",
       "discount_pct": 80,
@@ -253,6 +253,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 2253
+    },
+    {
+      "appid": "307780,347880,524620",
+      "name": "Mortal Kombat XL",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/307780,347880,524620/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 40099
     },
     {
       "appid": "411370",
@@ -276,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2778
+      "review_count": 2779
     },
     {
       "appid": "1004770",
@@ -384,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 17920
+      "review_count": 17921
     },
     {
       "appid": "1546400",
@@ -396,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 1964
+      "review_count": 1966
     },
     {
       "appid": "1364780",
@@ -408,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20909
+      "review_count": 20911
     },
     {
       "appid": "3717070",
@@ -420,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1768
+      "review_count": 1769
     },
     {
       "appid": "1689620",
@@ -432,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2768
+      "review_count": 2770
     },
     {
       "appid": "1451190",
@@ -456,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52656
+      "review_count": 52654
     },
     {
       "appid": "1329500",
