@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T23:25:27.295053+00:00",
+  "updated_at": "2026-10-06T03:32:34.081921+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 25984
+      "review_count": 25985
     },
     {
       "appid": "627270",
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11941
+      "review_count": 11942
     },
     {
       "appid": "425220",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31249
+      "review_count": 31250
     },
     {
       "appid": "586140",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4858
+      "review_count": 4859
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -120,19 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88207
-    },
-    {
-      "appid": "586200",
-      "name": "Street Fighter 30th Anniversary Collection",
-      "discount_pct": 85,
-      "final_price": "$4.49",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/586200/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 69,
-      "review_count": 1324
+      "review_count": 88210
     },
     {
       "appid": "242700",
@@ -145,6 +133,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 3906
+    },
+    {
+      "appid": "586200",
+      "name": "Street Fighter 30th Anniversary Collection",
+      "discount_pct": 85,
+      "final_price": "$4.49",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/586200/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 69,
+      "review_count": 1324
     },
     {
       "appid": "1110100",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17503
+      "review_count": 17505
     },
     {
       "appid": "1372110",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5797
+      "review_count": 5800
     },
     {
       "appid": "307780",
@@ -219,18 +219,6 @@
       "review_count": 4207
     },
     {
-      "appid": "702890",
-      "name": "BlazBlue: Cross Tag Battle",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/702890/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 2253
-    },
-    {
       "appid": "520440",
       "name": "GUILTY GEAR Xrd REV 2",
       "discount_pct": 80,
@@ -252,7 +240,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40096
+      "review_count": 40097
+    },
+    {
+      "appid": "702890",
+      "name": "BlazBlue: Cross Tag Battle",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/702890/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 2253
     },
     {
       "appid": "411370",
@@ -279,6 +279,18 @@
       "review_count": 2778
     },
     {
+      "appid": "1004770",
+      "name": "Maiden and Spell",
+      "discount_pct": 75,
+      "final_price": "$3.24",
+      "original_price": "$12.99",
+      "url": "https://store.steampowered.com/app/1004770/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 838
+    },
+    {
       "appid": "348550",
       "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
       "discount_pct": 75,
@@ -291,28 +303,16 @@
       "review_count": 4012
     },
     {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2140
-    },
-    {
-      "appid": "1004770",
-      "name": "Maiden and Spell",
-      "discount_pct": 75,
-      "final_price": "$3.24",
-      "original_price": "$12.99",
-      "url": "https://store.steampowered.com/app/1004770/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1004770/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 97,
-      "review_count": 837
+      "appid": "1602010",
+      "name": "Persona 4 Arena Ultimax",
+      "discount_pct": 70,
+      "final_price": "$8.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1602010/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 2590
     },
     {
       "appid": "1372280",
@@ -325,18 +325,6 @@
       "review_label": "Very Positive",
       "review_pct": 91,
       "review_count": 5309
-    },
-    {
-      "appid": "1602010",
-      "name": "Persona 4 Arena Ultimax",
-      "discount_pct": 70,
-      "final_price": "$8.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/1602010/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 2590
     },
     {
       "appid": "502800",
@@ -387,18 +375,6 @@
       "review_count": 816
     },
     {
-      "appid": "1546400",
-      "name": "GigaBash",
-      "discount_pct": 65,
-      "final_price": "$8.74",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/1546400/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 1963
-    },
-    {
       "appid": "597170",
       "name": "Clone Drone in the Danger Zone",
       "discount_pct": 65,
@@ -409,6 +385,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
       "review_count": 17920
+    },
+    {
+      "appid": "1546400",
+      "name": "GigaBash",
+      "discount_pct": 65,
+      "final_price": "$8.74",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/1546400/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 1964
     },
     {
       "appid": "1364780",
@@ -432,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1766
+      "review_count": 1768
     },
     {
       "appid": "1689620",
@@ -444,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2767
+      "review_count": 2768
     },
     {
       "appid": "1451190",
@@ -468,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52657
+      "review_count": 52656
     },
     {
       "appid": "1329500",
