@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T22:21:40.155642+00:00",
+  "updated_at": "2026-10-08T03:14:50.336175+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 25988
+      "review_count": 25989
     },
     {
       "appid": "627270",
@@ -27,6 +27,18 @@
       "review_count": 6932
     },
     {
+      "appid": "245170",
+      "name": "Skullgirls 2nd Encore",
+      "discount_pct": 90,
+      "final_price": "$2.49",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/245170/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 86,
+      "review_count": 11953
+    },
+    {
       "appid": "544750",
       "name": "SOULCALIBUR VI",
       "discount_pct": 90,
@@ -37,30 +49,6 @@
       "review_label": "Very Positive",
       "review_pct": 83,
       "review_count": 5793
-    },
-    {
-      "appid": "245170",
-      "name": "Skullgirls 2nd Encore",
-      "discount_pct": 90,
-      "final_price": "$2.49",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/245170/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 86,
-      "review_count": 11951
-    },
-    {
-      "appid": "425220",
-      "name": "One Piece Burning Blood",
-      "discount_pct": 90,
-      "final_price": "$4.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/425220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/425220/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 906
     },
     {
       "appid": "493840",
@@ -96,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5231
+      "review_count": 5233
     },
     {
       "appid": "389730",
@@ -108,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31255
+      "review_count": 31256
     },
     {
       "appid": "586140",
@@ -120,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4861
+      "review_count": 4862
     },
     {
       "appid": "586200",
@@ -135,6 +123,18 @@
       "review_count": 1324
     },
     {
+      "appid": "976310,1054480,1273971,1449880",
+      "name": "Mortal Kombat 11 Ultimate",
+      "discount_pct": 85,
+      "final_price": "$8.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 88231
+    },
+    {
       "appid": "242700",
       "name": "Injustice: Gods Among Us Ultimate Edition",
       "discount_pct": 85,
@@ -147,16 +147,16 @@
       "review_count": 3907
     },
     {
-      "appid": "976310,1054480,1273971,1449880",
-      "name": "Mortal Kombat 11 Ultimate",
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
-      "final_price": "$8.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "final_price": "$13.49",
+      "original_price": "$89.99",
+      "url": "https://store.steampowered.com/app/571260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 88230
+      "review_pct": 82,
+      "review_count": 643
     },
     {
       "appid": "1110100",
@@ -169,18 +169,6 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 1478
-    },
-    {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-      "discount_pct": 85,
-      "final_price": "$13.49",
-      "original_price": "$89.99",
-      "url": "https://store.steampowered.com/app/571260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 643
     },
     {
       "appid": "678950",
@@ -204,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17509
+      "review_count": 17513
     },
     {
       "appid": "1372110",
@@ -276,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40113
+      "review_count": 40112
     },
     {
       "appid": "411370",
@@ -303,18 +291,6 @@
       "review_count": 2780
     },
     {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2141
-    },
-    {
       "appid": "1004770",
       "name": "Maiden and Spell",
       "discount_pct": 75,
@@ -325,6 +301,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
       "review_count": 841
+    },
+    {
+      "appid": "348550",
+      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+      "discount_pct": 75,
+      "final_price": "$3.74",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/348550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 4013
     },
     {
       "appid": "1602010",
@@ -348,7 +336,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5311
+      "review_count": 5313
+    },
+    {
+      "appid": "502800",
+      "name": "SENRAN KAGURA ESTIVAL VERSUS",
+      "discount_pct": 70,
+      "final_price": "$8.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/502800/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/502800/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1487
     },
     {
       "appid": "2634890",
@@ -372,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1470
+      "review_count": 1471
     },
     {
       "appid": "1685750",
@@ -387,18 +387,6 @@
       "review_count": 817
     },
     {
-      "appid": "1546400",
-      "name": "GigaBash",
-      "discount_pct": 65,
-      "final_price": "$8.74",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/1546400/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1967
-    },
-    {
       "appid": "597170",
       "name": "Clone Drone in the Danger Zone",
       "discount_pct": 65,
@@ -411,6 +399,18 @@
       "review_count": 17931
     },
     {
+      "appid": "1546400",
+      "name": "GigaBash",
+      "discount_pct": 65,
+      "final_price": "$8.74",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/1546400/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1968
+    },
+    {
       "appid": "1364780",
       "name": "Street Fighter\u2122 6",
       "discount_pct": 60,
@@ -420,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20927
+      "review_count": 20926
     },
     {
       "appid": "3717070",
@@ -432,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 54,
-      "review_count": 1783
+      "review_count": 1789
     },
     {
       "appid": "1689620",
@@ -444,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2771
+      "review_count": 2772
     },
     {
       "appid": "1451190",
