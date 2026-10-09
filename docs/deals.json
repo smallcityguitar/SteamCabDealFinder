@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T22:33:48.844513+00:00",
+  "updated_at": "2026-10-09T03:20:35.149773+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5237
+      "review_count": 5239
     },
     {
       "appid": "586140",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4863
+      "review_count": 4865
     },
     {
       "appid": "586200",
@@ -135,6 +135,18 @@
       "review_count": 1738
     },
     {
+      "appid": "452510",
+      "name": "UNDER NIGHT IN-BIRTH Exe:Late",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/452510/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452510/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 750
+    },
+    {
       "appid": "850980",
       "name": "GUILTY GEAR",
       "discount_pct": 80,
@@ -159,18 +171,6 @@
       "review_count": 621
     },
     {
-      "appid": "452510",
-      "name": "UNDER NIGHT IN-BIRTH Exe:Late",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/452510/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452510/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 750
-    },
-    {
       "appid": "267900",
       "name": "Guilty Gear Isuka",
       "discount_pct": 80,
@@ -183,18 +183,6 @@
       "review_count": 327
     },
     {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2141
-    },
-    {
       "appid": "348550",
       "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
       "discount_pct": 75,
@@ -205,6 +193,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
       "review_count": 4013
+    },
+    {
+      "appid": "1877020",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1877020/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 2141
     },
     {
       "appid": "1354000",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 817
+      "review_count": 818
     },
     {
       "appid": "1087440",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20931
+      "review_count": 20935
     },
     {
       "appid": "674940",
@@ -300,7 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52648
+      "review_count": 52649
     },
     {
       "appid": "594680",
