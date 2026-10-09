@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T12:11:22.665604+00:00",
+  "updated_at": "2026-10-09T21:56:39.526240+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5239
+      "review_count": 5241
     },
     {
       "appid": "586140",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1324
+      "review_count": 1325
     },
     {
       "appid": "1284130",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 445
+      "review_count": 446
     },
     {
       "appid": "357190",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452510/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 750
+      "review_count": 751
     },
     {
       "appid": "314030",
@@ -180,7 +180,43 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 327
+      "review_count": 328
+    },
+    {
+      "appid": "96900",
+      "name": "Slam Bolt Scrappers",
+      "discount_pct": 80,
+      "final_price": "$0.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/96900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/96900/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 20
+    },
+    {
+      "appid": "2159230",
+      "name": "Ace Pilot Europe",
+      "discount_pct": 80,
+      "final_price": "$0.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/2159230/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2159230/header.jpg",
+      "review_label": "Positive",
+      "review_pct": 90,
+      "review_count": 11
+    },
+    {
+      "appid": "1218680",
+      "name": "Beatdown Brawler",
+      "discount_pct": 76,
+      "final_price": "$0.71",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/1218680/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1218680/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 57,
+      "review_count": 21
     },
     {
       "appid": "1877020",
@@ -205,6 +241,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
       "review_count": 4013
+    },
+    {
+      "appid": "1512590",
+      "name": "Punch A Bunch",
+      "discount_pct": 75,
+      "final_price": "$3.74",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1512590/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1512590/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 74,
+      "review_count": 966
     },
     {
       "appid": "1354000",
@@ -240,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 818
+      "review_count": 819
     },
     {
       "appid": "1087440",
@@ -279,6 +327,18 @@
       "review_count": 942
     },
     {
+      "appid": "1279920",
+      "name": "Cobra Kai: The Karate Kid Saga Continues",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1279920/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 420
+    },
+    {
       "appid": "1364780",
       "name": "Street Fighter\u2122 6",
       "discount_pct": 60,
@@ -288,7 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20937
+      "review_count": 20938
     },
     {
       "appid": "674940",
@@ -300,19 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52650
-    },
-    {
-      "appid": "594680",
-      "name": "Shuyan Saga\u2122",
-      "discount_pct": 60,
-      "final_price": "$5.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/594680/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/594680/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 86,
-      "review_count": 261
+      "review_count": 52648
     }
   ]
 }
