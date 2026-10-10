@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T16:28:40.435530+00:00",
+  "updated_at": "2026-10-10T20:47:42.238743+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 2253
+      "review_count": 2254
     },
     {
       "appid": "520440",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4636
+      "review_count": 4637
     },
     {
       "appid": "411370",
@@ -147,6 +147,18 @@
       "review_count": 751
     },
     {
+      "appid": "850980",
+      "name": "GUILTY GEAR",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 609
+    },
+    {
       "appid": "314030",
       "name": "Guilty Gear X2 #Reload",
       "discount_pct": 80,
@@ -159,16 +171,16 @@
       "review_count": 622
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
+      "appid": "251470",
+      "name": "TowerFall Ascension",
       "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 609
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1773
     },
     {
       "appid": "267900",
@@ -240,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4013
+      "review_count": 4014
     },
     {
       "appid": "1512590",
@@ -253,6 +265,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 74,
       "review_count": 966
+    },
+    {
+      "appid": "540870",
+      "name": "Crewsaders",
+      "discount_pct": 72,
+      "final_price": "$0.83",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/540870/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/540870/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 70,
+      "review_count": 30
     },
     {
       "appid": "1354000",
@@ -348,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20941
+      "review_count": 20942
     },
     {
       "appid": "674940",
@@ -360,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52644
+      "review_count": 52645
     }
   ]
 }
