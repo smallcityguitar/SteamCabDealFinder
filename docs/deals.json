@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T11:28:55.485484+00:00",
+  "updated_at": "2026-10-10T16:28:40.435530+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1325
+      "review_count": 1326
     },
     {
       "appid": "1284130",
@@ -96,19 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4217
-    },
-    {
-      "appid": "520440",
-      "name": "GUILTY GEAR Xrd REV 2",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/520440/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 4636
+      "review_count": 4218
     },
     {
       "appid": "702890",
@@ -121,6 +109,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 2253
+    },
+    {
+      "appid": "520440",
+      "name": "GUILTY GEAR Xrd REV 2",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/520440/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 4636
     },
     {
       "appid": "411370",
@@ -147,6 +147,18 @@
       "review_count": 751
     },
     {
+      "appid": "314030",
+      "name": "Guilty Gear X2 #Reload",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/314030/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 622
+    },
+    {
       "appid": "850980",
       "name": "GUILTY GEAR",
       "discount_pct": 80,
@@ -159,18 +171,6 @@
       "review_count": 609
     },
     {
-      "appid": "314030",
-      "name": "Guilty Gear X2 #Reload",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/314030/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 621
-    },
-    {
       "appid": "267900",
       "name": "Guilty Gear Isuka",
       "discount_pct": 80,
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 329
+      "review_count": 330
     },
     {
       "appid": "96900",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2142
+      "review_count": 2143
     },
     {
       "appid": "348550",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4014
+      "review_count": 4013
     },
     {
       "appid": "1512590",
@@ -312,7 +312,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1849
+      "review_count": 1850
     },
     {
       "appid": "1498740",
@@ -348,7 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20940
+      "review_count": 20941
     },
     {
       "appid": "674940",
@@ -360,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52643
+      "review_count": 52644
     }
   ]
 }
