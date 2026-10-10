@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T21:56:39.526240+00:00",
+  "updated_at": "2026-10-10T03:00:24.268491+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4635
+      "review_count": 4636
     },
     {
       "appid": "702890",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 2253
+      "review_count": 2252
     },
     {
       "appid": "411370",
@@ -135,18 +135,6 @@
       "review_count": 1738
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 607
-    },
-    {
       "appid": "452510",
       "name": "UNDER NIGHT IN-BIRTH Exe:Late",
       "discount_pct": 80,
@@ -157,6 +145,18 @@
       "review_label": "Very Positive",
       "review_pct": 91,
       "review_count": 751
+    },
+    {
+      "appid": "850980",
+      "name": "GUILTY GEAR",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 607
     },
     {
       "appid": "314030",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 328
+      "review_count": 329
     },
     {
       "appid": "96900",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4013
+      "review_count": 4014
     },
     {
       "appid": "1512590",
@@ -348,7 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20938
+      "review_count": 20937
     },
     {
       "appid": "674940",
@@ -360,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52648
+      "review_count": 52647
     }
   ]
 }
