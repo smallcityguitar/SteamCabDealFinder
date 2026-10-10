@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T03:00:24.268491+00:00",
+  "updated_at": "2026-10-10T11:28:55.485484+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5241
+      "review_count": 5242
     },
     {
       "appid": "586140",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4867
+      "review_count": 4868
     },
     {
       "appid": "586200",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 446
+      "review_count": 448
     },
     {
       "appid": "357190",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 2252
+      "review_count": 2253
     },
     {
       "appid": "411370",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 79,
-      "review_count": 607
+      "review_count": 609
     },
     {
       "appid": "314030",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2141
+      "review_count": 2142
     },
     {
       "appid": "348550",
@@ -348,7 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20937
+      "review_count": 20940
     },
     {
       "appid": "674940",
@@ -360,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52647
+      "review_count": 52643
     }
   ]
 }
