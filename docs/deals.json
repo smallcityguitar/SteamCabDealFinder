@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T16:53:25.546640+00:00",
+  "updated_at": "2026-10-11T21:09:02.377313+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -25,6 +25,18 @@
       "review_label": "Mostly Negative",
       "review_pct": 20,
       "review_count": 39
+    },
+    {
+      "appid": "1503350",
+      "name": "Cyberpunch",
+      "discount_pct": 90,
+      "final_price": "$2.49",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/1503350/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1503350/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
     },
     {
       "appid": "493840",
@@ -84,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1326
+      "review_count": 1328
     },
     {
       "appid": "1284130",
@@ -108,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4220
+      "review_count": 4221
     },
     {
       "appid": "702890",
@@ -147,6 +159,18 @@
       "review_count": 1738
     },
     {
+      "appid": "251470",
+      "name": "TowerFall Ascension",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1774
+    },
+    {
       "appid": "452510",
       "name": "UNDER NIGHT IN-BIRTH Exe:Late",
       "discount_pct": 80,
@@ -181,18 +205,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 610
-    },
-    {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1774
     },
     {
       "appid": "267900",
@@ -312,7 +324,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1984
+      "review_count": 1985
     },
     {
       "appid": "1685750",
@@ -384,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20955
+      "review_count": 20958
     },
     {
       "appid": "674940",
@@ -396,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52650
+      "review_count": 52651
     }
   ]
 }
