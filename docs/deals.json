@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T02:30:18.456916+00:00",
+  "updated_at": "2026-10-11T11:42:27.690813+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5244
+      "review_count": 5245
     },
     {
       "appid": "586140",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4870
+      "review_count": 4872
     },
     {
       "appid": "586200",
@@ -147,18 +147,6 @@
       "review_count": 751
     },
     {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1774
-    },
-    {
       "appid": "314030",
       "name": "Guilty Gear X2 #Reload",
       "discount_pct": 80,
@@ -183,6 +171,18 @@
       "review_count": 610
     },
     {
+      "appid": "251470",
+      "name": "TowerFall Ascension",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1774
+    },
+    {
       "appid": "267900",
       "name": "Guilty Gear Isuka",
       "discount_pct": 80,
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 330
+      "review_count": 331
     },
     {
       "appid": "96900",
@@ -339,18 +339,6 @@
       "review_count": 1850
     },
     {
-      "appid": "1498740",
-      "name": "Troublemaker",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1498740/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498740/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 89,
-      "review_count": 942
-    },
-    {
       "appid": "1279920",
       "name": "Cobra Kai: The Karate Kid Saga Continues",
       "discount_pct": 65,
@@ -363,6 +351,18 @@
       "review_count": 420
     },
     {
+      "appid": "1498740",
+      "name": "Troublemaker",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1498740/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498740/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 89,
+      "review_count": 942
+    },
+    {
       "appid": "1364780",
       "name": "Street Fighter\u2122 6",
       "discount_pct": 60,
@@ -372,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20944
+      "review_count": 20953
     },
     {
       "appid": "674940",
@@ -384,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52647
+      "review_count": 52648
     }
   ]
 }
