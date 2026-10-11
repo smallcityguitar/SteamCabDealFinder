@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-11T11:42:27.690813+00:00",
+  "updated_at": "2026-10-11T16:53:25.546640+00:00",
   "min_discount": 60,
   "deals": [
+    {
+      "appid": "1524340",
+      "name": "Street karate 3",
+      "discount_pct": 90,
+      "final_price": "$0.49",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/1524340/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 83
+    },
     {
       "appid": "860900",
       "name": "Bounty Battle",
@@ -96,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4219
+      "review_count": 4220
     },
     {
       "appid": "702890",
@@ -372,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20953
+      "review_count": 20955
     },
     {
       "appid": "674940",
@@ -384,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52648
+      "review_count": 52650
     }
   ]
 }
