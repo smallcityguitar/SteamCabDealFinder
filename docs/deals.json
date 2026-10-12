@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T21:09:02.377313+00:00",
+  "updated_at": "2026-10-12T02:54:57.705064+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 83
+      "review_count": 84
     },
     {
       "appid": "860900",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4637
+      "review_count": 4638
     },
     {
       "appid": "411370",
@@ -159,18 +159,6 @@
       "review_count": 1738
     },
     {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1774
-    },
-    {
       "appid": "452510",
       "name": "UNDER NIGHT IN-BIRTH Exe:Late",
       "discount_pct": 80,
@@ -181,6 +169,18 @@
       "review_label": "Very Positive",
       "review_pct": 91,
       "review_count": 751
+    },
+    {
+      "appid": "251470",
+      "name": "TowerFall Ascension",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1774
     },
     {
       "appid": "314030",
@@ -324,7 +324,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1985
+      "review_count": 1986
     },
     {
       "appid": "1685750",
@@ -396,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20958
+      "review_count": 20961
     },
     {
       "appid": "674940",
