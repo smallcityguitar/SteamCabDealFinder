@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T02:54:57.705064+00:00",
+  "updated_at": "2026-10-12T13:41:29.579238+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5245
+      "review_count": 5248
     },
     {
       "appid": "586140",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4872
+      "review_count": 4874
     },
     {
       "appid": "586200",
@@ -180,19 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1774
-    },
-    {
-      "appid": "314030",
-      "name": "Guilty Gear X2 #Reload",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/314030/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 623
+      "review_count": 1775
     },
     {
       "appid": "850980",
@@ -205,6 +193,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 610
+    },
+    {
+      "appid": "314030",
+      "name": "Guilty Gear X2 #Reload",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/314030/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 623
     },
     {
       "appid": "267900",
@@ -396,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20961
+      "review_count": 20962
     },
     {
       "appid": "674940",
@@ -408,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52651
+      "review_count": 52650
     }
   ]
 }
