@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-12T13:41:29.579238+00:00",
+  "updated_at": "2026-10-12T23:53:21.188591+00:00",
   "min_discount": 60,
   "deals": [
+    {
+      "appid": "598450",
+      "name": "Slice, Dice & Rice",
+      "discount_pct": 91,
+      "final_price": "$0.89",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/598450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/598450/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 64,
+      "review_count": 600
+    },
     {
       "appid": "1524340",
       "name": "Street karate 3",
@@ -13,30 +25,6 @@
       "review_label": "Very Positive",
       "review_pct": 83,
       "review_count": 84
-    },
-    {
-      "appid": "860900",
-      "name": "Bounty Battle",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/860900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/860900/header.jpg",
-      "review_label": "Mostly Negative",
-      "review_pct": 20,
-      "review_count": 39
-    },
-    {
-      "appid": "1503350",
-      "name": "Cyberpunch",
-      "discount_pct": 90,
-      "final_price": "$2.49",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/1503350/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1503350/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
     },
     {
       "appid": "493840",
@@ -60,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465260/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 181
+      "review_count": 184
     },
     {
       "appid": "45760",
@@ -72,7 +60,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5248
+      "review_count": 5250
+    },
+    {
+      "appid": "1329790",
+      "name": "Override 2: Super Mech League",
+      "discount_pct": 87,
+      "final_price": "$3.89",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1329790/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329790/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 118
     },
     {
       "appid": "586140",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1328
+      "review_count": 1329
     },
     {
       "appid": "1284130",
@@ -111,16 +111,16 @@
       "review_count": 450
     },
     {
-      "appid": "357190",
-      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
-      "discount_pct": 80,
-      "final_price": "$4.99",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/357190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
+      "appid": "466110",
+      "name": "Shaolin vs Wutang",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/466110/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4221
+      "review_count": 956
     },
     {
       "appid": "702890",
@@ -135,6 +135,18 @@
       "review_count": 2255
     },
     {
+      "appid": "357190",
+      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+      "discount_pct": 80,
+      "final_price": "$4.99",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/357190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 4220
+    },
+    {
       "appid": "520440",
       "name": "GUILTY GEAR Xrd REV 2",
       "discount_pct": 80,
@@ -144,7 +156,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4638
+      "review_count": 4639
+    },
+    {
+      "appid": "1110100",
+      "name": "Power Rangers: Battle for the Grid",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1110100/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 1479
     },
     {
       "appid": "411370",
@@ -168,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452510/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 751
+      "review_count": 752
     },
     {
       "appid": "251470",
@@ -183,18 +207,6 @@
       "review_count": 1775
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 610
-    },
-    {
       "appid": "314030",
       "name": "Guilty Gear X2 #Reload",
       "discount_pct": 80,
@@ -207,6 +219,18 @@
       "review_count": 623
     },
     {
+      "appid": "850980",
+      "name": "GUILTY GEAR",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 611
+    },
+    {
       "appid": "267900",
       "name": "Guilty Gear Isuka",
       "discount_pct": 80,
@@ -217,6 +241,30 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 331
+    },
+    {
+      "appid": "1217050",
+      "name": "Shaolin vs Wutang 2",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1217050/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 450
+    },
+    {
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 194
     },
     {
       "appid": "96900",
@@ -291,6 +339,18 @@
       "review_count": 966
     },
     {
+      "appid": "449210",
+      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
+      "discount_pct": 75,
+      "final_price": "$1.24",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/449210/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 637
+    },
+    {
       "appid": "540870",
       "name": "Crewsaders",
       "discount_pct": 72,
@@ -303,18 +363,6 @@
       "review_count": 30
     },
     {
-      "appid": "1354000",
-      "name": "Abyss of Death",
-      "discount_pct": 70,
-      "final_price": "$0.89",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/1354000/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1354000/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
       "appid": "2634890",
       "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
       "discount_pct": 68,
@@ -324,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1986
+      "review_count": 1988
     },
     {
       "appid": "1685750",
@@ -363,18 +411,6 @@
       "review_count": 1850
     },
     {
-      "appid": "1279920",
-      "name": "Cobra Kai: The Karate Kid Saga Continues",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1279920/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 420
-    },
-    {
       "appid": "1498740",
       "name": "Troublemaker",
       "discount_pct": 65,
@@ -387,6 +423,18 @@
       "review_count": 942
     },
     {
+      "appid": "1279920",
+      "name": "Cobra Kai: The Karate Kid Saga Continues",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1279920/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 420
+    },
+    {
       "appid": "1364780",
       "name": "Street Fighter\u2122 6",
       "discount_pct": 60,
@@ -396,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20962
+      "review_count": 20966
     },
     {
       "appid": "674940",
@@ -408,7 +456,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52650
+      "review_count": 52653
+    },
+    {
+      "appid": "1185330",
+      "name": "Blades of Gory",
+      "discount_pct": 60,
+      "final_price": "$4.10",
+      "original_price": "$10.25",
+      "url": "https://store.steampowered.com/app/1185330/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1185330/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 28
     }
   ]
 }
