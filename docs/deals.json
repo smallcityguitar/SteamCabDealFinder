@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T04:10:26.087581+00:00",
+  "updated_at": "2026-10-13T13:03:37.178704+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 84
+      "review_count": 86
     },
     {
       "appid": "493840",
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465260/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 184
+      "review_count": 185
     },
     {
       "appid": "45760",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1330
+      "review_count": 1331
     },
     {
       "appid": "1284130",
@@ -195,18 +195,6 @@
       "review_count": 752
     },
     {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1775
-    },
-    {
       "appid": "314030",
       "name": "Guilty Gear X2 #Reload",
       "discount_pct": 80,
@@ -228,7 +216,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 79,
-      "review_count": 610
+      "review_count": 611
+    },
+    {
+      "appid": "251470",
+      "name": "TowerFall Ascension",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1775
     },
     {
       "appid": "267900",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 331
+      "review_count": 332
     },
     {
       "appid": "1217050",
@@ -444,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20967
+      "review_count": 20973
     },
     {
       "appid": "674940",
