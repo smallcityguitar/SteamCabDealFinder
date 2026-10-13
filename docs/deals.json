@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T23:53:21.188591+00:00",
+  "updated_at": "2026-10-13T04:10:26.087581+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4874
+      "review_count": 4875
     },
     {
       "appid": "586200",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1329
+      "review_count": 1330
     },
     {
       "appid": "1284130",
@@ -123,6 +123,18 @@
       "review_count": 956
     },
     {
+      "appid": "357190",
+      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+      "discount_pct": 80,
+      "final_price": "$4.99",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/357190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 4221
+    },
+    {
       "appid": "702890",
       "name": "BlazBlue: Cross Tag Battle",
       "discount_pct": 80,
@@ -133,18 +145,6 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 2255
-    },
-    {
-      "appid": "357190",
-      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
-      "discount_pct": 80,
-      "final_price": "$4.99",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/357190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 4220
     },
     {
       "appid": "520440",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 79,
-      "review_count": 611
+      "review_count": 610
     },
     {
       "appid": "267900",
@@ -324,7 +324,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4016
+      "review_count": 4015
     },
     {
       "appid": "1512590",
@@ -336,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1512590/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 74,
-      "review_count": 966
+      "review_count": 968
     },
     {
       "appid": "449210",
@@ -384,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 819
+      "review_count": 820
     },
     {
       "appid": "1087440",
@@ -408,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1850
+      "review_count": 1852
     },
     {
       "appid": "1498740",
@@ -444,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20966
+      "review_count": 20967
     },
     {
       "appid": "674940",
@@ -456,19 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52653
-    },
-    {
-      "appid": "1185330",
-      "name": "Blades of Gory",
-      "discount_pct": 60,
-      "final_price": "$4.10",
-      "original_price": "$10.25",
-      "url": "https://store.steampowered.com/app/1185330/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1185330/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 28
+      "review_count": 52654
     }
   ]
 }
