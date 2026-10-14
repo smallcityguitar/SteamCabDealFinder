@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T16:04:02.903818+00:00",
+  "updated_at": "2026-10-14T21:03:22.158268+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -27,6 +27,18 @@
       "review_count": 600
     },
     {
+      "appid": "1089930",
+      "name": "Aeon Must Die!",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1089930/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1089930/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 50,
+      "review_count": 101
+    },
+    {
       "appid": "1524340",
       "name": "Street karate 3",
       "discount_pct": 90,
@@ -36,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 92
+      "review_count": 93
     },
     {
       "appid": "493840",
@@ -75,6 +87,18 @@
       "review_count": 5250
     },
     {
+      "appid": "1041840",
+      "name": "Fight Angel Special Edition",
+      "discount_pct": 87,
+      "final_price": "$2.59",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1041840/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1041840/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 1783
+    },
+    {
       "appid": "1329790",
       "name": "Override 2: Super Mech League",
       "discount_pct": 87,
@@ -96,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4878
+      "review_count": 4879
     },
     {
       "appid": "586200",
@@ -111,18 +135,6 @@
       "review_count": 1332
     },
     {
-      "appid": "466110",
-      "name": "Shaolin vs Wutang",
-      "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/466110/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466110/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 956
-    },
-    {
       "appid": "1284130",
       "name": "Sclash",
       "discount_pct": 85,
@@ -135,6 +147,30 @@
       "review_count": 451
     },
     {
+      "appid": "466110",
+      "name": "Shaolin vs Wutang",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/466110/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466110/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 956
+    },
+    {
+      "appid": "2270970",
+      "name": "Fight & Crush",
+      "discount_pct": 85,
+      "final_price": "$0.74",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/2270970/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2270970/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 73,
+      "review_count": 23
+    },
+    {
       "appid": "357190",
       "name": "ULTIMATE MARVEL VS. CAPCOM 3",
       "discount_pct": 80,
@@ -144,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4221
+      "review_count": 4220
     },
     {
       "appid": "702890",
@@ -192,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1739
+      "review_count": 1738
     },
     {
       "appid": "452510",
@@ -207,16 +243,28 @@
       "review_count": 752
     },
     {
-      "appid": "1803410",
-      "name": "Checkmate Showdown",
+      "appid": "850980",
+      "name": "GUILTY GEAR",
       "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1803410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 79,
-      "review_count": 194
+      "review_count": 612
+    },
+    {
+      "appid": "251470",
+      "name": "TowerFall Ascension",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1775
     },
     {
       "appid": "314030",
@@ -231,28 +279,16 @@
       "review_count": 623
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
       "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 79,
-      "review_count": 611
-    },
-    {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1775
+      "review_count": 194
     },
     {
       "appid": "267900",
@@ -276,19 +312,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 450
+      "review_count": 451
     },
     {
-      "appid": "96900",
-      "name": "Slam Bolt Scrappers",
-      "discount_pct": 80,
-      "final_price": "$0.99",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/96900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/96900/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 20
+      "appid": "1230340",
+      "name": "The Sperminator: Rescuing Tzar Vlad",
+      "discount_pct": 79,
+      "final_price": "$0.62",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/1230340/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1230340/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 34
     },
     {
       "appid": "1218680",
@@ -423,18 +459,6 @@
       "review_count": 4121
     },
     {
-      "appid": "1498740",
-      "name": "Troublemaker",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1498740/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498740/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 89,
-      "review_count": 942
-    },
-    {
       "appid": "1279920",
       "name": "Cobra Kai: The Karate Kid Saga Continues",
       "discount_pct": 65,
@@ -447,6 +471,18 @@
       "review_count": 420
     },
     {
+      "appid": "1498740",
+      "name": "Troublemaker",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1498740/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498740/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 89,
+      "review_count": 942
+    },
+    {
       "appid": "1364780",
       "name": "Street Fighter\u2122 6",
       "discount_pct": 60,
@@ -456,7 +492,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20994
+      "review_count": 21000
     },
     {
       "appid": "674940",
@@ -468,7 +504,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52655
+      "review_count": 52656
+    },
+    {
+      "appid": "1185330",
+      "name": "Blades of Gory",
+      "discount_pct": 60,
+      "final_price": "$4.10",
+      "original_price": "$10.25",
+      "url": "https://store.steampowered.com/app/1185330/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1185330/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 28
     }
   ]
 }
