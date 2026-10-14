@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T02:24:01.391465+00:00",
+  "updated_at": "2026-10-14T10:45:06.179997+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 90
+      "review_count": 91
     },
     {
       "appid": "493840",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5250
+      "review_count": 5251
     },
     {
       "appid": "1329790",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4878
+      "review_count": 4877
     },
     {
       "appid": "586200",
@@ -108,19 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1331
-    },
-    {
-      "appid": "1284130",
-      "name": "Sclash",
-      "discount_pct": 85,
-      "final_price": "$1.34",
-      "original_price": "$8.99",
-      "url": "https://store.steampowered.com/app/1284130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 450
+      "review_count": 1332
     },
     {
       "appid": "466110",
@@ -133,6 +121,18 @@
       "review_label": "Very Positive",
       "review_pct": 92,
       "review_count": 956
+    },
+    {
+      "appid": "1284130",
+      "name": "Sclash",
+      "discount_pct": 85,
+      "final_price": "$1.34",
+      "original_price": "$8.99",
+      "url": "https://store.steampowered.com/app/1284130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 451
     },
     {
       "appid": "357190",
@@ -159,18 +159,6 @@
       "review_count": 2255
     },
     {
-      "appid": "520440",
-      "name": "GUILTY GEAR Xrd REV 2",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/520440/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 4641
-    },
-    {
       "appid": "1110100",
       "name": "Power Rangers: Battle for the Grid",
       "discount_pct": 80,
@@ -180,7 +168,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1479
+      "review_count": 1480
+    },
+    {
+      "appid": "520440",
+      "name": "GUILTY GEAR Xrd REV 2",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/520440/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 4643
     },
     {
       "appid": "411370",
@@ -205,6 +205,18 @@
       "review_label": "Very Positive",
       "review_pct": 91,
       "review_count": 752
+    },
+    {
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 194
     },
     {
       "appid": "850980",
@@ -255,18 +267,6 @@
       "review_count": 332
     },
     {
-      "appid": "1803410",
-      "name": "Checkmate Showdown",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1803410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 194
-    },
-    {
       "appid": "1217050",
       "name": "Shaolin vs Wutang 2",
       "discount_pct": 80,
@@ -303,6 +303,18 @@
       "review_count": 21
     },
     {
+      "appid": "1877020",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1877020/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 2144
+    },
+    {
       "appid": "348550",
       "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
       "discount_pct": 75,
@@ -315,16 +327,16 @@
       "review_count": 4017
     },
     {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
+      "appid": "449210",
+      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
       "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2143
+      "final_price": "$1.24",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/449210/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 637
     },
     {
       "appid": "1512590",
@@ -336,19 +348,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1512590/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 74,
-      "review_count": 969
-    },
-    {
-      "appid": "449210",
-      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
-      "discount_pct": 75,
-      "final_price": "$1.24",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/449210/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 637
+      "review_count": 970
     },
     {
       "appid": "540870",
@@ -420,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/94400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 4118
+      "review_count": 4119
     },
     {
       "appid": "1498740",
@@ -456,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20986
+      "review_count": 20991
     },
     {
       "appid": "674940",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52658
+      "review_count": 52656
     }
   ]
 }
