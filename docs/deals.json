@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-13T13:03:37.178704+00:00",
+  "updated_at": "2026-10-14T02:24:01.391465+00:00",
   "min_discount": 60,
   "deals": [
+    {
+      "appid": "1619330",
+      "name": "Firelight Fantasy: Force Energy",
+      "discount_pct": 93,
+      "final_price": "$0.83",
+      "original_price": "$11.99",
+      "url": "https://store.steampowered.com/app/1619330/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1619330/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 78,
+      "review_count": 141
+    },
     {
       "appid": "598450",
       "name": "Slice, Dice & Rice",
@@ -23,8 +35,8 @@
       "url": "https://store.steampowered.com/app/1524340/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 86
+      "review_pct": 84,
+      "review_count": 90
     },
     {
       "appid": "493840",
@@ -47,8 +59,8 @@
       "url": "https://store.steampowered.com/app/1465260/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465260/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 185
+      "review_pct": 81,
+      "review_count": 191
     },
     {
       "appid": "45760",
@@ -84,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4875
+      "review_count": 4878
     },
     {
       "appid": "586200",
@@ -156,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4639
+      "review_count": 4641
     },
     {
       "appid": "1110100",
@@ -180,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1738
+      "review_count": 1739
     },
     {
       "appid": "452510",
@@ -195,18 +207,6 @@
       "review_count": 752
     },
     {
-      "appid": "314030",
-      "name": "Guilty Gear X2 #Reload",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/314030/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 623
-    },
-    {
       "appid": "850980",
       "name": "GUILTY GEAR",
       "discount_pct": 80,
@@ -217,6 +217,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 611
+    },
+    {
+      "appid": "314030",
+      "name": "Guilty Gear X2 #Reload",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/314030/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 623
     },
     {
       "appid": "251470",
@@ -243,18 +255,6 @@
       "review_count": 332
     },
     {
-      "appid": "1217050",
-      "name": "Shaolin vs Wutang 2",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/1217050/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 450
-    },
-    {
       "appid": "1803410",
       "name": "Checkmate Showdown",
       "discount_pct": 80,
@@ -265,6 +265,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 194
+    },
+    {
+      "appid": "1217050",
+      "name": "Shaolin vs Wutang 2",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1217050/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 450
     },
     {
       "appid": "96900",
@@ -279,18 +291,6 @@
       "review_count": 20
     },
     {
-      "appid": "2159230",
-      "name": "Ace Pilot Europe",
-      "discount_pct": 80,
-      "final_price": "$0.99",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/2159230/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2159230/header.jpg",
-      "review_label": "Positive",
-      "review_pct": 90,
-      "review_count": 11
-    },
-    {
       "appid": "1218680",
       "name": "Beatdown Brawler",
       "discount_pct": 76,
@@ -301,6 +301,18 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 21
+    },
+    {
+      "appid": "348550",
+      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+      "discount_pct": 75,
+      "final_price": "$3.74",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/348550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 97,
+      "review_count": 4017
     },
     {
       "appid": "1877020",
@@ -315,18 +327,6 @@
       "review_count": 2143
     },
     {
-      "appid": "348550",
-      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
-      "discount_pct": 75,
-      "final_price": "$3.74",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/348550/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 97,
-      "review_count": 4015
-    },
-    {
       "appid": "1512590",
       "name": "Punch A Bunch",
       "discount_pct": 75,
@@ -336,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1512590/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 74,
-      "review_count": 968
+      "review_count": 969
     },
     {
       "appid": "449210",
@@ -411,6 +411,18 @@
       "review_count": 1852
     },
     {
+      "appid": "94400",
+      "name": "Nidhogg",
+      "discount_pct": 65,
+      "final_price": "$3.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/94400/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/94400/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 4118
+    },
+    {
       "appid": "1498740",
       "name": "Troublemaker",
       "discount_pct": 65,
@@ -444,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 20973
+      "review_count": 20986
     },
     {
       "appid": "674940",
@@ -456,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52654
+      "review_count": 52658
     }
   ]
 }
