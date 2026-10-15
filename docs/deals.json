@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T02:04:46.241530+00:00",
+  "updated_at": "2026-10-15T10:27:52.772185+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -27,6 +27,18 @@
       "review_count": 600
     },
     {
+      "appid": "971690",
+      "name": "Cake Bash",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/971690/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 521
+    },
+    {
       "appid": "1524340",
       "name": "Street karate 3",
       "discount_pct": 90,
@@ -35,8 +47,8 @@
       "url": "https://store.steampowered.com/app/1524340/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 84,
-      "review_count": 93
+      "review_pct": 85,
+      "review_count": 94
     },
     {
       "appid": "1089930",
@@ -60,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
       "review_label": "Mixed",
       "review_pct": 66,
-      "review_count": 1418
+      "review_count": 1419
     },
     {
       "appid": "1465260",
@@ -84,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5250
+      "review_count": 5251
     },
     {
       "appid": "1041840",
@@ -120,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4880
+      "review_count": 4881
     },
     {
       "appid": "586200",
@@ -132,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1332
+      "review_count": 1334
     },
     {
       "appid": "1284130",
@@ -144,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 452
+      "review_count": 453
     },
     {
       "appid": "466110",
@@ -243,18 +255,6 @@
       "review_count": 752
     },
     {
-      "appid": "314030",
-      "name": "Guilty Gear X2 #Reload",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/314030/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 623
-    },
-    {
       "appid": "850980",
       "name": "GUILTY GEAR",
       "discount_pct": 80,
@@ -265,6 +265,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 612
+    },
+    {
+      "appid": "314030",
+      "name": "Guilty Gear X2 #Reload",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/314030/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 623
     },
     {
       "appid": "267900",
@@ -279,18 +291,6 @@
       "review_count": 332
     },
     {
-      "appid": "1803410",
-      "name": "Checkmate Showdown",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1803410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 194
-    },
-    {
       "appid": "251470",
       "name": "TowerFall Ascension",
       "discount_pct": 80,
@@ -301,6 +301,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 1776
+    },
+    {
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 194
     },
     {
       "appid": "1217050",
@@ -339,18 +351,6 @@
       "review_count": 21
     },
     {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2144
-    },
-    {
       "appid": "348550",
       "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
       "discount_pct": 75,
@@ -360,7 +360,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4017
+      "review_count": 4018
+    },
+    {
+      "appid": "1877020",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1877020/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 2143
     },
     {
       "appid": "1512590",
@@ -456,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/94400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 4121
+      "review_count": 4122
     },
     {
       "appid": "1279920",
@@ -492,7 +504,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21001
+      "review_count": 21002
     },
     {
       "appid": "674940",
@@ -504,7 +516,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52655
+      "review_count": 52654
     },
     {
       "appid": "1185330",
