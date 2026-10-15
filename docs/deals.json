@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:27:52.772185+00:00",
+  "updated_at": "2026-10-15T15:52:33.969796+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5251
+      "review_count": 5253
     },
     {
       "appid": "1041840",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1041840/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 75,
-      "review_count": 1783
+      "review_count": 1784
     },
     {
       "appid": "1329790",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4881
+      "review_count": 4882
     },
     {
       "appid": "586200",
@@ -255,18 +255,6 @@
       "review_count": 752
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 612
-    },
-    {
       "appid": "314030",
       "name": "Guilty Gear X2 #Reload",
       "discount_pct": 80,
@@ -277,6 +265,18 @@
       "review_label": "Very Positive",
       "review_pct": 88,
       "review_count": 623
+    },
+    {
+      "appid": "850980",
+      "name": "GUILTY GEAR",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 612
     },
     {
       "appid": "267900",
@@ -303,18 +303,6 @@
       "review_count": 1776
     },
     {
-      "appid": "1803410",
-      "name": "Checkmate Showdown",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1803410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 194
-    },
-    {
       "appid": "1217050",
       "name": "Shaolin vs Wutang 2",
       "discount_pct": 80,
@@ -327,6 +315,18 @@
       "review_count": 451
     },
     {
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 194
+    },
+    {
       "appid": "1230340",
       "name": "The Sperminator: Rescuing Tzar Vlad",
       "discount_pct": 79,
@@ -337,18 +337,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 34
-    },
-    {
-      "appid": "1218680",
-      "name": "Beatdown Brawler",
-      "discount_pct": 76,
-      "final_price": "$0.71",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/1218680/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1218680/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 57,
-      "review_count": 21
     },
     {
       "appid": "348550",
@@ -420,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1988
+      "review_count": 1989
     },
     {
       "appid": "1685750",
@@ -504,7 +492,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21002
+      "review_count": 21003
     },
     {
       "appid": "674940",
@@ -516,7 +504,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52654
+      "review_count": 52653
     },
     {
       "appid": "1185330",
