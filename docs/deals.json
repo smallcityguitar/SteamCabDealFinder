@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T20:37:38.329160+00:00",
+  "updated_at": "2026-10-16T01:55:11.133440+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -27,18 +27,6 @@
       "review_count": 600
     },
     {
-      "appid": "627270",
-      "name": "Injustice\u2122 2",
-      "discount_pct": 90,
-      "final_price": "$4.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/627270/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 6937
-    },
-    {
       "appid": "976310",
       "name": "Mortal Kombat\u00a011",
       "discount_pct": 90,
@@ -49,6 +37,18 @@
       "review_label": "Very Positive",
       "review_pct": 86,
       "review_count": 26020
+    },
+    {
+      "appid": "627270",
+      "name": "Injustice\u2122 2",
+      "discount_pct": 90,
+      "final_price": "$4.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/627270/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 6937
     },
     {
       "appid": "971690",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88324
+      "review_count": 88327
     },
     {
       "appid": "586140",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4882
+      "review_count": 4884
     },
     {
       "appid": "586200",
@@ -231,6 +231,18 @@
       "review_count": 11882
     },
     {
+      "appid": "307780,347880,524620",
+      "name": "Mortal Kombat XL",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/307780,347880,524620/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 40169
+    },
+    {
       "appid": "357190",
       "name": "ULTIMATE MARVEL VS. CAPCOM 3",
       "discount_pct": 80,
@@ -241,18 +253,6 @@
       "review_label": "Very Positive",
       "review_pct": 92,
       "review_count": 4220
-    },
-    {
-      "appid": "307780,347880,524620",
-      "name": "Mortal Kombat XL",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/307780,347880,524620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 40168
     },
     {
       "appid": "520440",
@@ -291,6 +291,18 @@
       "review_count": 1480
     },
     {
+      "appid": "411370",
+      "name": "Melty Blood Actress Again Current Code",
+      "discount_pct": 80,
+      "final_price": "$4.99",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/411370/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1738
+    },
+    {
       "appid": "452510",
       "name": "UNDER NIGHT IN-BIRTH Exe:Late",
       "discount_pct": 80,
@@ -303,16 +315,16 @@
       "review_count": 752
     },
     {
-      "appid": "411370",
-      "name": "Melty Blood Actress Again Current Code",
+      "appid": "314030",
+      "name": "Guilty Gear X2 #Reload",
       "discount_pct": 80,
-      "final_price": "$4.99",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/411370/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/314030/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1738
+      "review_pct": 87,
+      "review_count": 624
     },
     {
       "appid": "850980",
@@ -327,16 +339,16 @@
       "review_count": 611
     },
     {
-      "appid": "314030",
-      "name": "Guilty Gear X2 #Reload",
+      "appid": "267900",
+      "name": "Guilty Gear Isuka",
       "discount_pct": 80,
       "final_price": "$1.99",
       "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/314030/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 623
+      "url": "https://store.steampowered.com/app/267900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 57,
+      "review_count": 332
     },
     {
       "appid": "251470",
@@ -361,18 +373,6 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 451
-    },
-    {
-      "appid": "267900",
-      "name": "Guilty Gear Isuka",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/267900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 57,
-      "review_count": 332
     },
     {
       "appid": "1803410",
@@ -423,18 +423,6 @@
       "review_count": 2143
     },
     {
-      "appid": "449210",
-      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
-      "discount_pct": 75,
-      "final_price": "$1.24",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/449210/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 637
-    },
-    {
       "appid": "1512590",
       "name": "Punch A Bunch",
       "discount_pct": 75,
@@ -445,6 +433,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 74,
       "review_count": 969
+    },
+    {
+      "appid": "449210",
+      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
+      "discount_pct": 75,
+      "final_price": "$1.24",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/449210/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 637
     },
     {
       "appid": "540870",
@@ -552,7 +552,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21006
+      "review_count": 21008
     },
     {
       "appid": "674940",
@@ -564,7 +564,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52654
+      "review_count": 52655
     }
   ]
 }
