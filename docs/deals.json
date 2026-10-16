@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-10-16T01:55:11.133440+00:00",
+  "updated_at": "2026-10-16T10:15:23.055953+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "1619330",
-      "name": "Firelight Fantasy: Force Energy",
-      "discount_pct": 93,
-      "final_price": "$0.83",
-      "original_price": "$11.99",
-      "url": "https://store.steampowered.com/app/1619330/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1619330/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 78,
-      "review_count": 141
-    },
     {
       "appid": "598450",
       "name": "Slice, Dice & Rice",
@@ -36,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26020
+      "review_count": 26021
     },
     {
       "appid": "627270",
@@ -120,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5253
+      "review_count": 5254
     },
     {
       "appid": "1041840",
@@ -168,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88327
+      "review_count": 88328
     },
     {
       "appid": "586140",
@@ -180,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4884
+      "review_count": 4886
     },
     {
       "appid": "586200",
@@ -216,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17548
+      "review_count": 17549
     },
     {
       "appid": "307780",
@@ -300,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1738
+      "review_count": 1739
     },
     {
       "appid": "452510",
@@ -339,18 +327,6 @@
       "review_count": 611
     },
     {
-      "appid": "267900",
-      "name": "Guilty Gear Isuka",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/267900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 57,
-      "review_count": 332
-    },
-    {
       "appid": "251470",
       "name": "TowerFall Ascension",
       "discount_pct": 80,
@@ -363,16 +339,16 @@
       "review_count": 1776
     },
     {
-      "appid": "1217050",
-      "name": "Shaolin vs Wutang 2",
+      "appid": "267900",
+      "name": "Guilty Gear Isuka",
       "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/1217050/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 451
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/267900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 57,
+      "review_count": 332
     },
     {
       "appid": "1803410",
@@ -385,6 +361,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 194
+    },
+    {
+      "appid": "1217050",
+      "name": "Shaolin vs Wutang 2",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1217050/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 451
     },
     {
       "appid": "1230340",
@@ -420,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2143
+      "review_count": 2144
     },
     {
       "appid": "1512590",
@@ -516,19 +504,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/94400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 4123
-    },
-    {
-      "appid": "1279920",
-      "name": "Cobra Kai: The Karate Kid Saga Continues",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1279920/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 420
+      "review_count": 4126
     },
     {
       "appid": "1498740",
@@ -543,6 +519,18 @@
       "review_count": 943
     },
     {
+      "appid": "1279920",
+      "name": "Cobra Kai: The Karate Kid Saga Continues",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1279920/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 420
+    },
+    {
       "appid": "1364780",
       "name": "Street Fighter\u2122 6",
       "discount_pct": 60,
@@ -552,7 +540,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21008
+      "review_count": 21014
     },
     {
       "appid": "674940",
@@ -564,7 +552,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52655
+      "review_count": 52656
     }
   ]
 }
