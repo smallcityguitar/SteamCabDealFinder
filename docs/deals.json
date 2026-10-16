@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:15:23.055953+00:00",
+  "updated_at": "2026-10-16T15:40:54.451562+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -15,18 +15,6 @@
       "review_count": 600
     },
     {
-      "appid": "976310",
-      "name": "Mortal Kombat\u00a011",
-      "discount_pct": 90,
-      "final_price": "$4.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/976310/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 86,
-      "review_count": 26021
-    },
-    {
       "appid": "627270",
       "name": "Injustice\u2122 2",
       "discount_pct": 90,
@@ -39,6 +27,18 @@
       "review_count": 6937
     },
     {
+      "appid": "976310",
+      "name": "Mortal Kombat\u00a011",
+      "discount_pct": 90,
+      "final_price": "$4.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/976310/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 86,
+      "review_count": 26021
+    },
+    {
       "appid": "971690",
       "name": "Cake Bash",
       "discount_pct": 90,
@@ -49,18 +49,6 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 521
-    },
-    {
-      "appid": "1524340",
-      "name": "Street karate 3",
-      "discount_pct": 90,
-      "final_price": "$0.49",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/1524340/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1524340/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 94
     },
     {
       "appid": "1089930",
@@ -108,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5254
+      "review_count": 5255
     },
     {
       "appid": "1041840",
@@ -156,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88328
+      "review_count": 88331
     },
     {
       "appid": "586140",
@@ -216,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11882
+      "review_count": 11883
     },
     {
       "appid": "307780,347880,524620",
@@ -252,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
-      "review_count": 4643
+      "review_count": 4644
     },
     {
       "appid": "702890",
@@ -263,8 +251,8 @@
       "url": "https://store.steampowered.com/app/702890/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 2255
+      "review_pct": 83,
+      "review_count": 2254
     },
     {
       "appid": "1110100",
@@ -315,18 +303,6 @@
       "review_count": 624
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 611
-    },
-    {
       "appid": "251470",
       "name": "TowerFall Ascension",
       "discount_pct": 80,
@@ -339,6 +315,18 @@
       "review_count": 1776
     },
     {
+      "appid": "850980",
+      "name": "GUILTY GEAR",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 611
+    },
+    {
       "appid": "267900",
       "name": "Guilty Gear Isuka",
       "discount_pct": 80,
@@ -348,19 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 332
-    },
-    {
-      "appid": "1803410",
-      "name": "Checkmate Showdown",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1803410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 194
+      "review_count": 333
     },
     {
       "appid": "1217050",
@@ -373,6 +349,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 451
+    },
+    {
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 194
     },
     {
       "appid": "1230340",
@@ -504,7 +492,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/94400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 4126
+      "review_count": 4127
     },
     {
       "appid": "1498740",
@@ -540,7 +528,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21014
+      "review_count": 21016
     },
     {
       "appid": "674940",
@@ -552,7 +540,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52656
+      "review_count": 52655
     }
   ]
 }
