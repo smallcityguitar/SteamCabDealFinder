@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:49:05.775737+00:00",
+  "updated_at": "2026-10-17T14:32:21.807715+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6938
+      "review_count": 6939
     },
     {
       "appid": "971690",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242700/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 3911
+      "review_count": 3912
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88334
+      "review_count": 88337
     },
     {
       "appid": "586200",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17561
+      "review_count": 17564
     },
     {
       "appid": "307780",
@@ -243,18 +243,6 @@
       "review_count": 4224
     },
     {
-      "appid": "520440",
-      "name": "GUILTY GEAR Xrd REV 2",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/520440/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 4645
-    },
-    {
       "appid": "702890",
       "name": "BlazBlue: Cross Tag Battle",
       "discount_pct": 80,
@@ -267,16 +255,28 @@
       "review_count": 2255
     },
     {
-      "appid": "411370",
-      "name": "Melty Blood Actress Again Current Code",
+      "appid": "520440",
+      "name": "GUILTY GEAR Xrd REV 2",
       "discount_pct": 80,
-      "final_price": "$4.99",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/411370/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/520440/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/520440/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 4645
+    },
+    {
+      "appid": "1110100",
+      "name": "Power Rangers: Battle for the Grid",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1110100/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1738
+      "review_pct": 81,
+      "review_count": 1480
     },
     {
       "appid": "452510",
@@ -291,16 +291,16 @@
       "review_count": 753
     },
     {
-      "appid": "1110100",
-      "name": "Power Rangers: Battle for the Grid",
+      "appid": "411370",
+      "name": "Melty Blood Actress Again Current Code",
       "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1110100/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1110100/header.jpg",
+      "final_price": "$4.99",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/411370/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 1480
+      "review_pct": 94,
+      "review_count": 1738
     },
     {
       "appid": "727850",
@@ -339,16 +339,16 @@
       "review_count": 611
     },
     {
-      "appid": "1803410",
-      "name": "Checkmate Showdown",
+      "appid": "1217050",
+      "name": "Shaolin vs Wutang 2",
       "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1803410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 194
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1217050/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 451
     },
     {
       "appid": "267900",
@@ -363,16 +363,16 @@
       "review_count": 333
     },
     {
-      "appid": "1217050",
-      "name": "Shaolin vs Wutang 2",
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
       "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/1217050/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 451
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 194
     },
     {
       "appid": "251470",
@@ -384,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1776
+      "review_count": 1777
     },
     {
       "appid": "1230340",
@@ -540,7 +540,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21029
+      "review_count": 21031
     },
     {
       "appid": "674940",
