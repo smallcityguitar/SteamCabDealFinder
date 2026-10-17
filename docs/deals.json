@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T20:10:48.018456+00:00",
+  "updated_at": "2026-10-17T01:49:50.872075+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26022
+      "review_count": 26021
     },
     {
       "appid": "627270",
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6937
+      "review_count": 6938
     },
     {
       "appid": "971690",
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 521
+      "review_count": 522
     },
     {
       "appid": "1089930",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242700/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 3910
+      "review_count": 3911
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -144,19 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88333
-    },
-    {
-      "appid": "586140",
-      "name": "BlazBlue Centralfiction",
-      "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/586140/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 4887
+      "review_count": 88332
     },
     {
       "appid": "586200",
@@ -169,6 +157,18 @@
       "review_label": "Mixed",
       "review_pct": 69,
       "review_count": 1334
+    },
+    {
+      "appid": "586140",
+      "name": "BlazBlue Centralfiction",
+      "discount_pct": 85,
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/586140/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586140/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 4887
     },
     {
       "appid": "466110",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17552
+      "review_count": 17556
     },
     {
       "appid": "307780",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11884
+      "review_count": 11885
     },
     {
       "appid": "307780,347880,524620",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40173
+      "review_count": 40176
     },
     {
       "appid": "357190",
@@ -228,19 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4222
-    },
-    {
-      "appid": "702890",
-      "name": "BlazBlue: Cross Tag Battle",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/702890/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 2255
+      "review_count": 4223
     },
     {
       "appid": "520440",
@@ -253,6 +241,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
       "review_count": 4644
+    },
+    {
+      "appid": "702890",
+      "name": "BlazBlue: Cross Tag Battle",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/702890/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 2255
     },
     {
       "appid": "1110100",
@@ -291,16 +291,16 @@
       "review_count": 1738
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
+      "appid": "727850",
+      "name": "ELDERBORN",
       "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 611
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/727850/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 1462
     },
     {
       "appid": "314030",
@@ -312,19 +312,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/314030/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 624
+      "review_count": 623
     },
     {
-      "appid": "267900",
-      "name": "Guilty Gear Isuka",
+      "appid": "850980",
+      "name": "GUILTY GEAR",
       "discount_pct": 80,
       "final_price": "$1.99",
       "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/267900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 57,
-      "review_count": 333
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 611
     },
     {
       "appid": "251470",
@@ -339,18 +339,6 @@
       "review_count": 1776
     },
     {
-      "appid": "1803410",
-      "name": "Checkmate Showdown",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1803410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 194
-    },
-    {
       "appid": "1217050",
       "name": "Shaolin vs Wutang 2",
       "discount_pct": 80,
@@ -363,16 +351,28 @@
       "review_count": 451
     },
     {
-      "appid": "727850",
-      "name": "ELDERBORN",
+      "appid": "267900",
+      "name": "Guilty Gear Isuka",
       "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/727850/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1461
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/267900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/267900/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 57,
+      "review_count": 333
+    },
+    {
+      "appid": "1803410",
+      "name": "Checkmate Showdown",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1803410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1803410/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 194
     },
     {
       "appid": "1230340",
@@ -408,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4019
+      "review_count": 4018
     },
     {
       "appid": "449210",
@@ -444,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1990
+      "review_count": 1992
     },
     {
       "appid": "1685750",
@@ -528,7 +528,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21018
+      "review_count": 21024
     },
     {
       "appid": "674940",
@@ -540,7 +540,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52656
+      "review_count": 52657
     }
   ]
 }
