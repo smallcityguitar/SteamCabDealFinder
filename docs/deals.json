@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:01:18.911754+00:00",
+  "updated_at": "2026-10-18T14:59:16.618234+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1619330/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 78,
-      "review_count": 141
+      "review_count": 142
     },
     {
       "appid": "598450",
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26029
+      "review_count": 26030
     },
     {
       "appid": "627270",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 525
+      "review_count": 526
     },
     {
       "appid": "1089930",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1041840/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 75,
-      "review_count": 1785
+      "review_count": 1786
     },
     {
       "appid": "1329790",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88359
+      "review_count": 88364
     },
     {
       "appid": "586200",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1336
+      "review_count": 1338
     },
     {
       "appid": "586140",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17572
+      "review_count": 17573
     },
     {
       "appid": "307780",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40190
+      "review_count": 40191
     },
     {
       "appid": "357190",
@@ -312,7 +312,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411370/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1738
+      "review_count": 1739
     },
     {
       "appid": "727850",
@@ -363,18 +363,6 @@
       "review_count": 194
     },
     {
-      "appid": "1217050",
-      "name": "Shaolin vs Wutang 2",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/1217050/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 451
-    },
-    {
       "appid": "267900",
       "name": "Guilty Gear Isuka",
       "discount_pct": 80,
@@ -385,6 +373,18 @@
       "review_label": "Mixed",
       "review_pct": 57,
       "review_count": 333
+    },
+    {
+      "appid": "1217050",
+      "name": "Shaolin vs Wutang 2",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1217050/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1217050/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 451
     },
     {
       "appid": "251470",
@@ -444,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/348550/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
-      "review_count": 4018
+      "review_count": 4019
     },
     {
       "appid": "449210",
@@ -564,7 +564,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21041
+      "review_count": 21043
     },
     {
       "appid": "674940",
