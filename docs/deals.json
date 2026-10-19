@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:46:59.645341+00:00",
+  "updated_at": "2026-10-19T02:04:57.850485+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26031
+      "review_count": 26033
     },
     {
       "appid": "627270",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 526
+      "review_count": 527
     },
     {
       "appid": "1089930",
@@ -135,6 +135,18 @@
       "review_count": 118
     },
     {
+      "appid": "586200",
+      "name": "Street Fighter 30th Anniversary Collection",
+      "discount_pct": 85,
+      "final_price": "$4.49",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/586200/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 69,
+      "review_count": 1340
+    },
+    {
       "appid": "242700",
       "name": "Injustice: Gods Among Us Ultimate Edition",
       "discount_pct": 85,
@@ -147,18 +159,6 @@
       "review_count": 3914
     },
     {
-      "appid": "586200",
-      "name": "Street Fighter 30th Anniversary Collection",
-      "discount_pct": 85,
-      "final_price": "$4.49",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/586200/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 69,
-      "review_count": 1339
-    },
-    {
       "appid": "976310,1054480,1273971,1449880",
       "name": "Mortal Kombat 11 Ultimate",
       "discount_pct": 85,
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88367
+      "review_count": 88373
     },
     {
       "appid": "586140",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17576
+      "review_count": 17580
     },
     {
       "appid": "307780",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11887
+      "review_count": 11889
     },
     {
       "appid": "357190",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4224
+      "review_count": 4226
     },
     {
       "appid": "307780,347880,524620",
@@ -240,19 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40197
-    },
-    {
-      "appid": "702890",
-      "name": "BlazBlue: Cross Tag Battle",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/702890/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 2255
+      "review_count": 40202
     },
     {
       "appid": "520440",
@@ -265,6 +253,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
       "review_count": 4646
+    },
+    {
+      "appid": "702890",
+      "name": "BlazBlue: Cross Tag Battle",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/702890/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 2255
     },
     {
       "appid": "1110100",
@@ -315,18 +315,6 @@
       "review_count": 1462
     },
     {
-      "appid": "850980",
-      "name": "GUILTY GEAR",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/850980/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 612
-    },
-    {
       "appid": "314030",
       "name": "Guilty Gear X2 #Reload",
       "discount_pct": 80,
@@ -337,6 +325,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 623
+    },
+    {
+      "appid": "850980",
+      "name": "GUILTY GEAR",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/850980/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/850980/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 612
     },
     {
       "appid": "1803410",
@@ -387,18 +387,6 @@
       "review_count": 451
     },
     {
-      "appid": "1230340",
-      "name": "The Sperminator: Rescuing Tzar Vlad",
-      "discount_pct": 79,
-      "final_price": "$0.62",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/1230340/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1230340/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 34
-    },
-    {
       "appid": "834450",
       "name": "Roarr! The Adventures of Rampage Rex",
       "discount_pct": 79,
@@ -411,16 +399,16 @@
       "review_count": 54
     },
     {
-      "appid": "1877020",
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1877020/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 2146
+      "appid": "1230340",
+      "name": "The Sperminator: Rescuing Tzar Vlad",
+      "discount_pct": 79,
+      "final_price": "$0.62",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/1230340/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1230340/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 34
     },
     {
       "appid": "348550",
@@ -433,6 +421,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 97,
       "review_count": 4019
+    },
+    {
+      "appid": "1877020",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1877020/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 2146
     },
     {
       "appid": "449210",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1992
+      "review_count": 1994
     },
     {
       "appid": "1685750",
@@ -552,7 +552,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21044
+      "review_count": 21052
     },
     {
       "appid": "674940",
@@ -564,7 +564,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52660
+      "review_count": 52658
     }
   ]
 }
