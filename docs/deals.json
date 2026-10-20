@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T10:31:49.626261+00:00",
+  "updated_at": "2026-10-20T15:55:56.470703+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1619330/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 76,
-      "review_count": 151
+      "review_count": 152
     },
     {
       "appid": "976310",
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6946
+      "review_count": 6947
     },
     {
       "appid": "971690",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1343
+      "review_count": 1345
     },
     {
       "appid": "242700",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88390
+      "review_count": 88395
     },
     {
       "appid": "2270970",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17589
+      "review_count": 17588
     },
     {
       "appid": "307780",
@@ -183,18 +183,6 @@
       "review_count": 11889
     },
     {
-      "appid": "307780,347880,524620",
-      "name": "Mortal Kombat XL",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/307780,347880,524620/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 40214
-    },
-    {
       "appid": "357190",
       "name": "ULTIMATE MARVEL VS. CAPCOM 3",
       "discount_pct": 80,
@@ -205,6 +193,18 @@
       "review_label": "Very Positive",
       "review_pct": 92,
       "review_count": 4225
+    },
+    {
+      "appid": "307780,347880,524620",
+      "name": "Mortal Kombat XL",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/307780,347880,524620/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 40219
     },
     {
       "appid": "727850",
@@ -264,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2148
+      "review_count": 2149
     },
     {
       "appid": "540870",
@@ -339,18 +339,6 @@
       "review_count": 4130
     },
     {
-      "appid": "1279920",
-      "name": "Cobra Kai: The Karate Kid Saga Continues",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1279920/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 420
-    },
-    {
       "appid": "1498740",
       "name": "Troublemaker",
       "discount_pct": 65,
@@ -363,6 +351,18 @@
       "review_count": 943
     },
     {
+      "appid": "1279920",
+      "name": "Cobra Kai: The Karate Kid Saga Continues",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1279920/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 420
+    },
+    {
       "appid": "1364780",
       "name": "Street Fighter\u2122 6",
       "discount_pct": 60,
@@ -372,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 21064
+      "review_count": 21066
     },
     {
       "appid": "3717070",
@@ -396,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52667
+      "review_count": 52666
     }
   ]
 }
