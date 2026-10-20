@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T15:55:56.470703+00:00",
+  "updated_at": "2026-10-20T20:58:11.210635+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88395
+      "review_count": 88399
     },
     {
       "appid": "2270970",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17588
+      "review_count": 17594
     },
     {
       "appid": "307780",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11889
+      "review_count": 11891
     },
     {
       "appid": "357190",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40219
+      "review_count": 40221
     },
     {
       "appid": "727850",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1996
+      "review_count": 1998
     },
     {
       "appid": "1685750",
@@ -327,18 +327,6 @@
       "review_count": 1854
     },
     {
-      "appid": "94400",
-      "name": "Nidhogg",
-      "discount_pct": 65,
-      "final_price": "$3.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/94400/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/94400/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 4130
-    },
-    {
       "appid": "1498740",
       "name": "Troublemaker",
       "discount_pct": 65,
@@ -349,18 +337,6 @@
       "review_label": "Very Positive",
       "review_pct": 89,
       "review_count": 943
-    },
-    {
-      "appid": "1279920",
-      "name": "Cobra Kai: The Karate Kid Saga Continues",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1279920/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 420
     },
     {
       "appid": "1364780",
@@ -396,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52666
+      "review_count": 52668
     }
   ]
 }
