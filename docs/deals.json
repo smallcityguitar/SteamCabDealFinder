@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-21T16:12:40.897388+00:00",
+  "updated_at": "2026-10-21T20:58:26.655563+00:00",
   "min_discount": 60,
   "deals": [
+    {
+      "appid": "1470750",
+      "name": "MAGIC POT&TER BATTLEGROUNDS",
+      "discount_pct": 95,
+      "final_price": "$9.99",
+      "original_price": "$199.99",
+      "url": "https://store.steampowered.com/app/1470750/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1470750/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
     {
       "appid": "1619330",
       "name": "Firelight Fantasy: Force Energy",
@@ -24,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26040
+      "review_count": 26041
     },
     {
       "appid": "627270",
@@ -36,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6948
+      "review_count": 6950
     },
     {
       "appid": "971690",
@@ -63,18 +75,6 @@
       "review_count": 101
     },
     {
-      "appid": "493840",
-      "name": "Marvel vs. Capcom: Infinite",
-      "discount_pct": 88,
-      "final_price": "$4.79",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/493840/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 66,
-      "review_count": 1419
-    },
-    {
       "appid": "1465260",
       "name": "Cyberpunk SFX",
       "discount_pct": 88,
@@ -87,42 +87,6 @@
       "review_count": 191
     },
     {
-      "appid": "45760",
-      "name": "Ultra Street Fighter\u00ae IV",
-      "discount_pct": 87,
-      "final_price": "$3.89",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/45760/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 5262
-    },
-    {
-      "appid": "1041840",
-      "name": "Fight Angel Special Edition",
-      "discount_pct": 87,
-      "final_price": "$2.59",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1041840/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1041840/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 1789
-    },
-    {
-      "appid": "586200",
-      "name": "Street Fighter 30th Anniversary Collection",
-      "discount_pct": 85,
-      "final_price": "$4.49",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/586200/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 69,
-      "review_count": 1348
-    },
-    {
       "appid": "242700",
       "name": "Injustice: Gods Among Us Ultimate Edition",
       "discount_pct": 85,
@@ -132,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242700/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 3918
+      "review_count": 3919
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -144,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88411
+      "review_count": 88412
     },
     {
       "appid": "2270970",
@@ -168,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17601
+      "review_count": 17603
     },
     {
       "appid": "307780",
@@ -180,19 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11893
-    },
-    {
-      "appid": "357190",
-      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
-      "discount_pct": 80,
-      "final_price": "$4.99",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/357190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 4226
+      "review_count": 11894
     },
     {
       "appid": "307780,347880,524620",
@@ -204,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40223
+      "review_count": 40224
     },
     {
       "appid": "251470",
@@ -279,30 +231,6 @@
       "review_count": 30
     },
     {
-      "appid": "2634890",
-      "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
-      "discount_pct": 68,
-      "final_price": "$15.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/2634890/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 93,
-      "review_count": 2000
-    },
-    {
-      "appid": "1685750",
-      "name": "Capcom Fighting Collection",
-      "discount_pct": 67,
-      "final_price": "$9.89",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/1685750/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 821
-    },
-    {
       "appid": "1087440",
       "name": "Jay and Silent Bob: Mall Brawl",
       "discount_pct": 67,
@@ -339,18 +267,6 @@
       "review_count": 943
     },
     {
-      "appid": "1364780",
-      "name": "Street Fighter\u2122 6",
-      "discount_pct": 60,
-      "final_price": "$15.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/1364780/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 21077
-    },
-    {
       "appid": "3717070",
       "name": "WWE 2K26",
       "discount_pct": 60,
@@ -360,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1831
+      "review_count": 1832
     },
     {
       "appid": "674940",
