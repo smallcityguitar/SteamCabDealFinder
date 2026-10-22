@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:58:26.655563+00:00",
+  "updated_at": "2026-10-22T02:09:22.876567+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26041
+      "review_count": 26040
     },
     {
       "appid": "627270",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242700/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 3919
+      "review_count": 3920
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88412
+      "review_count": 88415
     },
     {
       "appid": "2270970",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17603
+      "review_count": 17604
     },
     {
       "appid": "307780",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40224
+      "review_count": 40227
     },
     {
       "appid": "251470",
@@ -241,6 +241,18 @@
       "review_label": "Very Positive",
       "review_pct": 84,
       "review_count": 58
+    },
+    {
+      "appid": "2702100",
+      "name": "Savage Warriors",
+      "discount_pct": 67,
+      "final_price": "$1.97",
+      "original_price": "$5.99",
+      "url": "https://store.steampowered.com/app/2702100/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
     },
     {
       "appid": "1835240",
