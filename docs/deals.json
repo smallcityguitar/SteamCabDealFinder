@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-10-22T02:09:22.876567+00:00",
+  "updated_at": "2026-10-22T10:45:41.546890+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "1470750",
-      "name": "MAGIC POT&TER BATTLEGROUNDS",
-      "discount_pct": 95,
-      "final_price": "$9.99",
-      "original_price": "$199.99",
-      "url": "https://store.steampowered.com/app/1470750/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1470750/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
     {
       "appid": "1619330",
       "name": "Firelight Fantasy: Force Energy",
@@ -87,6 +75,18 @@
       "review_count": 191
     },
     {
+      "appid": "976310,1054480,1273971,1449880",
+      "name": "Mortal Kombat 11 Ultimate",
+      "discount_pct": 85,
+      "final_price": "$8.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 88419
+    },
+    {
       "appid": "242700",
       "name": "Injustice: Gods Among Us Ultimate Edition",
       "discount_pct": 85,
@@ -97,18 +97,6 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 3920
-    },
-    {
-      "appid": "976310,1054480,1273971,1449880",
-      "name": "Mortal Kombat 11 Ultimate",
-      "discount_pct": 85,
-      "final_price": "$8.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/976310,1054480,1273971,1449880/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 88415
     },
     {
       "appid": "2270970",
@@ -132,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17604
+      "review_count": 17605
     },
     {
       "appid": "307780",
@@ -156,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40227
+      "review_count": 40228
     },
     {
       "appid": "251470",
@@ -219,6 +207,30 @@
       "review_count": 2149
     },
     {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 84
+    },
+    {
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 86,
+      "review_count": 51
+    },
+    {
       "appid": "540870",
       "name": "Crewsaders",
       "discount_pct": 72,
@@ -241,18 +253,6 @@
       "review_label": "Very Positive",
       "review_pct": 84,
       "review_count": 58
-    },
-    {
-      "appid": "2702100",
-      "name": "Savage Warriors",
-      "discount_pct": 67,
-      "final_price": "$1.97",
-      "original_price": "$5.99",
-      "url": "https://store.steampowered.com/app/2702100/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
     },
     {
       "appid": "1835240",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1832
+      "review_count": 1834
     },
     {
       "appid": "674940",
