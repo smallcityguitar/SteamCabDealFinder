@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:55:58.581130+00:00",
+  "updated_at": "2026-10-23T02:14:32.817092+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31305
+      "review_count": 31306
     },
     {
       "appid": "2270970",
