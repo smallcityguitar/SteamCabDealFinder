@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T10:37:20.684881+00:00",
+  "updated_at": "2026-10-23T16:00:47.156967+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31306
+      "review_count": 31307
     },
     {
       "appid": "2270970",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26319
+      "review_count": 26320
     },
     {
       "appid": "251470",
@@ -183,18 +183,6 @@
       "review_count": 34
     },
     {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 85
-    },
-    {
       "appid": "3822220",
       "name": "WORLD HEROES PERFECT",
       "discount_pct": 75,
@@ -205,6 +193,18 @@
       "review_label": "Very Positive",
       "review_pct": 84,
       "review_count": 52
+    },
+    {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 85
     },
     {
       "appid": "1058450",
@@ -252,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1473
+      "review_count": 1474
     },
     {
       "appid": "2702100",
