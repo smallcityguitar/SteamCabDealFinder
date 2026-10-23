@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T02:14:32.817092+00:00",
+  "updated_at": "2026-10-23T10:37:20.684881+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -39,18 +39,6 @@
       "review_count": 5799
     },
     {
-      "appid": "971690",
-      "name": "Cake Bash",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/971690/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 530
-    },
-    {
       "appid": "425220",
       "name": "One Piece Burning Blood",
       "discount_pct": 90,
@@ -61,6 +49,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 905
+    },
+    {
+      "appid": "971690",
+      "name": "Cake Bash",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/971690/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 530
     },
     {
       "appid": "991560",
@@ -132,19 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26317
-    },
-    {
-      "appid": "727850",
-      "name": "ELDERBORN",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/727850/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1462
+      "review_count": 26319
     },
     {
       "appid": "251470",
@@ -157,6 +145,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 1776
+    },
+    {
+      "appid": "727850",
+      "name": "ELDERBORN",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/727850/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 1463
     },
     {
       "appid": "834450",
@@ -183,18 +183,6 @@
       "review_count": 34
     },
     {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 84,
-      "review_count": 52
-    },
-    {
       "appid": "3359900",
       "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
       "discount_pct": 75,
@@ -205,6 +193,18 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 85
+    },
+    {
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 84,
+      "review_count": 52
     },
     {
       "appid": "1058450",
@@ -252,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1472
+      "review_count": 1473
     },
     {
       "appid": "2702100",
@@ -276,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1836
+      "review_count": 1838
     },
     {
       "appid": "1689620",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2780
+      "review_count": 2781
     },
     {
       "appid": "3811350",
