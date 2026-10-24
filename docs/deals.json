@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T02:12:57.003989+00:00",
+  "updated_at": "2026-10-24T09:55:05.491926+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,19 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5799
-    },
-    {
-      "appid": "425220",
-      "name": "One Piece Burning Blood",
-      "discount_pct": 90,
-      "final_price": "$4.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/425220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/425220/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 905
+      "review_count": 5800
     },
     {
       "appid": "971690",
@@ -61,6 +49,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 532
+    },
+    {
+      "appid": "425220",
+      "name": "One Piece Burning Blood",
+      "discount_pct": 90,
+      "final_price": "$4.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/425220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/425220/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 905
     },
     {
       "appid": "991560",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1839
+      "review_count": 1841
     },
     {
       "appid": "1689620",
@@ -300,7 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2780
+      "review_count": 2781
     },
     {
       "appid": "3811350",
