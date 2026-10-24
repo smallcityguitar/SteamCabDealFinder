@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:55:05.491926+00:00",
+  "updated_at": "2026-10-24T14:58:23.655517+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
       "review_label": "Mixed",
       "review_pct": 53,
-      "review_count": 1709
+      "review_count": 1710
     },
     {
       "appid": "1089930",
@@ -195,18 +195,6 @@
       "review_count": 53
     },
     {
-      "appid": "1058450",
-      "name": "MY HERO ONE'S JUSTICE 2",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1058450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1662
-    },
-    {
       "appid": "3359900",
       "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
       "discount_pct": 75,
@@ -217,6 +205,18 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 85
+    },
+    {
+      "appid": "1058450",
+      "name": "MY HERO ONE'S JUSTICE 2",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1058450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 1663
     },
     {
       "appid": "748360",
