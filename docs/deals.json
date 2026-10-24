@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T14:58:23.655517+00:00",
+  "updated_at": "2026-10-24T19:54:50.730106+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -75,18 +75,6 @@
       "review_count": 1710
     },
     {
-      "appid": "1089930",
-      "name": "Aeon Must Die!",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1089930/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1089930/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 50,
-      "review_count": 101
-    },
-    {
       "appid": "1503350",
       "name": "Cyberpunch",
       "discount_pct": 90,
@@ -132,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26319
+      "review_count": 26320
     },
     {
       "appid": "727850",
@@ -145,18 +133,6 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 1463
-    },
-    {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1777
     },
     {
       "appid": "834450",
@@ -191,20 +167,8 @@
       "url": "https://store.steampowered.com/app/3822220/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 53
-    },
-    {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 85
+      "review_count": 54
     },
     {
       "appid": "1058450",
@@ -219,6 +183,18 @@
       "review_count": 1663
     },
     {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 85
+    },
+    {
       "appid": "748360",
       "name": "MY HERO ONE'S JUSTICE",
       "discount_pct": 75,
@@ -229,18 +205,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 75,
       "review_count": 1648
-    },
-    {
-      "appid": "540870",
-      "name": "Crewsaders",
-      "discount_pct": 72,
-      "final_price": "$0.83",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/540870/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/540870/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 70,
-      "review_count": 30
     },
     {
       "appid": "1681870",
@@ -288,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1841
+      "review_count": 1842
     },
     {
       "appid": "1689620",
