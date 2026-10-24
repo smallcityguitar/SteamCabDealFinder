@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T20:44:37.815428+00:00",
+  "updated_at": "2026-10-24T02:12:57.003989+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -23,8 +23,8 @@
       "url": "https://store.steampowered.com/app/1619330/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1619330/header.jpg",
       "review_label": "Mostly Positive",
-      "review_pct": 76,
-      "review_count": 152
+      "review_pct": 77,
+      "review_count": 151
     },
     {
       "appid": "544750",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 531
+      "review_count": 532
     },
     {
       "appid": "991560",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31306
+      "review_count": 31308
     },
     {
       "appid": "2270970",
@@ -132,19 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26320
-    },
-    {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1776
+      "review_count": 26319
     },
     {
       "appid": "727850",
@@ -157,6 +145,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 1463
+    },
+    {
+      "appid": "251470",
+      "name": "TowerFall Ascension",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1777
     },
     {
       "appid": "834450",
@@ -191,20 +191,8 @@
       "url": "https://store.steampowered.com/app/3822220/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 84,
-      "review_count": 52
-    },
-    {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 85
+      "review_pct": 83,
+      "review_count": 53
     },
     {
       "appid": "1058450",
@@ -217,6 +205,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 1662
+    },
+    {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 85
     },
     {
       "appid": "748360",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1838
+      "review_count": 1839
     },
     {
       "appid": "1689620",
