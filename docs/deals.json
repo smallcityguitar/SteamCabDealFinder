@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T01:59:03.469965+00:00",
+  "updated_at": "2026-10-25T10:17:01.096818+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,19 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5801
-    },
-    {
-      "appid": "971690",
-      "name": "Cake Bash",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/971690/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 532
+      "review_count": 5802
     },
     {
       "appid": "425220",
@@ -61,6 +49,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 905
+    },
+    {
+      "appid": "971690",
+      "name": "Cake Bash",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/971690/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 533
     },
     {
       "appid": "991560",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31309
+      "review_count": 31308
     },
     {
       "appid": "2270970",
@@ -191,8 +191,8 @@
       "url": "https://store.steampowered.com/app/3359900/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 85
+      "review_pct": 80,
+      "review_count": 86
     },
     {
       "appid": "748360",
@@ -252,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1843
+      "review_count": 1844
     },
     {
       "appid": "1689620",
