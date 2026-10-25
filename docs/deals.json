@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T15:09:11.456123+00:00",
+  "updated_at": "2026-10-25T20:05:06.565675+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -75,18 +75,6 @@
       "review_count": 1710
     },
     {
-      "appid": "1503350",
-      "name": "Cyberpunch",
-      "discount_pct": 90,
-      "final_price": "$2.49",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/1503350/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1503350/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
       "appid": "389730",
       "name": "TEKKEN 7",
       "discount_pct": 85,
@@ -120,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26320
+      "review_count": 26319
     },
     {
       "appid": "727850",
@@ -132,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1463
+      "review_count": 1464
     },
     {
       "appid": "834450",
@@ -171,18 +159,6 @@
       "review_count": 55
     },
     {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 86
-    },
-    {
       "appid": "1058450",
       "name": "MY HERO ONE'S JUSTICE 2",
       "discount_pct": 75,
@@ -193,6 +169,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 1664
+    },
+    {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 86
     },
     {
       "appid": "748360",
@@ -228,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1477
+      "review_count": 1476
     },
     {
       "appid": "2702100",
@@ -252,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1844
+      "review_count": 1846
     },
     {
       "appid": "1689620",
