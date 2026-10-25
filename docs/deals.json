@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:17:01.096818+00:00",
+  "updated_at": "2026-10-25T15:09:11.456123+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -39,6 +39,18 @@
       "review_count": 5802
     },
     {
+      "appid": "971690",
+      "name": "Cake Bash",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/971690/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 534
+    },
+    {
       "appid": "425220",
       "name": "One Piece Burning Blood",
       "discount_pct": 90,
@@ -49,18 +61,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 905
-    },
-    {
-      "appid": "971690",
-      "name": "Cake Bash",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/971690/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 533
     },
     {
       "appid": "991560",
@@ -171,18 +171,6 @@
       "review_count": 55
     },
     {
-      "appid": "1058450",
-      "name": "MY HERO ONE'S JUSTICE 2",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1058450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1664
-    },
-    {
       "appid": "3359900",
       "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
       "discount_pct": 75,
@@ -193,6 +181,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 86
+    },
+    {
+      "appid": "1058450",
+      "name": "MY HERO ONE'S JUSTICE 2",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1058450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 1664
     },
     {
       "appid": "748360",
