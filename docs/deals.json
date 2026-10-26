@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T11:41:58.111722+00:00",
+  "updated_at": "2026-10-26T17:45:53.706403+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -75,6 +75,18 @@
       "review_count": 1710
     },
     {
+      "appid": "512410",
+      "name": "69 Ways to Kill a Zombie",
+      "discount_pct": 86,
+      "final_price": "$0.69",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/512410/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/512410/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 65,
+      "review_count": 72
+    },
+    {
       "appid": "389730",
       "name": "TEKKEN 7",
       "discount_pct": 85,
@@ -84,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31312
+      "review_count": 31311
     },
     {
       "appid": "2270970",
@@ -108,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26321
+      "review_count": 26322
     },
     {
       "appid": "727850",
@@ -159,16 +171,16 @@
       "review_count": 55
     },
     {
-      "appid": "1058450",
-      "name": "MY HERO ONE'S JUSTICE 2",
+      "appid": "245170",
+      "name": "Skullgirls 2nd Encore",
       "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1058450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
+      "final_price": "$6.24",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/245170/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1664
+      "review_pct": 86,
+      "review_count": 11975
     },
     {
       "appid": "3359900",
@@ -181,6 +193,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 86
+    },
+    {
+      "appid": "1058450",
+      "name": "MY HERO ONE'S JUSTICE 2",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1058450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 1665
     },
     {
       "appid": "748360",
@@ -243,6 +267,18 @@
       "review_count": 1971
     },
     {
+      "appid": "2289920",
+      "name": "Street Boss",
+      "discount_pct": 65,
+      "final_price": "$0.69",
+      "original_price": "$1.99",
+      "url": "https://store.steampowered.com/app/2289920/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289920/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
       "appid": "3717070",
       "name": "WWE 2K26",
       "discount_pct": 60,
@@ -252,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1848
+      "review_count": 1849
     },
     {
       "appid": "1689620",
@@ -265,6 +301,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 2781
+    },
+    {
+      "appid": "457260",
+      "name": "Omen of Sorrow",
+      "discount_pct": 60,
+      "final_price": "$7.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/457260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/457260/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 41
     },
     {
       "appid": "1028130",
