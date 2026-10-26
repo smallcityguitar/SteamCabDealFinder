@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T02:00:46.851404+00:00",
+  "updated_at": "2026-10-26T11:41:58.111722+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 534
+      "review_count": 535
     },
     {
       "appid": "425220",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26320
+      "review_count": 26321
     },
     {
       "appid": "727850",
@@ -123,18 +123,6 @@
       "review_count": 1464
     },
     {
-      "appid": "834450",
-      "name": "Roarr! The Adventures of Rampage Rex",
-      "discount_pct": 79,
-      "final_price": "$0.62",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/834450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/834450/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 66,
-      "review_count": 54
-    },
-    {
       "appid": "1230340",
       "name": "The Sperminator: Rescuing Tzar Vlad",
       "discount_pct": 79,
@@ -145,6 +133,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 34
+    },
+    {
+      "appid": "834450",
+      "name": "Roarr! The Adventures of Rampage Rex",
+      "discount_pct": 79,
+      "final_price": "$0.62",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/834450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/834450/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 66,
+      "review_count": 54
     },
     {
       "appid": "3822220",
@@ -231,6 +231,18 @@
       "review_count": 0
     },
     {
+      "appid": "1546400",
+      "name": "GigaBash",
+      "discount_pct": 65,
+      "final_price": "$8.74",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/1546400/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1971
+    },
+    {
       "appid": "3717070",
       "name": "WWE 2K26",
       "discount_pct": 60,
@@ -240,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1847
+      "review_count": 1848
     },
     {
       "appid": "1689620",
@@ -252,7 +264,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2780
+      "review_count": 2781
+    },
+    {
+      "appid": "1028130",
+      "name": "Gamble Fight Plus",
+      "discount_pct": 60,
+      "final_price": "$3.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1028130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 51,
+      "review_count": 149
     },
     {
       "appid": "3811350",
