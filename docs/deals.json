@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-10-27T16:56:52.113856+00:00",
+  "updated_at": "2026-10-27T21:32:35.200706+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "1470750",
-      "name": "MAGIC POT&TER BATTLEGROUNDS",
-      "discount_pct": 95,
-      "final_price": "$9.99",
-      "original_price": "$199.99",
-      "url": "https://store.steampowered.com/app/1470750/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1470750/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
-      "appid": "1619330",
-      "name": "Firelight Fantasy: Force Energy",
-      "discount_pct": 93,
-      "final_price": "$0.83",
-      "original_price": "$11.99",
-      "url": "https://store.steampowered.com/app/1619330/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1619330/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 77,
-      "review_count": 151
-    },
     {
       "appid": "544750",
       "name": "SOULCALIBUR VI",
@@ -96,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31315
+      "review_count": 31318
     },
     {
       "appid": "2270970",
@@ -120,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26322
+      "review_count": 26324
     },
     {
       "appid": "727850",
@@ -171,18 +147,6 @@
       "review_count": 11978
     },
     {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 56
-    },
-    {
       "appid": "1058450",
       "name": "MY HERO ONE'S JUSTICE 2",
       "discount_pct": 75,
@@ -193,6 +157,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 1665
+    },
+    {
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 56
     },
     {
       "appid": "3359900",
@@ -303,18 +279,6 @@
       "review_count": 2783
     },
     {
-      "appid": "1028130",
-      "name": "Gamble Fight Plus",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1028130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 51,
-      "review_count": 149
-    },
-    {
       "appid": "457260",
       "name": "Omen of Sorrow",
       "discount_pct": 60,
@@ -325,6 +289,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 75,
       "review_count": 41
+    },
+    {
+      "appid": "1028130",
+      "name": "Gamble Fight Plus",
+      "discount_pct": 60,
+      "final_price": "$3.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1028130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 51,
+      "review_count": 149
     }
   ]
 }
