@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T02:38:14.582841+00:00",
+  "updated_at": "2026-10-27T11:10:27.431035+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 536
+      "review_count": 537
     },
     {
       "appid": "425220",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31313
+      "review_count": 31314
     },
     {
       "appid": "2270970",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26323
+      "review_count": 26322
     },
     {
       "appid": "727850",
@@ -132,19 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1464
-    },
-    {
-      "appid": "1230340",
-      "name": "The Sperminator: Rescuing Tzar Vlad",
-      "discount_pct": 79,
-      "final_price": "$0.62",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/1230340/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1230340/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 34
+      "review_count": 1465
     },
     {
       "appid": "834450",
@@ -159,6 +147,18 @@
       "review_count": 54
     },
     {
+      "appid": "1230340",
+      "name": "The Sperminator: Rescuing Tzar Vlad",
+      "discount_pct": 79,
+      "final_price": "$0.62",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/1230340/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1230340/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 34
+    },
+    {
       "appid": "245170",
       "name": "Skullgirls 2nd Encore",
       "discount_pct": 75,
@@ -168,19 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11977
-    },
-    {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 55
+      "review_count": 11978
     },
     {
       "appid": "1058450",
@@ -193,6 +181,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 1665
+    },
+    {
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 55
     },
     {
       "appid": "748360",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 86
+      "review_count": 87
     },
     {
       "appid": "1681870",
@@ -303,18 +303,6 @@
       "review_count": 2782
     },
     {
-      "appid": "457260",
-      "name": "Omen of Sorrow",
-      "discount_pct": 60,
-      "final_price": "$7.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/457260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/457260/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 41
-    },
-    {
       "appid": "1028130",
       "name": "Gamble Fight Plus",
       "discount_pct": 60,
@@ -325,6 +313,18 @@
       "review_label": "Mixed",
       "review_pct": 51,
       "review_count": 149
+    },
+    {
+      "appid": "457260",
+      "name": "Omen of Sorrow",
+      "discount_pct": 60,
+      "final_price": "$7.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/457260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/457260/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 41
     }
   ]
 }
