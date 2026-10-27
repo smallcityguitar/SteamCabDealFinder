@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T21:59:45.501617+00:00",
+  "updated_at": "2026-10-27T02:38:14.582841+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,7 +36,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5804
+      "review_count": 5805
+    },
+    {
+      "appid": "971690",
+      "name": "Cake Bash",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/971690/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 536
     },
     {
       "appid": "425220",
@@ -49,18 +61,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 905
-    },
-    {
-      "appid": "971690",
-      "name": "Cake Bash",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/971690/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 535
     },
     {
       "appid": "991560",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31312
+      "review_count": 31313
     },
     {
       "appid": "2270970",
@@ -243,6 +243,18 @@
       "review_count": 1478
     },
     {
+      "appid": "2702100",
+      "name": "Savage Warriors",
+      "discount_pct": 67,
+      "final_price": "$1.97",
+      "original_price": "$5.99",
+      "url": "https://store.steampowered.com/app/2702100/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
       "appid": "1835240",
       "name": "Spiritfall",
       "discount_pct": 66,
@@ -276,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1849
+      "review_count": 1852
     },
     {
       "appid": "1689620",
@@ -288,7 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2781
+      "review_count": 2782
     },
     {
       "appid": "457260",
