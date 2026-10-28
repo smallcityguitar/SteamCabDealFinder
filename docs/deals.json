@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:44:39.198807+00:00",
+  "updated_at": "2026-10-28T17:30:48.820579+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -13,18 +13,6 @@
       "review_label": "Very Positive",
       "review_pct": 83,
       "review_count": 5805
-    },
-    {
-      "appid": "971690",
-      "name": "Cake Bash",
-      "discount_pct": 90,
-      "final_price": "$1.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/971690/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 538
     },
     {
       "appid": "425220",
@@ -48,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/991560/header.jpg",
       "review_label": "Mixed",
       "review_pct": 53,
-      "review_count": 1710
+      "review_count": 1711
     },
     {
       "appid": "512410",
@@ -75,18 +63,6 @@
       "review_count": 31318
     },
     {
-      "appid": "2270970",
-      "name": "Fight & Crush",
-      "discount_pct": 85,
-      "final_price": "$0.74",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/2270970/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2270970/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 73,
-      "review_count": 23
-    },
-    {
       "appid": "678950",
       "name": "DRAGON BALL FighterZ",
       "discount_pct": 84,
@@ -96,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26325
+      "review_count": 26327
     },
     {
       "appid": "727850",
@@ -123,18 +99,6 @@
       "review_count": 54
     },
     {
-      "appid": "1230340",
-      "name": "The Sperminator: Rescuing Tzar Vlad",
-      "discount_pct": 79,
-      "final_price": "$0.62",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/1230340/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1230340/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 34
-    },
-    {
       "appid": "245170",
       "name": "Skullgirls 2nd Encore",
       "discount_pct": 75,
@@ -144,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11979
+      "review_count": 11980
     },
     {
       "appid": "1058450",
@@ -167,20 +131,8 @@
       "url": "https://store.steampowered.com/app/3822220/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 56
-    },
-    {
-      "appid": "748360",
-      "name": "MY HERO ONE'S JUSTICE",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/748360/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/748360/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 1648
+      "review_pct": 80,
+      "review_count": 57
     },
     {
       "appid": "3359900",
@@ -193,6 +145,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 87
+    },
+    {
+      "appid": "748360",
+      "name": "MY HERO ONE'S JUSTICE",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/748360/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/748360/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 1648
     },
     {
       "appid": "1681870",
@@ -219,6 +183,18 @@
       "review_count": 1481
     },
     {
+      "appid": "2702100",
+      "name": "Savage Warriors",
+      "discount_pct": 67,
+      "final_price": "$1.97",
+      "original_price": "$5.99",
+      "url": "https://store.steampowered.com/app/2702100/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
       "appid": "1835240",
       "name": "Spiritfall",
       "discount_pct": 66,
@@ -243,6 +219,18 @@
       "review_count": 1972
     },
     {
+      "appid": "2289920",
+      "name": "Street Boss",
+      "discount_pct": 65,
+      "final_price": "$0.69",
+      "original_price": "$1.99",
+      "url": "https://store.steampowered.com/app/2289920/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289920/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
       "appid": "3717070",
       "name": "WWE 2K26",
       "discount_pct": 60,
@@ -252,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1856
+      "review_count": 1859
     },
     {
       "appid": "1689620",
