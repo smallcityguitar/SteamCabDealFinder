@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:53:15.639464+00:00",
+  "updated_at": "2026-10-29T17:41:40.140392+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -75,18 +75,6 @@
       "review_count": 26327
     },
     {
-      "appid": "727850",
-      "name": "ELDERBORN",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/727850/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1467
-    },
-    {
       "appid": "834450",
       "name": "Roarr! The Adventures of Rampage Rex",
       "discount_pct": 79,
@@ -135,18 +123,6 @@
       "review_count": 1665
     },
     {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 87
-    },
-    {
       "appid": "748360",
       "name": "MY HERO ONE'S JUSTICE",
       "discount_pct": 75,
@@ -157,6 +133,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 75,
       "review_count": 1648
+    },
+    {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 87
     },
     {
       "appid": "1681870",
@@ -204,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1856
+      "review_count": 1857
     },
     {
       "appid": "1546400",
@@ -240,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1866
+      "review_count": 1868
     },
     {
       "appid": "1689620",
