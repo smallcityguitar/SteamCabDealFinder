@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:41:40.140392+00:00",
+  "updated_at": "2026-10-29T22:07:16.626771+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31319
+      "review_count": 31322
     },
     {
       "appid": "678950",
@@ -96,19 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11979
-    },
-    {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 58
+      "review_count": 11978
     },
     {
       "appid": "1058450",
@@ -123,16 +111,16 @@
       "review_count": 1665
     },
     {
-      "appid": "748360",
-      "name": "MY HERO ONE'S JUSTICE",
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
       "discount_pct": 75,
       "final_price": "$4.99",
       "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/748360/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/748360/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 1648
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 58
     },
     {
       "appid": "3359900",
@@ -145,6 +133,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 87
+    },
+    {
+      "appid": "748360",
+      "name": "MY HERO ONE'S JUSTICE",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/748360/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/748360/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 1648
     },
     {
       "appid": "1681870",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1857
+      "review_count": 1858
     },
     {
       "appid": "1546400",
