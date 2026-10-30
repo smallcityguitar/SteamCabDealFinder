@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T22:07:16.626771+00:00",
+  "updated_at": "2026-10-30T03:12:06.768445+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -75,6 +75,18 @@
       "review_count": 26327
     },
     {
+      "appid": "446040",
+      "name": "Blade Arcus from Shining: Battle Arena",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/446040/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/446040/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 234
+    },
+    {
       "appid": "834450",
       "name": "Roarr! The Adventures of Rampage Rex",
       "discount_pct": 79,
@@ -96,19 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11978
-    },
-    {
-      "appid": "1058450",
-      "name": "MY HERO ONE'S JUSTICE 2",
-      "discount_pct": 75,
-      "final_price": "$14.99",
-      "original_price": "$59.99",
-      "url": "https://store.steampowered.com/app/1058450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 1665
+      "review_count": 11979
     },
     {
       "appid": "3822220",
@@ -121,6 +121,18 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 58
+    },
+    {
+      "appid": "1058450",
+      "name": "MY HERO ONE'S JUSTICE 2",
+      "discount_pct": 75,
+      "final_price": "$14.99",
+      "original_price": "$59.99",
+      "url": "https://store.steampowered.com/app/1058450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 1665
     },
     {
       "appid": "3359900",
@@ -168,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1485
+      "review_count": 1486
     },
     {
       "appid": "2702100",
@@ -228,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1868
+      "review_count": 1871
     },
     {
       "appid": "1689620",
@@ -255,6 +267,18 @@
       "review_count": 41
     },
     {
+      "appid": "452420",
+      "name": "Koihime Enbu",
+      "discount_pct": 60,
+      "final_price": "$1.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/452420/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452420/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 269
+    },
+    {
       "appid": "1028130",
       "name": "Gamble Fight Plus",
       "discount_pct": 60,
@@ -265,6 +289,18 @@
       "review_label": "Mixed",
       "review_pct": 51,
       "review_count": 149
+    },
+    {
+      "appid": "795510",
+      "name": "Koihime Enbu RyoRaiRai",
+      "discount_pct": 60,
+      "final_price": "$4.79",
+      "original_price": "$11.99",
+      "url": "https://store.steampowered.com/app/795510/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 167
     },
     {
       "appid": "3811350",
