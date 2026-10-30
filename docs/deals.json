@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:46:03.750149+00:00",
+  "updated_at": "2026-10-30T17:20:55.204476+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31326
+      "review_count": 31329
     },
     {
       "appid": "678950",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26328
+      "review_count": 26329
     },
     {
       "appid": "446040",
@@ -130,9 +130,9 @@
       "original_price": "$19.99",
       "url": "https://store.steampowered.com/app/3822220/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 58
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 59
     },
     {
       "appid": "748360",
@@ -157,6 +157,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 87
+    },
+    {
+      "appid": "1372280",
+      "name": "MELTY BLOOD: TYPE LUMINA",
+      "discount_pct": 70,
+      "final_price": "$14.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1372280/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 5321
     },
     {
       "appid": "1681870",
@@ -219,18 +231,6 @@
       "review_count": 1973
     },
     {
-      "appid": "2289920",
-      "name": "Street Boss",
-      "discount_pct": 65,
-      "final_price": "$0.69",
-      "original_price": "$1.99",
-      "url": "https://store.steampowered.com/app/2289920/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2289920/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
       "appid": "3717070",
       "name": "WWE 2K26",
       "discount_pct": 60,
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1873
+      "review_count": 1874
     },
     {
       "appid": "1689620",
@@ -301,18 +301,6 @@
       "review_label": "Mixed",
       "review_pct": 51,
       "review_count": 149
-    },
-    {
-      "appid": "3811350",
-      "name": "Real Boxing 2: Remastered",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/3811350/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3811350/header.jpg",
-      "review_label": "Mostly Negative",
-      "review_pct": 38,
-      "review_count": 18
     }
   ]
 }
