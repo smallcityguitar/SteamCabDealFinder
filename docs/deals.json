@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T03:12:06.768445+00:00",
+  "updated_at": "2026-10-30T11:46:03.750149+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5805
+      "review_count": 5806
     },
     {
       "appid": "425220",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31322
+      "review_count": 31326
     },
     {
       "appid": "678950",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26327
+      "review_count": 26328
     },
     {
       "appid": "446040",
@@ -108,19 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11979
-    },
-    {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 58
+      "review_count": 11978
     },
     {
       "appid": "1058450",
@@ -135,16 +123,16 @@
       "review_count": 1665
     },
     {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
       "discount_pct": 75,
       "final_price": "$4.99",
       "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 87
+      "review_pct": 81,
+      "review_count": 58
     },
     {
       "appid": "748360",
@@ -157,6 +145,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 75,
       "review_count": 1648
+    },
+    {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 87
     },
     {
       "appid": "1681870",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1486
+      "review_count": 1489
     },
     {
       "appid": "2702100",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1858
+      "review_count": 1859
     },
     {
       "appid": "1546400",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1871
+      "review_count": 1873
     },
     {
       "appid": "1689620",
@@ -255,16 +255,16 @@
       "review_count": 2786
     },
     {
-      "appid": "457260",
-      "name": "Omen of Sorrow",
+      "appid": "795510",
+      "name": "Koihime Enbu RyoRaiRai",
       "discount_pct": 60,
-      "final_price": "$7.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/457260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/457260/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 41
+      "final_price": "$4.79",
+      "original_price": "$11.99",
+      "url": "https://store.steampowered.com/app/795510/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 167
     },
     {
       "appid": "452420",
@@ -279,6 +279,18 @@
       "review_count": 269
     },
     {
+      "appid": "457260",
+      "name": "Omen of Sorrow",
+      "discount_pct": 60,
+      "final_price": "$7.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/457260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/457260/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 41
+    },
+    {
       "appid": "1028130",
       "name": "Gamble Fight Plus",
       "discount_pct": 60,
@@ -289,18 +301,6 @@
       "review_label": "Mixed",
       "review_pct": 51,
       "review_count": 149
-    },
-    {
-      "appid": "795510",
-      "name": "Koihime Enbu RyoRaiRai",
-      "discount_pct": 60,
-      "final_price": "$4.79",
-      "original_price": "$11.99",
-      "url": "https://store.steampowered.com/app/795510/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 167
     },
     {
       "appid": "3811350",
