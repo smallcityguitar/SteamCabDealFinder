@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T17:20:55.204476+00:00",
+  "updated_at": "2026-10-30T21:45:31.754508+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -195,18 +195,6 @@
       "review_count": 1489
     },
     {
-      "appid": "2702100",
-      "name": "Savage Warriors",
-      "discount_pct": 67,
-      "final_price": "$1.97",
-      "original_price": "$5.99",
-      "url": "https://store.steampowered.com/app/2702100/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
       "appid": "1835240",
       "name": "Spiritfall",
       "discount_pct": 66,
@@ -240,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1874
+      "review_count": 1875
     },
     {
       "appid": "1689620",
