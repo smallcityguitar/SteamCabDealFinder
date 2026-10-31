@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:45:31.754508+00:00",
+  "updated_at": "2026-10-31T02:57:12.503846+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31329
+      "review_count": 31328
     },
     {
       "appid": "678950",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 11978
+      "review_count": 11980
     },
     {
       "appid": "1058450",
@@ -120,19 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1665
-    },
-    {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 59
+      "review_count": 1664
     },
     {
       "appid": "748360",
@@ -145,6 +133,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 75,
       "review_count": 1648
+    },
+    {
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 59
     },
     {
       "appid": "3359900",
