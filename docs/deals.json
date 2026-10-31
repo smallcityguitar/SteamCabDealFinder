@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:25:30.769038+00:00",
+  "updated_at": "2026-10-31T20:44:35.199568+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31328
+      "review_count": 31329
     },
     {
       "appid": "678950",
@@ -85,18 +85,6 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 234
-    },
-    {
-      "appid": "834450",
-      "name": "Roarr! The Adventures of Rampage Rex",
-      "discount_pct": 79,
-      "final_price": "$0.62",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/834450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/834450/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 66,
-      "review_count": 54
     },
     {
       "appid": "245170",
@@ -168,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5321
+      "review_count": 5322
     },
     {
       "appid": "1681870",
@@ -192,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1489
+      "review_count": 1488
     },
     {
       "appid": "1835240",
@@ -228,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1875
+      "review_count": 1876
     },
     {
       "appid": "1689620",
@@ -240,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2787
+      "review_count": 2788
     },
     {
       "appid": "795510",
@@ -289,6 +277,18 @@
       "review_label": "Mixed",
       "review_pct": 51,
       "review_count": 150
+    },
+    {
+      "appid": "1447570",
+      "name": "Monkey King vs Transformers",
+      "discount_pct": 60,
+      "final_price": "$1.59",
+      "original_price": "$3.99",
+      "url": "https://store.steampowered.com/app/1447570/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1447570/header.jpg",
+      "review_label": "Positive",
+      "review_pct": 90,
+      "review_count": 11
     }
   ]
 }
