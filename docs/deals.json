@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:57:12.503846+00:00",
+  "updated_at": "2026-10-31T11:19:51.542042+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31328
+      "review_count": 31327
     },
     {
       "appid": "678950",
@@ -123,18 +123,6 @@
       "review_count": 1664
     },
     {
-      "appid": "748360",
-      "name": "MY HERO ONE'S JUSTICE",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/748360/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/748360/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 1648
-    },
-    {
       "appid": "3822220",
       "name": "WORLD HEROES PERFECT",
       "discount_pct": 75,
@@ -147,6 +135,18 @@
       "review_count": 59
     },
     {
+      "appid": "748360",
+      "name": "MY HERO ONE'S JUSTICE",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/748360/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/748360/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 1648
+    },
+    {
       "appid": "3359900",
       "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
       "discount_pct": 75,
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 87
+      "review_count": 89
     },
     {
       "appid": "1372280",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
       "review_label": "Mixed",
       "review_pct": 51,
-      "review_count": 149
+      "review_count": 150
     }
   ]
 }
