@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T02:51:56.257163+00:00",
+  "updated_at": "2026-11-01T12:10:57.730243+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31329
+      "review_count": 31333
     },
     {
       "appid": "678950",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5322
+      "review_count": 5323
     },
     {
       "appid": "1681870",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1859
+      "review_count": 1860
     },
     {
       "appid": "1546400",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
       "review_label": "Mixed",
       "review_pct": 55,
-      "review_count": 1876
+      "review_count": 1875
     },
     {
       "appid": "1689620",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2788
+      "review_count": 2789
     },
     {
       "appid": "795510",
