@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:07:32.440881+00:00",
+  "updated_at": "2026-11-03T22:39:16.064911+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -63,6 +63,18 @@
       "review_count": 269
     },
     {
+      "appid": "1162050",
+      "name": "Knockout Party",
+      "discount_pct": 88,
+      "final_price": "$0.83",
+      "original_price": "$6.99",
+      "url": "https://store.steampowered.com/app/1162050/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1162050/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 69,
+      "review_count": 109
+    },
+    {
       "appid": "389730",
       "name": "TEKKEN 7",
       "discount_pct": 85,
@@ -84,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26328
+      "review_count": 26329
     },
     {
       "appid": "446040",
@@ -96,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/446040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 234
+      "review_count": 235
     },
     {
       "appid": "1058450",
@@ -156,19 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5325
-    },
-    {
-      "appid": "1681870",
-      "name": "Cobra Kai 2: Dojos Rising",
-      "discount_pct": 70,
-      "final_price": "$14.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1681870/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1681870/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 43,
-      "review_count": 72
+      "review_count": 5326
     },
     {
       "appid": "1020790",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1490
+      "review_count": 1489
     },
     {
       "appid": "2563030",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1860
+      "review_count": 1861
     },
     {
       "appid": "1546400",
@@ -216,19 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1980
-    },
-    {
-      "appid": "1451190",
-      "name": "Undisputed",
-      "discount_pct": 60,
-      "final_price": "$19.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1451190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 58,
-      "review_count": 13983
+      "review_count": 1979
     },
     {
       "appid": "1689620",
@@ -241,6 +229,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 2793
+    },
+    {
+      "appid": "1451190",
+      "name": "Undisputed",
+      "discount_pct": 60,
+      "final_price": "$19.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/1451190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 58,
+      "review_count": 13983
     },
     {
       "appid": "795510",
@@ -267,18 +267,6 @@
       "review_count": 269
     },
     {
-      "appid": "1028130",
-      "name": "Gamble Fight Plus",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1028130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 51,
-      "review_count": 150
-    },
-    {
       "appid": "572220",
       "name": "MageQuit",
       "discount_pct": 60,
@@ -291,6 +279,18 @@
       "review_count": 1038
     },
     {
+      "appid": "1028130",
+      "name": "Gamble Fight Plus",
+      "discount_pct": 60,
+      "final_price": "$3.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1028130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 51,
+      "review_count": 150
+    },
+    {
       "appid": "1447570",
       "name": "Monkey King vs Transformers",
       "discount_pct": 60,
@@ -301,18 +301,6 @@
       "review_label": "Positive",
       "review_pct": 90,
       "review_count": 11
-    },
-    {
-      "appid": "3811350",
-      "name": "Real Boxing 2: Remastered",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/3811350/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3811350/header.jpg",
-      "review_label": "Mostly Negative",
-      "review_pct": 38,
-      "review_count": 18
     },
     {
       "appid": "2161230",
