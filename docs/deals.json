@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T13:59:01.497531+00:00",
+  "updated_at": "2026-11-03T00:07:42.851317+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5809
+      "review_count": 5808
     },
     {
       "appid": "991560",
@@ -51,16 +51,16 @@
       "review_count": 97
     },
     {
-      "appid": "512410",
-      "name": "69 Ways to Kill a Zombie",
-      "discount_pct": 86,
-      "final_price": "$0.69",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/512410/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/512410/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 65,
-      "review_count": 72
+      "appid": "2192900",
+      "name": "Knock'Em Out",
+      "discount_pct": 88,
+      "final_price": "$0.95",
+      "original_price": "$7.99",
+      "url": "https://store.steampowered.com/app/2192900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 269
     },
     {
       "appid": "389730",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31339
+      "review_count": 31347
     },
     {
       "appid": "678950",
@@ -99,18 +99,6 @@
       "review_count": 234
     },
     {
-      "appid": "245170",
-      "name": "Skullgirls 2nd Encore",
-      "discount_pct": 75,
-      "final_price": "$6.24",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/245170/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 86,
-      "review_count": 11983
-    },
-    {
       "appid": "1058450",
       "name": "MY HERO ONE'S JUSTICE 2",
       "discount_pct": 75,
@@ -123,18 +111,6 @@
       "review_count": 1664
     },
     {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 90
-    },
-    {
       "appid": "3822220",
       "name": "WORLD HEROES PERFECT",
       "discount_pct": 75,
@@ -145,6 +121,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 59
+    },
+    {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 90
     },
     {
       "appid": "748360",
@@ -168,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5325
+      "review_count": 5326
     },
     {
       "appid": "1681870",
@@ -195,16 +183,16 @@
       "review_count": 1489
     },
     {
-      "appid": "2702100",
-      "name": "Savage Warriors",
+      "appid": "2563030",
+      "name": "We Could Be Heroes",
       "discount_pct": 67,
-      "final_price": "$1.97",
-      "original_price": "$5.99",
-      "url": "https://store.steampowered.com/app/2702100/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2702100/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
+      "final_price": "$4.94",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/2563030/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2563030/header.jpg",
+      "review_label": "Positive",
+      "review_pct": 86,
+      "review_count": 43
     },
     {
       "appid": "1835240",
@@ -228,19 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1977
-    },
-    {
-      "appid": "3717070",
-      "name": "WWE 2K26",
-      "discount_pct": 60,
-      "final_price": "$27.99",
-      "original_price": "$69.99",
-      "url": "https://store.steampowered.com/app/3717070/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3717070/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 55,
-      "review_count": 1877
+      "review_count": 1979
     },
     {
       "appid": "1451190",
@@ -252,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13982
+      "review_count": 13983
     },
     {
       "appid": "1689620",
@@ -264,19 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2792
-    },
-    {
-      "appid": "795510",
-      "name": "Koihime Enbu RyoRaiRai",
-      "discount_pct": 60,
-      "final_price": "$4.79",
-      "original_price": "$11.99",
-      "url": "https://store.steampowered.com/app/795510/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 167
+      "review_count": 2793
     },
     {
       "appid": "452420",
@@ -291,6 +255,18 @@
       "review_count": 269
     },
     {
+      "appid": "795510",
+      "name": "Koihime Enbu RyoRaiRai",
+      "discount_pct": 60,
+      "final_price": "$4.79",
+      "original_price": "$11.99",
+      "url": "https://store.steampowered.com/app/795510/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 167
+    },
+    {
       "appid": "1028130",
       "name": "Gamble Fight Plus",
       "discount_pct": 60,
@@ -303,16 +279,16 @@
       "review_count": 150
     },
     {
-      "appid": "457260",
-      "name": "Omen of Sorrow",
+      "appid": "572220",
+      "name": "MageQuit",
       "discount_pct": 60,
-      "final_price": "$7.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/457260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/457260/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 75,
-      "review_count": 41
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/572220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/572220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1037
     },
     {
       "appid": "1447570",
@@ -325,6 +301,30 @@
       "review_label": "Positive",
       "review_pct": 90,
       "review_count": 11
+    },
+    {
+      "appid": "2161230",
+      "name": "Grapple Gunners",
+      "discount_pct": 60,
+      "final_price": "$3.19",
+      "original_price": "$7.99",
+      "url": "https://store.steampowered.com/app/2161230/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2161230/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
+      "appid": "3811350",
+      "name": "Real Boxing 2: Remastered",
+      "discount_pct": 60,
+      "final_price": "$3.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/3811350/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3811350/header.jpg",
+      "review_label": "Mostly Negative",
+      "review_pct": 38,
+      "review_count": 18
     }
   ]
 }
