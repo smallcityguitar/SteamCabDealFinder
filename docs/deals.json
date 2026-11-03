@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T00:07:42.851317+00:00",
+  "updated_at": "2026-11-03T13:07:32.440881+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5808
+      "review_count": 5809
     },
     {
       "appid": "991560",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31347
+      "review_count": 31348
     },
     {
       "appid": "678950",
@@ -123,18 +123,6 @@
       "review_count": 59
     },
     {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 90
-    },
-    {
       "appid": "748360",
       "name": "MY HERO ONE'S JUSTICE",
       "discount_pct": 75,
@@ -147,6 +135,18 @@
       "review_count": 1648
     },
     {
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 90
+    },
+    {
       "appid": "1372280",
       "name": "MELTY BLOOD: TYPE LUMINA",
       "discount_pct": 70,
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5326
+      "review_count": 5325
     },
     {
       "appid": "1681870",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1489
+      "review_count": 1490
     },
     {
       "appid": "2563030",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1979
+      "review_count": 1980
     },
     {
       "appid": "1451190",
@@ -243,18 +243,6 @@
       "review_count": 2793
     },
     {
-      "appid": "452420",
-      "name": "Koihime Enbu",
-      "discount_pct": 60,
-      "final_price": "$1.99",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/452420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452420/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 269
-    },
-    {
       "appid": "795510",
       "name": "Koihime Enbu RyoRaiRai",
       "discount_pct": 60,
@@ -265,6 +253,18 @@
       "review_label": "Very Positive",
       "review_pct": 88,
       "review_count": 167
+    },
+    {
+      "appid": "452420",
+      "name": "Koihime Enbu",
+      "discount_pct": 60,
+      "final_price": "$1.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/452420/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452420/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 269
     },
     {
       "appid": "1028130",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/572220/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1037
+      "review_count": 1038
     },
     {
       "appid": "1447570",
@@ -303,18 +303,6 @@
       "review_count": 11
     },
     {
-      "appid": "2161230",
-      "name": "Grapple Gunners",
-      "discount_pct": 60,
-      "final_price": "$3.19",
-      "original_price": "$7.99",
-      "url": "https://store.steampowered.com/app/2161230/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2161230/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
       "appid": "3811350",
       "name": "Real Boxing 2: Remastered",
       "discount_pct": 60,
@@ -325,6 +313,18 @@
       "review_label": "Mostly Negative",
       "review_pct": 38,
       "review_count": 18
+    },
+    {
+      "appid": "2161230",
+      "name": "Grapple Gunners",
+      "discount_pct": 60,
+      "final_price": "$3.19",
+      "original_price": "$7.99",
+      "url": "https://store.steampowered.com/app/2161230/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2161230/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
     }
   ]
 }
