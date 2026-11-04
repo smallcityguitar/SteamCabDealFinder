@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T22:39:16.064911+00:00",
+  "updated_at": "2026-11-04T03:35:56.701885+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26329
+      "review_count": 26331
     },
     {
       "appid": "446040",
@@ -123,16 +123,16 @@
       "review_count": 1664
     },
     {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
+      "appid": "3359900",
+      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
       "discount_pct": 75,
       "final_price": "$4.99",
       "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 59
+      "url": "https://store.steampowered.com/app/3359900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 90
     },
     {
       "appid": "748360",
@@ -147,16 +147,16 @@
       "review_count": 1648
     },
     {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+      "appid": "3822220",
+      "name": "WORLD HEROES PERFECT",
       "discount_pct": 75,
       "final_price": "$4.99",
       "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 90
+      "url": "https://store.steampowered.com/app/3822220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 79,
+      "review_count": 59
     },
     {
       "appid": "1372280",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5326
+      "review_count": 5327
     },
     {
       "appid": "1020790",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2793
+      "review_count": 2794
     },
     {
       "appid": "1451190",
