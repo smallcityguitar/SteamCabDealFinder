@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T03:56:24.819725+00:00",
+  "updated_at": "2026-11-05T13:37:36.909938+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 269
+      "review_count": 270
     },
     {
       "appid": "1162050",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 31347
+      "review_count": 31348
     },
     {
       "appid": "678950",
@@ -96,19 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26331
-    },
-    {
-      "appid": "446040",
-      "name": "Blade Arcus from Shining: Battle Arena",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/446040/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/446040/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 235
+      "review_count": 26332
     },
     {
       "appid": "217270",
@@ -123,6 +111,18 @@
       "review_count": 205
     },
     {
+      "appid": "446040",
+      "name": "Blade Arcus from Shining: Battle Arena",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/446040/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/446040/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 235
+    },
+    {
       "appid": "1058450",
       "name": "MY HERO ONE'S JUSTICE 2",
       "discount_pct": 75,
@@ -132,31 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1664
-    },
-    {
-      "appid": "3822220",
-      "name": "WORLD HEROES PERFECT",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3822220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3822220/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 79,
-      "review_count": 59
-    },
-    {
-      "appid": "3359900",
-      "name": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/3359900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3359900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 91
+      "review_count": 1665
     },
     {
       "appid": "748360",
@@ -192,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1490
+      "review_count": 1491
     },
     {
       "appid": "2563030",
@@ -216,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1862
+      "review_count": 1863
     },
     {
       "appid": "1546400",
@@ -252,19 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13987
-    },
-    {
-      "appid": "795510",
-      "name": "Koihime Enbu RyoRaiRai",
-      "discount_pct": 60,
-      "final_price": "$4.79",
-      "original_price": "$11.99",
-      "url": "https://store.steampowered.com/app/795510/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 167
+      "review_count": 13988
     },
     {
       "appid": "452420",
@@ -279,6 +243,18 @@
       "review_count": 270
     },
     {
+      "appid": "795510",
+      "name": "Koihime Enbu RyoRaiRai",
+      "discount_pct": 60,
+      "final_price": "$4.79",
+      "original_price": "$11.99",
+      "url": "https://store.steampowered.com/app/795510/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 88,
+      "review_count": 167
+    },
+    {
       "appid": "572220",
       "name": "MageQuit",
       "discount_pct": 60,
@@ -291,18 +267,6 @@
       "review_count": 1038
     },
     {
-      "appid": "1028130",
-      "name": "Gamble Fight Plus",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1028130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 51,
-      "review_count": 150
-    },
-    {
       "appid": "1447570",
       "name": "Monkey King vs Transformers",
       "discount_pct": 60,
@@ -313,6 +277,18 @@
       "review_label": "Positive",
       "review_pct": 90,
       "review_count": 11
+    },
+    {
+      "appid": "1028130",
+      "name": "Gamble Fight Plus",
+      "discount_pct": 60,
+      "final_price": "$3.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1028130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 51,
+      "review_count": 150
     },
     {
       "appid": "2161230",
