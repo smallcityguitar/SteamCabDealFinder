@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:28:50.568120+00:00",
+  "updated_at": "2026-11-07T03:28:24.739078+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1058450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 1665
+      "review_count": 1666
     },
     {
       "appid": "2192900",
@@ -123,18 +123,6 @@
       "review_count": 5916
     },
     {
-      "appid": "446040",
-      "name": "Blade Arcus from Shining: Battle Arena",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/446040/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/446040/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 235
-    },
-    {
       "appid": "217270",
       "name": "Karateka",
       "discount_pct": 80,
@@ -145,6 +133,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 77,
       "review_count": 206
+    },
+    {
+      "appid": "446040",
+      "name": "Blade Arcus from Shining: Battle Arena",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/446040/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/446040/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 235
     },
     {
       "appid": "1877020",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2796
+      "review_count": 2797
     },
     {
       "appid": "1020790",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5328
+      "review_count": 5329
     },
     {
       "appid": "2563030",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1979
+      "review_count": 1980
     },
     {
       "appid": "2460130",
@@ -279,18 +279,6 @@
       "review_count": 270
     },
     {
-      "appid": "572220",
-      "name": "MageQuit",
-      "discount_pct": 60,
-      "final_price": "$5.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/572220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/572220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1038
-    },
-    {
       "appid": "1028130",
       "name": "Gamble Fight Plus",
       "discount_pct": 60,
@@ -301,6 +289,18 @@
       "review_label": "Mixed",
       "review_pct": 51,
       "review_count": 150
+    },
+    {
+      "appid": "572220",
+      "name": "MageQuit",
+      "discount_pct": 60,
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/572220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/572220/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1038
     },
     {
       "appid": "1447570",
