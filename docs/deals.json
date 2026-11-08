@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T21:10:24.570767+00:00",
+  "updated_at": "2026-11-08T02:57:03.361447+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -87,18 +87,6 @@
       "review_count": 109
     },
     {
-      "appid": "222440",
-      "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
-      "discount_pct": 85,
-      "final_price": "$2.24",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/222440/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222440/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 96,
-      "review_count": 1039
-    },
-    {
       "appid": "571260",
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
@@ -109,6 +97,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 645
+    },
+    {
+      "appid": "222440",
+      "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+      "discount_pct": 85,
+      "final_price": "$2.24",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/222440/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222440/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 96,
+      "review_count": 1040
     },
     {
       "appid": "222420",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 1566
+      "review_count": 1567
     },
     {
       "appid": "678950",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26337
+      "review_count": 26338
     },
     {
       "appid": "544750",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5919
+      "review_count": 5921
     },
     {
       "appid": "446040",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2798
+      "review_count": 2800
     },
     {
       "appid": "1020790",
@@ -252,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1493
+      "review_count": 1494
     },
     {
       "appid": "1372280",
