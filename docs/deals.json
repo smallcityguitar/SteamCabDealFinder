@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T02:57:03.361447+00:00",
+  "updated_at": "2026-11-08T12:19:59.362961+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -59,8 +59,8 @@
       "url": "https://store.steampowered.com/app/2192900/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 277
+      "review_pct": 84,
+      "review_count": 279
     },
     {
       "appid": "425220",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 1567
+      "review_count": 1569
     },
     {
       "appid": "678950",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26338
+      "review_count": 26339
     },
     {
       "appid": "544750",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5921
+      "review_count": 5926
     },
     {
       "appid": "446040",
@@ -264,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5330
+      "review_count": 5331
     },
     {
       "appid": "2563030",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1864
+      "review_count": 1865
     },
     {
       "appid": "1546400",
@@ -324,7 +324,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
       "review_label": "Mixed",
       "review_pct": 58,
-      "review_count": 13992
+      "review_count": 13993
     },
     {
       "appid": "795510",
