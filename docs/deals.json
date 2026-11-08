@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T12:19:59.362961+00:00",
+  "updated_at": "2026-11-08T21:26:09.199946+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2017080/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1019
+      "review_count": 1021
     },
     {
       "appid": "991560",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/425220/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 79,
-      "review_count": 904
+      "review_count": 905
     },
     {
       "appid": "1162050",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 645
+      "review_count": 646
     },
     {
       "appid": "222440",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26339
+      "review_count": 26342
     },
     {
       "appid": "544750",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5926
+      "review_count": 5927
     },
     {
       "appid": "446040",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1652
+      "review_count": 1653
     },
     {
       "appid": "1498570",
@@ -252,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
       "review_label": "Mixed",
       "review_pct": 57,
-      "review_count": 1494
+      "review_count": 1495
     },
     {
       "appid": "1372280",
@@ -315,18 +315,6 @@
       "review_count": 117
     },
     {
-      "appid": "1451190",
-      "name": "Undisputed",
-      "discount_pct": 60,
-      "final_price": "$19.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1451190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1451190/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 58,
-      "review_count": 13993
-    },
-    {
       "appid": "795510",
       "name": "Koihime Enbu RyoRaiRai",
       "discount_pct": 60,
@@ -363,18 +351,6 @@
       "review_count": 1038
     },
     {
-      "appid": "1028130",
-      "name": "Gamble Fight Plus",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1028130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 51,
-      "review_count": 150
-    },
-    {
       "appid": "1447570",
       "name": "Monkey King vs Transformers",
       "discount_pct": 60,
@@ -387,16 +363,16 @@
       "review_count": 11
     },
     {
-      "appid": "2161230",
-      "name": "Grapple Gunners",
+      "appid": "1028130",
+      "name": "Gamble Fight Plus",
       "discount_pct": 60,
-      "final_price": "$3.19",
-      "original_price": "$7.99",
-      "url": "https://store.steampowered.com/app/2161230/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2161230/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
+      "final_price": "$3.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1028130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 51,
+      "review_count": 150
     }
   ]
 }
