@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T03:18:28.881814+00:00",
+  "updated_at": "2026-11-09T14:31:00.564084+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -51,6 +51,18 @@
       "review_count": 1666
     },
     {
+      "appid": "2192900",
+      "name": "Knock'Em Out",
+      "discount_pct": 88,
+      "final_price": "$0.95",
+      "original_price": "$7.99",
+      "url": "https://store.steampowered.com/app/2192900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 280
+    },
+    {
       "appid": "425220",
       "name": "One Piece Burning Blood",
       "discount_pct": 88,
@@ -61,18 +73,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 905
-    },
-    {
-      "appid": "2192900",
-      "name": "Knock'Em Out",
-      "discount_pct": 88,
-      "final_price": "$0.95",
-      "original_price": "$7.99",
-      "url": "https://store.steampowered.com/app/2192900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 84,
-      "review_count": 279
     },
     {
       "appid": "1162050",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 83,
-      "review_count": 5813
+      "review_count": 5814
     },
     {
       "appid": "1372110",
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5932
+      "review_count": 5934
     },
     {
       "appid": "446040",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1653
+      "review_count": 1656
     },
     {
       "appid": "1498570",
@@ -264,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5331
+      "review_count": 5332
     },
     {
       "appid": "2563030",
@@ -288,19 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 1865
-    },
-    {
-      "appid": "1546400",
-      "name": "GigaBash",
-      "discount_pct": 65,
-      "final_price": "$8.74",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/1546400/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1982
+      "review_count": 1866
     },
     {
       "appid": "2460130",
@@ -336,7 +324,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452420/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 270
+      "review_count": 271
     },
     {
       "appid": "572220",
@@ -361,18 +349,6 @@
       "review_label": "Positive",
       "review_pct": 90,
       "review_count": 11
-    },
-    {
-      "appid": "1028130",
-      "name": "Gamble Fight Plus",
-      "discount_pct": 60,
-      "final_price": "$3.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1028130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1028130/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 51,
-      "review_count": 150
     }
   ]
 }
