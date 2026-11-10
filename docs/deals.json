@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T14:31:00.564084+00:00",
+  "updated_at": "2026-11-10T00:55:55.275677+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -27,6 +27,18 @@
       "review_count": 1711
     },
     {
+      "appid": "1184560",
+      "name": "Phantom Breaker: Omnia",
+      "discount_pct": 90,
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1184560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1184560/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 75,
+      "review_count": 284
+    },
+    {
       "appid": "658500",
       "name": "Ultra Space Battle Brawl",
       "discount_pct": 90,
@@ -51,18 +63,6 @@
       "review_count": 1666
     },
     {
-      "appid": "2192900",
-      "name": "Knock'Em Out",
-      "discount_pct": 88,
-      "final_price": "$0.95",
-      "original_price": "$7.99",
-      "url": "https://store.steampowered.com/app/2192900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 280
-    },
-    {
       "appid": "425220",
       "name": "One Piece Burning Blood",
       "discount_pct": 88,
@@ -73,6 +73,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 79,
       "review_count": 905
+    },
+    {
+      "appid": "2192900",
+      "name": "Knock'Em Out",
+      "discount_pct": 88,
+      "final_price": "$0.95",
+      "original_price": "$7.99",
+      "url": "https://store.steampowered.com/app/2192900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 281
     },
     {
       "appid": "1162050",
@@ -135,6 +147,18 @@
       "review_count": 1569
     },
     {
+      "appid": "326340",
+      "name": "River City Super Sports Challenge ~All Stars Special~",
+      "discount_pct": 85,
+      "final_price": "$2.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/326340/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/326340/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 67,
+      "review_count": 689
+    },
+    {
       "appid": "678950",
       "name": "DRAGON BALL FighterZ",
       "discount_pct": 84,
@@ -144,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 26343
+      "review_count": 26344
     },
     {
       "appid": "544750",
@@ -168,7 +192,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5934
+      "review_count": 5936
+    },
+    {
+      "appid": "394310",
+      "name": "Punch Club",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/394310/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/394310/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 3611
     },
     {
       "appid": "446040",
@@ -193,6 +229,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 77,
       "review_count": 206
+    },
+    {
+      "appid": "1278190",
+      "name": "Jumpala",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1278190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1278190/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 69,
+      "review_count": 33
     },
     {
       "appid": "2492040",
@@ -228,7 +276,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
       "review_label": "Mixed",
       "review_pct": 60,
-      "review_count": 2149
+      "review_count": 2150
+    },
+    {
+      "appid": "1059460",
+      "name": "Drunken Fist \ud83c\udf7a\ud83d\udc4a Totally Accurate Beat 'em up",
+      "discount_pct": 75,
+      "final_price": "$0.74",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/1059460/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1059460/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 56
     },
     {
       "appid": "1689620",
@@ -240,7 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 2800
+      "review_count": 2802
     },
     {
       "appid": "1020790",
@@ -267,6 +327,18 @@
       "review_count": 5332
     },
     {
+      "appid": "1999500",
+      "name": "Blazing Strike",
+      "discount_pct": 70,
+      "final_price": "$11.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/1999500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1999500/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 39
+    },
+    {
       "appid": "2563030",
       "name": "We Could Be Heroes",
       "discount_pct": 67,
@@ -279,18 +351,6 @@
       "review_count": 43
     },
     {
-      "appid": "1835240",
-      "name": "Spiritfall",
-      "discount_pct": 66,
-      "final_price": "$6.79",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1835240/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1835240/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 1866
-    },
-    {
       "appid": "2460130",
       "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
       "discount_pct": 65,
@@ -301,6 +361,18 @@
       "review_label": "Mixed",
       "review_pct": 50,
       "review_count": 117
+    },
+    {
+      "appid": "1329500",
+      "name": "SpiderHeck",
+      "discount_pct": 60,
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1329500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 2832
     },
     {
       "appid": "795510",
@@ -325,18 +397,6 @@
       "review_label": "Very Positive",
       "review_pct": 85,
       "review_count": 271
-    },
-    {
-      "appid": "572220",
-      "name": "MageQuit",
-      "discount_pct": 60,
-      "final_price": "$5.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/572220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/572220/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1038
     },
     {
       "appid": "1447570",
