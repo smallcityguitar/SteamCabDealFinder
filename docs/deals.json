@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:37:37.133989+00:00",
+  "updated_at": "2026-11-11T03:26:23.560420+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1656
+      "review_count": 1658
     },
     {
       "appid": "1498570",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5332
+      "review_count": 5331
     },
     {
       "appid": "1999500",
@@ -243,18 +243,6 @@
       "review_count": 2832
     },
     {
-      "appid": "452420",
-      "name": "Koihime Enbu",
-      "discount_pct": 60,
-      "final_price": "$1.99",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/452420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452420/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 271
-    },
-    {
       "appid": "795510",
       "name": "Koihime Enbu RyoRaiRai",
       "discount_pct": 60,
@@ -265,6 +253,18 @@
       "review_label": "Very Positive",
       "review_pct": 88,
       "review_count": 167
+    },
+    {
+      "appid": "452420",
+      "name": "Koihime Enbu",
+      "discount_pct": 60,
+      "final_price": "$1.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/452420/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452420/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 271
     },
     {
       "appid": "1447570",
