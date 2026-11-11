@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:04:17.769954+00:00",
+  "updated_at": "2026-11-11T23:46:40.101887+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -168,7 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2791
+      "review_count": 2793
     },
     {
       "appid": "1059460",
