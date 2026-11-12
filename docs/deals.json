@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T14:06:35.485838+00:00",
+  "updated_at": "2026-11-12T22:56:09.176898+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -36,7 +36,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 283
+      "review_count": 285
     },
     {
       "appid": "571260",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 1573
+      "review_count": 1574
     },
     {
       "appid": "326340",
@@ -99,6 +99,18 @@
       "review_count": 689
     },
     {
+      "appid": "1522220",
+      "name": "War-Gene",
+      "discount_pct": 85,
+      "final_price": "$1.19",
+      "original_price": "$7.99",
+      "url": "https://store.steampowered.com/app/1522220/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1522220/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
       "appid": "394310",
       "name": "Punch Club",
       "discount_pct": 80,
@@ -108,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/394310/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 3611
+      "review_count": 3613
     },
     {
       "appid": "446040",
@@ -156,7 +168,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1661
+      "review_count": 1665
+    },
+    {
+      "appid": "597170",
+      "name": "Clone Drone in the Danger Zone",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/597170/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 96,
+      "review_count": 18006
     },
     {
       "appid": "1498570",
@@ -277,6 +301,18 @@
       "review_label": "Positive",
       "review_pct": 90,
       "review_count": 11
+    },
+    {
+      "appid": "2729430",
+      "name": "DANDAN Z",
+      "discount_pct": 60,
+      "final_price": "$2.39",
+      "original_price": "$5.99",
+      "url": "https://store.steampowered.com/app/2729430/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2729430/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
     }
   ]
 }
