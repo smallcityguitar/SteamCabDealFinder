@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:31:08.967948+00:00",
+  "updated_at": "2026-11-13T22:58:17.535296+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 286
+      "review_count": 289
     },
     {
       "appid": "571260",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 1041
+      "review_count": 1042
     },
     {
       "appid": "222420",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 1575
+      "review_count": 1577
     },
     {
       "appid": "326340",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18011
+      "review_count": 18013
     },
     {
       "appid": "2492040",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1667
+      "review_count": 1669
     },
     {
       "appid": "1498570",
@@ -219,16 +219,28 @@
       "review_count": 56
     },
     {
-      "appid": "1372280",
-      "name": "MELTY BLOOD: TYPE LUMINA",
+      "appid": "585190",
+      "name": "A Gummy's Life",
       "discount_pct": 70,
-      "final_price": "$14.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/1372280/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
+      "final_price": "$5.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/585190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/585190/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 5334
+      "review_pct": 81,
+      "review_count": 194
+    },
+    {
+      "appid": "1999500",
+      "name": "Blazing Strike",
+      "discount_pct": 70,
+      "final_price": "$11.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/1999500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1999500/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 53,
+      "review_count": 39
     },
     {
       "appid": "2563030",
@@ -264,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 2834
+      "review_count": 2836
     },
     {
       "appid": "1447570",
