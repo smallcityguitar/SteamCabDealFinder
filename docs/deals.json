@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T03:49:58.689176+00:00",
+  "updated_at": "2026-11-13T13:31:08.967948+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -27,6 +27,18 @@
       "review_count": 285
     },
     {
+      "appid": "316930",
+      "name": "Kings of Kung Fu",
+      "discount_pct": 90,
+      "final_price": "$0.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/316930/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/316930/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 67,
+      "review_count": 626
+    },
+    {
       "appid": "2192900",
       "name": "Knock'Em Out",
       "discount_pct": 88,
@@ -35,8 +47,8 @@
       "url": "https://store.steampowered.com/app/2192900/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 285
+      "review_pct": 84,
+      "review_count": 286
     },
     {
       "appid": "571260",
@@ -60,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 1040
+      "review_count": 1041
     },
     {
       "appid": "222420",
@@ -84,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 1574
+      "review_count": 1575
     },
     {
       "appid": "326340",
@@ -120,7 +132,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/394310/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 3613
+      "review_count": 3614
+    },
+    {
+      "appid": "1024630",
+      "name": "Fighters Legacy",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1024630/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1024630/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 70,
+      "review_count": 78
     },
     {
       "appid": "217270",
@@ -156,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18009
+      "review_count": 18011
     },
     {
       "appid": "2492040",
@@ -168,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1665
+      "review_count": 1667
     },
     {
       "appid": "1498570",
@@ -204,19 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5333
-    },
-    {
-      "appid": "1999500",
-      "name": "Blazing Strike",
-      "discount_pct": 70,
-      "final_price": "$11.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/1999500/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1999500/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 39
+      "review_count": 5334
     },
     {
       "appid": "2563030",
@@ -252,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 2833
+      "review_count": 2834
     },
     {
       "appid": "1447570",
