@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:56:09.176898+00:00",
+  "updated_at": "2026-11-13T03:49:58.689176+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -123,18 +123,6 @@
       "review_count": 3613
     },
     {
-      "appid": "446040",
-      "name": "Blade Arcus from Shining: Battle Arena",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/446040/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/446040/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 235
-    },
-    {
       "appid": "217270",
       "name": "Karateka",
       "discount_pct": 80,
@@ -159,6 +147,18 @@
       "review_count": 33
     },
     {
+      "appid": "597170",
+      "name": "Clone Drone in the Danger Zone",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/597170/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 96,
+      "review_count": 18009
+    },
+    {
       "appid": "2492040",
       "name": "FATAL FURY: City of the Wolves",
       "discount_pct": 75,
@@ -169,18 +169,6 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 1665
-    },
-    {
-      "appid": "597170",
-      "name": "Clone Drone in the Danger Zone",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/597170/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 96,
-      "review_count": 18006
     },
     {
       "appid": "1498570",
@@ -216,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 5332
+      "review_count": 5333
     },
     {
       "appid": "1999500",
@@ -264,31 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 2832
-    },
-    {
-      "appid": "795510",
-      "name": "Koihime Enbu RyoRaiRai",
-      "discount_pct": 60,
-      "final_price": "$4.79",
-      "original_price": "$11.99",
-      "url": "https://store.steampowered.com/app/795510/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/795510/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 88,
-      "review_count": 167
-    },
-    {
-      "appid": "452420",
-      "name": "Koihime Enbu",
-      "discount_pct": 60,
-      "final_price": "$1.99",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/452420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/452420/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 271
+      "review_count": 2833
     },
     {
       "appid": "1447570",
