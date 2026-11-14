@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:47:41.189550+00:00",
+  "updated_at": "2026-11-14T12:37:23.884880+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -135,18 +135,6 @@
       "review_count": 3615
     },
     {
-      "appid": "1024630",
-      "name": "Fighters Legacy",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1024630/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1024630/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 70,
-      "review_count": 78
-    },
-    {
       "appid": "217270",
       "name": "Karateka",
       "discount_pct": 80,
@@ -157,6 +145,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 77,
       "review_count": 206
+    },
+    {
+      "appid": "1024630",
+      "name": "Fighters Legacy",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1024630/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1024630/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 70,
+      "review_count": 78
     },
     {
       "appid": "1278190",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1669
+      "review_count": 1670
     },
     {
       "appid": "597170",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18013
+      "review_count": 18017
     },
     {
       "appid": "1498570",
