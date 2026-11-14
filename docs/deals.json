@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:58:17.535296+00:00",
+  "updated_at": "2026-11-14T03:47:41.189550+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 708
+      "review_count": 709
     },
     {
       "appid": "702120",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/394310/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 3614
+      "review_count": 3615
     },
     {
       "appid": "1024630",
@@ -171,18 +171,6 @@
       "review_count": 33
     },
     {
-      "appid": "597170",
-      "name": "Clone Drone in the Danger Zone",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/597170/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 96,
-      "review_count": 18013
-    },
-    {
       "appid": "2492040",
       "name": "FATAL FURY: City of the Wolves",
       "discount_pct": 75,
@@ -193,6 +181,18 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 1669
+    },
+    {
+      "appid": "597170",
+      "name": "Clone Drone in the Danger Zone",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/597170/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 96,
+      "review_count": 18013
     },
     {
       "appid": "1498570",
@@ -276,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 2836
+      "review_count": 2837
     },
     {
       "appid": "1447570",
