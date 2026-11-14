@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:37:23.884880+00:00",
+  "updated_at": "2026-11-14T21:44:50.638380+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2017080/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1022
+      "review_count": 1023
     },
     {
       "appid": "1184560",
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 289
+      "review_count": 293
     },
     {
       "appid": "571260",
@@ -135,18 +135,6 @@
       "review_count": 3615
     },
     {
-      "appid": "217270",
-      "name": "Karateka",
-      "discount_pct": 80,
-      "final_price": "$0.79",
-      "original_price": "$3.99",
-      "url": "https://store.steampowered.com/app/217270/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/217270/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 77,
-      "review_count": 206
-    },
-    {
       "appid": "1024630",
       "name": "Fighters Legacy",
       "discount_pct": 80,
@@ -157,6 +145,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 70,
       "review_count": 78
+    },
+    {
+      "appid": "217270",
+      "name": "Karateka",
+      "discount_pct": 80,
+      "final_price": "$0.79",
+      "original_price": "$3.99",
+      "url": "https://store.steampowered.com/app/217270/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/217270/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 77,
+      "review_count": 206
     },
     {
       "appid": "1278190",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18017
+      "review_count": 18021
     },
     {
       "appid": "1498570",
@@ -239,8 +239,20 @@
       "url": "https://store.steampowered.com/app/1999500/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1999500/header.jpg",
       "review_label": "Mixed",
-      "review_pct": 53,
-      "review_count": 39
+      "review_pct": 52,
+      "review_count": 40
+    },
+    {
+      "appid": "1354000",
+      "name": "Abyss of Death",
+      "discount_pct": 70,
+      "final_price": "$0.89",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/1354000/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1354000/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
     },
     {
       "appid": "2563030",
@@ -277,18 +289,6 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 2837
-    },
-    {
-      "appid": "1447570",
-      "name": "Monkey King vs Transformers",
-      "discount_pct": 60,
-      "final_price": "$1.59",
-      "original_price": "$3.99",
-      "url": "https://store.steampowered.com/app/1447570/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1447570/header.jpg",
-      "review_label": "Positive",
-      "review_pct": 90,
-      "review_count": 11
     },
     {
       "appid": "2729430",
