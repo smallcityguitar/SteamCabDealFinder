@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:02:22.099744+00:00",
+  "updated_at": "2026-11-15T22:11:28.543649+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2017080/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1023
+      "review_count": 1024
     },
     {
       "appid": "1184560",
@@ -47,8 +47,8 @@
       "url": "https://store.steampowered.com/app/2192900/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2192900/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 296
+      "review_pct": 84,
+      "review_count": 298
     },
     {
       "appid": "571260",
@@ -171,6 +171,18 @@
       "review_count": 33
     },
     {
+      "appid": "1218680",
+      "name": "Beatdown Brawler",
+      "discount_pct": 76,
+      "final_price": "$0.71",
+      "original_price": "$2.99",
+      "url": "https://store.steampowered.com/app/1218680/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1218680/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 57,
+      "review_count": 21
+    },
+    {
       "appid": "2492040",
       "name": "FATAL FURY: City of the Wolves",
       "discount_pct": 75,
@@ -192,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18029
+      "review_count": 18034
     },
     {
       "appid": "1498570",
@@ -219,16 +231,16 @@
       "review_count": 56
     },
     {
-      "appid": "585190",
-      "name": "A Gummy's Life",
-      "discount_pct": 70,
-      "final_price": "$5.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/585190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/585190/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 194
+      "appid": "1504310",
+      "name": "Azure Sky",
+      "discount_pct": 75,
+      "final_price": "$0.99",
+      "original_price": "$3.99",
+      "url": "https://store.steampowered.com/app/1504310/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1504310/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 76,
+      "review_count": 21
     },
     {
       "appid": "1999500",
