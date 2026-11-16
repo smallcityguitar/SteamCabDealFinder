@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:11:28.543649+00:00",
+  "updated_at": "2026-11-16T03:28:18.149400+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -63,18 +63,6 @@
       "review_count": 646
     },
     {
-      "appid": "222420",
-      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
-      "discount_pct": 85,
-      "final_price": "$3.74",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/222420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 709
-    },
-    {
       "appid": "222440",
       "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
       "discount_pct": 85,
@@ -85,6 +73,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
       "review_count": 1042
+    },
+    {
+      "appid": "222420",
+      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "discount_pct": 85,
+      "final_price": "$3.74",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/222420/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 709
     },
     {
       "appid": "702120",
@@ -192,7 +192,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1672
+      "review_count": 1673
     },
     {
       "appid": "597170",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18034
+      "review_count": 18035
     },
     {
       "appid": "1498570",
@@ -300,7 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1329500/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 2837
+      "review_count": 2838
     },
     {
       "appid": "2729430",
