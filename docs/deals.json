@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T14:41:49.034650+00:00",
+  "updated_at": "2026-11-18T23:39:45.167605+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -123,18 +123,6 @@
       "review_count": 384
     },
     {
-      "appid": "1284130",
-      "name": "Sclash",
-      "discount_pct": 85,
-      "final_price": "$1.34",
-      "original_price": "$8.99",
-      "url": "https://store.steampowered.com/app/1284130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 460
-    },
-    {
       "appid": "1425760",
       "name": "Pulling No Punches",
       "discount_pct": 85,
@@ -145,6 +133,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
       "review_count": 566
+    },
+    {
+      "appid": "1284130",
+      "name": "Sclash",
+      "discount_pct": 85,
+      "final_price": "$1.34",
+      "original_price": "$8.99",
+      "url": "https://store.steampowered.com/app/1284130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 460
     },
     {
       "appid": "1522220",
@@ -159,16 +159,16 @@
       "review_count": 0
     },
     {
-      "appid": "217270",
-      "name": "Karateka",
+      "appid": "989550",
+      "name": "Million Arthur: Arcana Blood",
       "discount_pct": 80,
-      "final_price": "$0.79",
-      "original_price": "$3.99",
-      "url": "https://store.steampowered.com/app/217270/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/217270/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 77,
-      "review_count": 206
+      "final_price": "$7.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/989550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/989550/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 296
     },
     {
       "appid": "1024630",
@@ -181,6 +181,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 70,
       "review_count": 79
+    },
+    {
+      "appid": "2159230",
+      "name": "Ace Pilot Europe",
+      "discount_pct": 80,
+      "final_price": "$0.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/2159230/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2159230/header.jpg",
+      "review_label": "Positive",
+      "review_pct": 90,
+      "review_count": 11
     },
     {
       "appid": "1218680",
@@ -204,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1681
+      "review_count": 1683
     },
     {
       "appid": "1498570",
@@ -216,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2792
+      "review_count": 2793
     },
     {
       "appid": "597170",
@@ -228,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18055
+      "review_count": 18059
     },
     {
       "appid": "482450",
@@ -240,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 1071
+      "review_count": 1072
     },
     {
       "appid": "1891090",
@@ -253,18 +265,6 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 391
-    },
-    {
-      "appid": "1236490",
-      "name": "Bamerang",
-      "discount_pct": 75,
-      "final_price": "$1.24",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/1236490/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236490/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 67
     },
     {
       "appid": "1504310",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2619
+      "review_count": 2620
     },
     {
       "appid": "502800",
