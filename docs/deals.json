@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T15:00:35.858552+00:00",
+  "updated_at": "2026-11-18T00:06:57.341349+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -23,20 +23,8 @@
       "url": "https://store.steampowered.com/app/316930/",
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/316930/header.jpg",
       "review_label": "Mixed",
-      "review_pct": 66,
-      "review_count": 627
-    },
-    {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
-      "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 381
+      "review_pct": 67,
+      "review_count": 628
     },
     {
       "appid": "571260",
@@ -49,6 +37,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 646
+    },
+    {
+      "appid": "999660",
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "discount_pct": 85,
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/999660/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 381
     },
     {
       "appid": "794580",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222440/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 1042
+      "review_count": 1043
     },
     {
       "appid": "222420",
@@ -84,19 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 709
-    },
-    {
-      "appid": "702120",
-      "name": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
-      "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/702120/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 1578
+      "review_count": 710
     },
     {
       "appid": "366240",
@@ -109,6 +97,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 935
+    },
+    {
+      "appid": "702120",
+      "name": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/702120/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 1579
     },
     {
       "appid": "702110",
@@ -132,7 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 457
+      "review_count": 458
     },
     {
       "appid": "1425760",
@@ -180,7 +180,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1024630/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 70,
-      "review_count": 78
+      "review_count": 79
     },
     {
       "appid": "1218680",
@@ -204,19 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1678
-    },
-    {
-      "appid": "597170",
-      "name": "Clone Drone in the Danger Zone",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/597170/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 96,
-      "review_count": 18045
+      "review_count": 1680
     },
     {
       "appid": "1498570",
@@ -228,7 +216,43 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2793
+      "review_count": 2792
+    },
+    {
+      "appid": "597170",
+      "name": "Clone Drone in the Danger Zone",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/597170/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 96,
+      "review_count": 18049
+    },
+    {
+      "appid": "482450",
+      "name": "Nitroplus Blasterz: Heroines Infinite Duel",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/482450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 1071
+    },
+    {
+      "appid": "1891090",
+      "name": "Final Vendetta",
+      "discount_pct": 75,
+      "final_price": "$6.24",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/1891090/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1891090/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 391
     },
     {
       "appid": "1236490",
@@ -265,6 +289,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 2619
+    },
+    {
+      "appid": "502800",
+      "name": "SENRAN KAGURA ESTIVAL VERSUS",
+      "discount_pct": 70,
+      "final_price": "$8.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/502800/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/502800/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1490
     },
     {
       "appid": "1354000",
