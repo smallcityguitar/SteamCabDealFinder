@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T23:39:45.167605+00:00",
+  "updated_at": "2026-11-19T04:45:43.491116+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -123,18 +123,6 @@
       "review_count": 384
     },
     {
-      "appid": "1425760",
-      "name": "Pulling No Punches",
-      "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1425760/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1425760/header.jpg",
-      "review_label": "Overwhelmingly Positive",
-      "review_pct": 95,
-      "review_count": 566
-    },
-    {
       "appid": "1284130",
       "name": "Sclash",
       "discount_pct": 85,
@@ -145,6 +133,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 460
+    },
+    {
+      "appid": "1425760",
+      "name": "Pulling No Punches",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1425760/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1425760/header.jpg",
+      "review_label": "Overwhelmingly Positive",
+      "review_pct": 95,
+      "review_count": 566
     },
     {
       "appid": "1522220",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2793
+      "review_count": 2794
     },
     {
       "appid": "597170",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18059
+      "review_count": 18062
     },
     {
       "appid": "482450",
@@ -265,6 +265,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 391
+    },
+    {
+      "appid": "1236490",
+      "name": "Bamerang",
+      "discount_pct": 75,
+      "final_price": "$1.24",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/1236490/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236490/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 67
     },
     {
       "appid": "1504310",
