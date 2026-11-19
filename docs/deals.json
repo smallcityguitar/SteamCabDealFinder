@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:48:57.227948+00:00",
+  "updated_at": "2026-11-19T23:58:25.323974+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -51,18 +51,6 @@
       "review_count": 381
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
-      "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 907
-    },
-    {
       "appid": "222440",
       "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
       "discount_pct": 85,
@@ -73,6 +61,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
       "review_count": 1043
+    },
+    {
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "discount_pct": 85,
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 908
     },
     {
       "appid": "222420",
@@ -87,18 +87,6 @@
       "review_count": 710
     },
     {
-      "appid": "366240",
-      "name": "GAROU: MARK OF THE WOLVES",
-      "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/366240/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 936
-    },
-    {
       "appid": "702120",
       "name": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
       "discount_pct": 85,
@@ -109,6 +97,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 1581
+    },
+    {
+      "appid": "366240",
+      "name": "GAROU: MARK OF THE WOLVES",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/366240/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 936
     },
     {
       "appid": "702110",
@@ -123,18 +123,6 @@
       "review_count": 384
     },
     {
-      "appid": "1284130",
-      "name": "Sclash",
-      "discount_pct": 85,
-      "final_price": "$1.34",
-      "original_price": "$8.99",
-      "url": "https://store.steampowered.com/app/1284130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 460
-    },
-    {
       "appid": "1425760",
       "name": "Pulling No Punches",
       "discount_pct": 85,
@@ -145,6 +133,18 @@
       "review_label": "Overwhelmingly Positive",
       "review_pct": 95,
       "review_count": 566
+    },
+    {
+      "appid": "1284130",
+      "name": "Sclash",
+      "discount_pct": 85,
+      "final_price": "$1.34",
+      "original_price": "$8.99",
+      "url": "https://store.steampowered.com/app/1284130/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284130/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 461
     },
     {
       "appid": "1522220",
@@ -159,6 +159,30 @@
       "review_count": 0
     },
     {
+      "appid": "702890",
+      "name": "BlazBlue: Cross Tag Battle",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/702890/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 82,
+      "review_count": 2260
+    },
+    {
+      "appid": "661990",
+      "name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/661990/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/661990/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 340
+    },
+    {
       "appid": "989550",
       "name": "Million Arthur: Arcana Blood",
       "discount_pct": 80,
@@ -169,6 +193,30 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 296
+    },
+    {
+      "appid": "370460",
+      "name": "Arcana Heart 3 LOVE MAX!!!!!",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/370460/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/370460/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 319
+    },
+    {
+      "appid": "536560",
+      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/536560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536560/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 90,
+      "review_count": 254
     },
     {
       "appid": "1024630",
@@ -183,6 +231,18 @@
       "review_count": 79
     },
     {
+      "appid": "96900",
+      "name": "Slam Bolt Scrappers",
+      "discount_pct": 80,
+      "final_price": "$0.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/96900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/96900/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 20
+    },
+    {
       "appid": "2159230",
       "name": "Ace Pilot Europe",
       "discount_pct": 80,
@@ -193,6 +253,18 @@
       "review_label": "Positive",
       "review_pct": 90,
       "review_count": 11
+    },
+    {
+      "appid": "356910",
+      "name": "Battle Fantasia -Revised Edition-",
+      "discount_pct": 77,
+      "final_price": "$3.44",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/356910/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/356910/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 70,
+      "review_count": 202
     },
     {
       "appid": "1218680",
@@ -216,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1687
+      "review_count": 1691
     },
     {
       "appid": "1498570",
@@ -240,7 +312,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18062
+      "review_count": 18067
     },
     {
       "appid": "482450",
@@ -253,6 +325,18 @@
       "review_label": "Very Positive",
       "review_pct": 91,
       "review_count": 1072
+    },
+    {
+      "appid": "922500",
+      "name": "KILL la KILL -IF",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/922500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 1672
     },
     {
       "appid": "1891090",
@@ -291,6 +375,18 @@
       "review_count": 21
     },
     {
+      "appid": "1372110",
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "discount_pct": 72,
+      "final_price": "$19.59",
+      "original_price": "$69.99",
+      "url": "https://store.steampowered.com/app/1372110/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 89,
+      "review_count": 5995
+    },
+    {
       "appid": "1602010",
       "name": "Persona 4 Arena Ultimax",
       "discount_pct": 70,
@@ -313,18 +409,6 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 1491
-    },
-    {
-      "appid": "1354000",
-      "name": "Abyss of Death",
-      "discount_pct": 70,
-      "final_price": "$0.89",
-      "original_price": "$2.99",
-      "url": "https://store.steampowered.com/app/1354000/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1354000/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
     },
     {
       "appid": "2460130",
