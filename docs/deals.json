@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T05:19:46.726226+00:00",
+  "updated_at": "2026-11-20T14:29:44.515464+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -39,16 +39,16 @@
       "review_count": 646
     },
     {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
       "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 381
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 908
     },
     {
       "appid": "222440",
@@ -63,16 +63,16 @@
       "review_count": 1043
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
+      "appid": "999660",
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
       "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 908
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/999660/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 381
     },
     {
       "appid": "222420",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 1581
+      "review_count": 1582
     },
     {
       "appid": "366240",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 936
+      "review_count": 937
     },
     {
       "appid": "702110",
@@ -183,18 +183,6 @@
       "review_count": 340
     },
     {
-      "appid": "989550",
-      "name": "Million Arthur: Arcana Blood",
-      "discount_pct": 80,
-      "final_price": "$7.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/989550/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/989550/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 296
-    },
-    {
       "appid": "370460",
       "name": "Arcana Heart 3 LOVE MAX!!!!!",
       "discount_pct": 80,
@@ -205,6 +193,18 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 319
+    },
+    {
+      "appid": "989550",
+      "name": "Million Arthur: Arcana Blood",
+      "discount_pct": 80,
+      "final_price": "$7.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/989550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/989550/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 296
     },
     {
       "appid": "536560",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1691
+      "review_count": 1693
     },
     {
       "appid": "1498570",
@@ -312,7 +312,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18066
+      "review_count": 18070
+    },
+    {
+      "appid": "922500",
+      "name": "KILL la KILL -IF",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/922500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 1673
     },
     {
       "appid": "482450",
@@ -325,18 +337,6 @@
       "review_label": "Very Positive",
       "review_pct": 91,
       "review_count": 1072
-    },
-    {
-      "appid": "922500",
-      "name": "KILL la KILL -IF",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/922500/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 1672
     },
     {
       "appid": "1891090",
@@ -384,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5997
+      "review_count": 5999
     },
     {
       "appid": "1602010",
@@ -411,6 +411,18 @@
       "review_count": 1491
     },
     {
+      "appid": "5074850",
+      "name": "SplatStick",
+      "discount_pct": 68,
+      "final_price": "$0.63",
+      "original_price": "$1.99",
+      "url": "https://store.steampowered.com/app/5074850/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/5074850/header.jpg",
+      "review_label": null,
+      "review_pct": null,
+      "review_count": 0
+    },
+    {
       "appid": "2460130",
       "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
       "discount_pct": 65,
@@ -421,18 +433,6 @@
       "review_label": "Mixed",
       "review_pct": 50,
       "review_count": 117
-    },
-    {
-      "appid": "2729430",
-      "name": "DANDAN Z",
-      "discount_pct": 60,
-      "final_price": "$2.39",
-      "original_price": "$5.99",
-      "url": "https://store.steampowered.com/app/2729430/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2729430/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
     }
   ]
 }
