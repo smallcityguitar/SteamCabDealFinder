@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-11-20T14:29:44.515464+00:00",
+  "updated_at": "2026-11-20T23:27:36.098295+00:00",
   "min_discount": 60,
   "deals": [
-    {
-      "appid": "2017080",
-      "name": "Nickelodeon All-Star Brawl 2",
-      "discount_pct": 90,
-      "final_price": "$4.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/2017080/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2017080/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 1025
-    },
     {
       "appid": "316930",
       "name": "Kings of Kung Fu",
@@ -27,6 +15,18 @@
       "review_count": 628
     },
     {
+      "appid": "45760",
+      "name": "Ultra Street Fighter\u00ae IV",
+      "discount_pct": 87,
+      "final_price": "$3.89",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/45760/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 90,
+      "review_count": 5289
+    },
+    {
       "appid": "571260",
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
@@ -37,18 +37,6 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 646
-    },
-    {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
-      "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 908
     },
     {
       "appid": "222440",
@@ -75,6 +63,18 @@
       "review_count": 381
     },
     {
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "discount_pct": 85,
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 908
+    },
+    {
       "appid": "222420",
       "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
       "discount_pct": 85,
@@ -87,6 +87,18 @@
       "review_count": 710
     },
     {
+      "appid": "1244950",
+      "name": "Battletoads",
+      "discount_pct": 85,
+      "final_price": "$2.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1244950/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 64,
+      "review_count": 720
+    },
+    {
       "appid": "702120",
       "name": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
       "discount_pct": 85,
@@ -96,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 1582
+      "review_count": 1583
     },
     {
       "appid": "366240",
@@ -147,18 +159,6 @@
       "review_count": 566
     },
     {
-      "appid": "1522220",
-      "name": "War-Gene",
-      "discount_pct": 85,
-      "final_price": "$1.19",
-      "original_price": "$7.99",
-      "url": "https://store.steampowered.com/app/1522220/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1522220/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
-    },
-    {
       "appid": "702890",
       "name": "BlazBlue: Cross Tag Battle",
       "discount_pct": 80,
@@ -195,6 +195,18 @@
       "review_count": 319
     },
     {
+      "appid": "493840",
+      "name": "Marvel vs. Capcom: Infinite",
+      "discount_pct": 80,
+      "final_price": "$7.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/493840/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 66,
+      "review_count": 1422
+    },
+    {
       "appid": "989550",
       "name": "Million Arthur: Arcana Blood",
       "discount_pct": 80,
@@ -229,6 +241,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 70,
       "review_count": 79
+    },
+    {
+      "appid": "3061900",
+      "name": "Revenge of the Boxer: Moscow Criminality",
+      "discount_pct": 80,
+      "final_price": "$0.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/3061900/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3061900/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 90,
+      "review_count": 167
     },
     {
       "appid": "96900",
@@ -288,7 +312,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1693
+      "review_count": 1695
     },
     {
       "appid": "1498570",
@@ -312,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18070
+      "review_count": 18071
     },
     {
       "appid": "922500",
@@ -384,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 5999
+      "review_count": 6000
     },
     {
       "appid": "1602010",
@@ -399,6 +423,18 @@
       "review_count": 2621
     },
     {
+      "appid": "357190",
+      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+      "discount_pct": 70,
+      "final_price": "$7.49",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/357190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 4246
+    },
+    {
       "appid": "502800",
       "name": "SENRAN KAGURA ESTIVAL VERSUS",
       "discount_pct": 70,
@@ -411,28 +447,52 @@
       "review_count": 1491
     },
     {
-      "appid": "5074850",
-      "name": "SplatStick",
-      "discount_pct": 68,
-      "final_price": "$0.63",
-      "original_price": "$1.99",
-      "url": "https://store.steampowered.com/app/5074850/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/5074850/header.jpg",
-      "review_label": null,
-      "review_pct": null,
-      "review_count": 0
+      "appid": "1279920",
+      "name": "Cobra Kai: The Karate Kid Saga Continues",
+      "discount_pct": 70,
+      "final_price": "$5.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1279920/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 83,
+      "review_count": 420
     },
     {
-      "appid": "2460130",
-      "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
-      "discount_pct": 65,
-      "final_price": "$13.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/2460130/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2460130/header.jpg",
+      "appid": "586200",
+      "name": "Street Fighter 30th Anniversary Collection",
+      "discount_pct": 67,
+      "final_price": "$9.89",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/586200/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
-      "review_pct": 50,
-      "review_count": 117
+      "review_pct": 69,
+      "review_count": 1361
+    },
+    {
+      "appid": "1685750",
+      "name": "Capcom Fighting Collection",
+      "discount_pct": 67,
+      "final_price": "$9.89",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1685750/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 826
+    },
+    {
+      "appid": "2634890",
+      "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
+      "discount_pct": 60,
+      "final_price": "$19.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/2634890/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 93,
+      "review_count": 1651
     }
   ]
 }
