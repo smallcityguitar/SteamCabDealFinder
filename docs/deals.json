@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:48:54.341263+00:00",
+  "updated_at": "2026-11-21T22:31:25.664831+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -39,6 +39,18 @@
       "review_count": 646
     },
     {
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "discount_pct": 85,
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 908
+    },
+    {
       "appid": "999660",
       "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
       "discount_pct": 85,
@@ -49,18 +61,6 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 381
-    },
-    {
-      "appid": "1244950",
-      "name": "Battletoads",
-      "discount_pct": 85,
-      "final_price": "$2.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1244950/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 64,
-      "review_count": 720
     },
     {
       "appid": "222420",
@@ -75,16 +75,16 @@
       "review_count": 710
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
+      "appid": "1244950",
+      "name": "Battletoads",
       "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 908
+      "final_price": "$2.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1244950/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 64,
+      "review_count": 720
     },
     {
       "appid": "366240",
@@ -171,18 +171,6 @@
       "review_count": 340
     },
     {
-      "appid": "370460",
-      "name": "Arcana Heart 3 LOVE MAX!!!!!",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/370460/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/370460/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 319
-    },
-    {
       "appid": "989550",
       "name": "Million Arthur: Arcana Blood",
       "discount_pct": 80,
@@ -193,6 +181,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 296
+    },
+    {
+      "appid": "370460",
+      "name": "Arcana Heart 3 LOVE MAX!!!!!",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/370460/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/370460/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 319
     },
     {
       "appid": "536560",
@@ -243,18 +243,6 @@
       "review_count": 20
     },
     {
-      "appid": "2159230",
-      "name": "Ace Pilot Europe",
-      "discount_pct": 80,
-      "final_price": "$0.99",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/2159230/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2159230/header.jpg",
-      "review_label": "Positive",
-      "review_pct": 90,
-      "review_count": 11
-    },
-    {
       "appid": "356910",
       "name": "Battle Fantasia -Revised Edition-",
       "discount_pct": 77,
@@ -288,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1696
+      "review_count": 1699
     },
     {
       "appid": "1498570",
@@ -300,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2797
+      "review_count": 2799
     },
     {
       "appid": "597170",
@@ -312,19 +300,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18076
-    },
-    {
-      "appid": "922500",
-      "name": "KILL la KILL -IF",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/922500/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 1673
+      "review_count": 18080
     },
     {
       "appid": "482450",
@@ -339,6 +315,18 @@
       "review_count": 1072
     },
     {
+      "appid": "922500",
+      "name": "KILL la KILL -IF",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/922500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 1674
+    },
+    {
       "appid": "1891090",
       "name": "Final Vendetta",
       "discount_pct": 75,
@@ -348,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1891090/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 391
+      "review_count": 390
     },
     {
       "appid": "1236490",
@@ -384,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6002
+      "review_count": 6005
     },
     {
       "appid": "357190",
@@ -396,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4246
+      "review_count": 4247
     },
     {
       "appid": "1602010",
@@ -456,7 +444,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 826
+      "review_count": 827
+    },
+    {
+      "appid": "1498740",
+      "name": "Troublemaker",
+      "discount_pct": 65,
+      "final_price": "$6.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1498740/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498740/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 89,
+      "review_count": 952
     },
     {
       "appid": "2634890",
@@ -469,6 +469,18 @@
       "review_label": "Very Positive",
       "review_pct": 93,
       "review_count": 1651
+    },
+    {
+      "appid": "674940",
+      "name": "Stick Fight: The Game",
+      "discount_pct": 60,
+      "final_price": "$1.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/674940/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 52685
     }
   ]
 }
