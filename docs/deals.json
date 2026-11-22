@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T03:45:28.316985+00:00",
+  "updated_at": "2026-11-22T13:42:08.339773+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5292
+      "review_count": 5293
     },
     {
       "appid": "571260",
@@ -72,19 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 908
-    },
-    {
-      "appid": "1244950",
-      "name": "Battletoads",
-      "discount_pct": 85,
-      "final_price": "$2.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1244950/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 64,
-      "review_count": 720
+      "review_count": 909
     },
     {
       "appid": "366240",
@@ -99,16 +87,16 @@
       "review_count": 937
     },
     {
-      "appid": "702110",
-      "name": "THE LAST BLADE 2",
+      "appid": "1244950",
+      "name": "Battletoads",
       "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/702110/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702110/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 385
+      "final_price": "$2.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1244950/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 64,
+      "review_count": 720
     },
     {
       "appid": "1284130",
@@ -147,18 +135,6 @@
       "review_count": 2261
     },
     {
-      "appid": "493840",
-      "name": "Marvel vs. Capcom: Infinite",
-      "discount_pct": 80,
-      "final_price": "$7.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/493840/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 66,
-      "review_count": 1422
-    },
-    {
       "appid": "661990",
       "name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
       "discount_pct": 80,
@@ -169,6 +145,18 @@
       "review_label": "Very Positive",
       "review_pct": 85,
       "review_count": 340
+    },
+    {
+      "appid": "493840",
+      "name": "Marvel vs. Capcom: Infinite",
+      "discount_pct": 80,
+      "final_price": "$7.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/493840/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 66,
+      "review_count": 1423
     },
     {
       "appid": "370460",
@@ -243,6 +231,18 @@
       "review_count": 20
     },
     {
+      "appid": "2159230",
+      "name": "Ace Pilot Europe",
+      "discount_pct": 80,
+      "final_price": "$0.99",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/2159230/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2159230/header.jpg",
+      "review_label": "Positive",
+      "review_pct": 90,
+      "review_count": 11
+    },
+    {
       "appid": "356910",
       "name": "Battle Fantasia -Revised Edition-",
       "discount_pct": 77,
@@ -276,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1700
+      "review_count": 1701
     },
     {
       "appid": "597170",
@@ -288,7 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18085
+      "review_count": 18091
     },
     {
       "appid": "1498570",
@@ -303,18 +303,6 @@
       "review_count": 2799
     },
     {
-      "appid": "482450",
-      "name": "Nitroplus Blasterz: Heroines Infinite Duel",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/482450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 1072
-    },
-    {
       "appid": "922500",
       "name": "KILL la KILL -IF",
       "discount_pct": 75,
@@ -325,6 +313,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 1674
+    },
+    {
+      "appid": "482450",
+      "name": "Nitroplus Blasterz: Heroines Infinite Duel",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/482450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 1073
     },
     {
       "appid": "1891090",
@@ -375,6 +375,18 @@
       "review_count": 6006
     },
     {
+      "appid": "1602010",
+      "name": "Persona 4 Arena Ultimax",
+      "discount_pct": 70,
+      "final_price": "$8.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/1602010/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 2621
+    },
+    {
       "appid": "357190",
       "name": "ULTIMATE MARVEL VS. CAPCOM 3",
       "discount_pct": 70,
@@ -385,18 +397,6 @@
       "review_label": "Very Positive",
       "review_pct": 92,
       "review_count": 4247
-    },
-    {
-      "appid": "1602010",
-      "name": "Persona 4 Arena Ultimax",
-      "discount_pct": 70,
-      "final_price": "$8.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/1602010/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 2620
     },
     {
       "appid": "502800",
@@ -444,7 +444,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 827
+      "review_count": 829
     },
     {
       "appid": "1498740",
@@ -456,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498740/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 952
+      "review_count": 953
     },
     {
       "appid": "2634890",
@@ -480,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52685
+      "review_count": 52684
     }
   ]
 }
