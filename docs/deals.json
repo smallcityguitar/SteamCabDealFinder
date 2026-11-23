@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T04:22:17.305743+00:00",
+  "updated_at": "2026-11-23T16:40:42.941716+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -12,7 +12,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/316930/header.jpg",
       "review_label": "Mixed",
       "review_pct": 67,
-      "review_count": 628
+      "review_count": 629
     },
     {
       "appid": "45760",
@@ -24,19 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5294
-    },
-    {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-      "discount_pct": 85,
-      "final_price": "$11.24",
-      "original_price": "$74.99",
-      "url": "https://store.steampowered.com/app/571260/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 82,
-      "review_count": 646
+      "review_count": 5295
     },
     {
       "appid": "794580",
@@ -51,16 +39,16 @@
       "review_count": 909
     },
     {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+      "final_price": "$11.24",
+      "original_price": "$74.99",
+      "url": "https://store.steampowered.com/app/571260/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571260/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 381
+      "review_pct": 82,
+      "review_count": 646
     },
     {
       "appid": "222420",
@@ -73,6 +61,18 @@
       "review_label": "Very Positive",
       "review_pct": 92,
       "review_count": 710
+    },
+    {
+      "appid": "999660",
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "discount_pct": 85,
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/999660/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 381
     },
     {
       "appid": "1244950",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 937
+      "review_count": 938
     },
     {
       "appid": "702110",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 385
+      "review_count": 386
     },
     {
       "appid": "1284130",
@@ -171,18 +171,6 @@
       "review_count": 340
     },
     {
-      "appid": "370460",
-      "name": "Arcana Heart 3 LOVE MAX!!!!!",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/370460/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/370460/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 319
-    },
-    {
       "appid": "989550",
       "name": "Million Arthur: Arcana Blood",
       "discount_pct": 80,
@@ -193,6 +181,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 296
+    },
+    {
+      "appid": "370460",
+      "name": "Arcana Heart 3 LOVE MAX!!!!!",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/370460/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/370460/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 319
     },
     {
       "appid": "536560",
@@ -264,7 +264,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1702
+      "review_count": 1703
     },
     {
       "appid": "597170",
@@ -276,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18095
+      "review_count": 18099
     },
     {
       "appid": "1498570",
@@ -288,19 +288,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2800
-    },
-    {
-      "appid": "482450",
-      "name": "Nitroplus Blasterz: Heroines Infinite Duel",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/482450/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 91,
-      "review_count": 1073
+      "review_count": 2801
     },
     {
       "appid": "922500",
@@ -313,6 +301,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 1675
+    },
+    {
+      "appid": "482450",
+      "name": "Nitroplus Blasterz: Heroines Infinite Duel",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/482450/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 91,
+      "review_count": 1073
     },
     {
       "appid": "1891090",
@@ -360,19 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6011
-    },
-    {
-      "appid": "357190",
-      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
-      "discount_pct": 70,
-      "final_price": "$7.49",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/357190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 4248
+      "review_count": 6013
     },
     {
       "appid": "1602010",
@@ -385,6 +373,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 2621
+    },
+    {
+      "appid": "357190",
+      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+      "discount_pct": 70,
+      "final_price": "$7.49",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/357190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 4249
     },
     {
       "appid": "502800",
@@ -420,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1362
+      "review_count": 1363
     },
     {
       "appid": "1685750",
@@ -432,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685750/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 829
+      "review_count": 830
     },
     {
       "appid": "1087440",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1651
+      "review_count": 1652
     },
     {
       "appid": "674940",
@@ -480,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52687
+      "review_count": 52686
     }
   ]
 }
