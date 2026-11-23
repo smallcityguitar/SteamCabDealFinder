@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:54:51.082927+00:00",
+  "updated_at": "2026-11-23T04:22:17.305743+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -27,30 +27,6 @@
       "review_count": 5294
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
-      "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 909
-    },
-    {
-      "appid": "222420",
-      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
-      "discount_pct": 85,
-      "final_price": "$2.24",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/222420/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 710
-    },
-    {
       "appid": "571260",
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
       "discount_pct": 85,
@@ -61,6 +37,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 646
+    },
+    {
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "discount_pct": 85,
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 909
     },
     {
       "appid": "999660",
@@ -75,16 +63,16 @@
       "review_count": 381
     },
     {
-      "appid": "366240",
-      "name": "GAROU: MARK OF THE WOLVES",
+      "appid": "222420",
+      "name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
       "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/366240/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
+      "final_price": "$2.24",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/222420/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 937
+      "review_pct": 92,
+      "review_count": 710
     },
     {
       "appid": "1244950",
@@ -97,6 +85,18 @@
       "review_label": "Mixed",
       "review_pct": 64,
       "review_count": 720
+    },
+    {
+      "appid": "366240",
+      "name": "GAROU: MARK OF THE WOLVES",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/366240/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 937
     },
     {
       "appid": "702110",
@@ -144,7 +144,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 2261
+      "review_count": 2262
     },
     {
       "appid": "493840",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
       "review_label": "Mixed",
       "review_pct": 66,
-      "review_count": 1423
+      "review_count": 1424
     },
     {
       "appid": "661990",
@@ -183,18 +183,6 @@
       "review_count": 319
     },
     {
-      "appid": "536560",
-      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/536560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536560/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 254
-    },
-    {
       "appid": "989550",
       "name": "Million Arthur: Arcana Blood",
       "discount_pct": 80,
@@ -205,6 +193,18 @@
       "review_label": "Very Positive",
       "review_pct": 80,
       "review_count": 296
+    },
+    {
+      "appid": "536560",
+      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/536560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536560/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 90,
+      "review_count": 254
     },
     {
       "appid": "3061900",
@@ -276,7 +276,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18092
+      "review_count": 18095
     },
     {
       "appid": "1498570",
@@ -360,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6010
+      "review_count": 6011
     },
     {
       "appid": "357190",
@@ -372,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4247
+      "review_count": 4248
     },
     {
       "appid": "1602010",
@@ -420,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
       "review_label": "Mixed",
       "review_pct": 69,
-      "review_count": 1361
+      "review_count": 1362
     },
     {
       "appid": "1685750",
@@ -480,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52686
+      "review_count": 52687
     }
   ]
 }
