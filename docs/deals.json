@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T03:33:03.020464+00:00",
+  "updated_at": "2026-11-24T16:36:50.662897+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26114
+      "review_count": 26113
     },
     {
       "appid": "627270",
@@ -60,7 +60,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465260/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 80,
-      "review_count": 193
+      "review_count": 194
     },
     {
       "appid": "45760",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5295
+      "review_count": 5297
     },
     {
       "appid": "1971870",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17728
+      "review_count": 17732
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88648
+      "review_count": 88650
     },
     {
       "appid": "242700",
@@ -108,19 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242700/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 3931
-    },
-    {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
-      "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 909
+      "review_count": 3932
     },
     {
       "appid": "571260",
@@ -133,6 +121,18 @@
       "review_label": "Very Positive",
       "review_pct": 82,
       "review_count": 646
+    },
+    {
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "discount_pct": 85,
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 909
     },
     {
       "appid": "222420",
@@ -168,19 +168,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 938
-    },
-    {
-      "appid": "1244950",
-      "name": "Battletoads",
-      "discount_pct": 85,
-      "final_price": "$2.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1244950/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 64,
-      "review_count": 720
+      "review_count": 939
     },
     {
       "appid": "702110",
@@ -195,6 +183,18 @@
       "review_count": 386
     },
     {
+      "appid": "1244950",
+      "name": "Battletoads",
+      "discount_pct": 85,
+      "final_price": "$2.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1244950/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 64,
+      "review_count": 720
+    },
+    {
       "appid": "307780",
       "name": "Mortal Kombat X",
       "discount_pct": 80,
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11946
+      "review_count": 11947
     },
     {
       "appid": "307780,347880,524620",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40383
+      "review_count": 40386
     },
     {
       "appid": "702890",
@@ -231,18 +231,6 @@
       "review_count": 2262
     },
     {
-      "appid": "661990",
-      "name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/661990/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/661990/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 340
-    },
-    {
       "appid": "493840",
       "name": "Marvel vs. Capcom: Infinite",
       "discount_pct": 80,
@@ -253,6 +241,18 @@
       "review_label": "Mixed",
       "review_pct": 66,
       "review_count": 1424
+    },
+    {
+      "appid": "661990",
+      "name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/661990/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/661990/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 340
     },
     {
       "appid": "251470",
@@ -360,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1716
+      "review_count": 1722
     },
     {
       "appid": "597170",
@@ -372,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18111
+      "review_count": 18121
     },
     {
       "appid": "1498570",
@@ -384,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2801
+      "review_count": 2802
     },
     {
       "appid": "482450",
@@ -423,18 +423,6 @@
       "review_count": 390
     },
     {
-      "appid": "449210",
-      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
-      "discount_pct": 75,
-      "final_price": "$1.24",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/449210/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 636
-    },
-    {
       "appid": "1217050",
       "name": "Shaolin vs Wutang 2",
       "discount_pct": 75,
@@ -445,6 +433,18 @@
       "review_label": "Very Positive",
       "review_pct": 87,
       "review_count": 451
+    },
+    {
+      "appid": "449210",
+      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
+      "discount_pct": 75,
+      "final_price": "$1.24",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/449210/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 636
     },
     {
       "appid": "1236490",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6016
+      "review_count": 6018
     },
     {
       "appid": "1602010",
@@ -505,18 +505,6 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 1491
-    },
-    {
-      "appid": "1279920",
-      "name": "Cobra Kai: The Karate Kid Saga Continues",
-      "discount_pct": 70,
-      "final_price": "$5.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1279920/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1279920/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 83,
-      "review_count": 420
     },
     {
       "appid": "586200",
