@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T01:42:21.928934+00:00",
+  "updated_at": "2026-11-25T16:19:44.432551+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26116
+      "review_count": 26119
     },
     {
       "appid": "627270",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5298
+      "review_count": 5299
     },
     {
       "appid": "1041840",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1041840/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 75,
-      "review_count": 1801
+      "review_count": 1802
     },
     {
       "appid": "1971870",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17732
+      "review_count": 17731
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -120,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88655
+      "review_count": 88663
     },
     {
       "appid": "242700",
@@ -240,7 +240,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40383
+      "review_count": 40387
     },
     {
       "appid": "702890",
@@ -255,16 +255,16 @@
       "review_count": 2262
     },
     {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
+      "appid": "493840",
+      "name": "Marvel vs. Capcom: Infinite",
       "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1783
+      "final_price": "$7.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/493840/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 66,
+      "review_count": 1425
     },
     {
       "appid": "661990",
@@ -279,28 +279,16 @@
       "review_count": 340
     },
     {
-      "appid": "493840",
-      "name": "Marvel vs. Capcom: Infinite",
+      "appid": "251470",
+      "name": "TowerFall Ascension",
       "discount_pct": 80,
-      "final_price": "$7.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/493840/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 66,
-      "review_count": 1425
-    },
-    {
-      "appid": "536560",
-      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/536560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536560/header.jpg",
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
       "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 254
+      "review_pct": 94,
+      "review_count": 1783
     },
     {
       "appid": "370460",
@@ -327,6 +315,18 @@
       "review_count": 296
     },
     {
+      "appid": "536560",
+      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/536560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536560/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 90,
+      "review_count": 254
+    },
+    {
       "appid": "466110",
       "name": "Shaolin vs Wutang",
       "discount_pct": 80,
@@ -339,16 +339,16 @@
       "review_count": 958
     },
     {
-      "appid": "1024630",
-      "name": "Fighters Legacy",
+      "appid": "1051960",
+      "name": "Fly Punch Boom!",
       "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1024630/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1024630/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 71,
-      "review_count": 80
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/1051960/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1051960/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 138
     },
     {
       "appid": "3061900",
@@ -361,6 +361,18 @@
       "review_label": "Very Positive",
       "review_pct": 90,
       "review_count": 167
+    },
+    {
+      "appid": "1024630",
+      "name": "Fighters Legacy",
+      "discount_pct": 80,
+      "final_price": "$1.99",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/1024630/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1024630/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 71,
+      "review_count": 80
     },
     {
       "appid": "356910",
@@ -384,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1728
+      "review_count": 1731
     },
     {
       "appid": "597170",
@@ -396,7 +408,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18127
+      "review_count": 18139
     },
     {
       "appid": "1498570",
@@ -408,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2802
+      "review_count": 2803
     },
     {
       "appid": "482450",
@@ -420,7 +432,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 1074
+      "review_count": 1075
     },
     {
       "appid": "922500",
@@ -447,6 +459,18 @@
       "review_count": 390
     },
     {
+      "appid": "1236490",
+      "name": "Bamerang",
+      "discount_pct": 75,
+      "final_price": "$1.24",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/1236490/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236490/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 67
+    },
+    {
       "appid": "1217050",
       "name": "Shaolin vs Wutang 2",
       "discount_pct": 75,
@@ -471,18 +495,6 @@
       "review_count": 636
     },
     {
-      "appid": "1236490",
-      "name": "Bamerang",
-      "discount_pct": 75,
-      "final_price": "$1.24",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/1236490/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236490/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 67
-    },
-    {
       "appid": "1372110",
       "name": "JoJo's Bizarre Adventure: All-Star Battle R",
       "discount_pct": 72,
@@ -492,7 +504,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6019
+      "review_count": 6022
     },
     {
       "appid": "1602010",
@@ -516,7 +528,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4251
+      "review_count": 4252
     },
     {
       "appid": "502800",
@@ -588,7 +600,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1652
+      "review_count": 1653
     },
     {
       "appid": "674940",
@@ -600,7 +612,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52686
+      "review_count": 52685
     },
     {
       "appid": "612930",
