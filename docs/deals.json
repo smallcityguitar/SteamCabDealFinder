@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:14:45.186498+00:00",
+  "updated_at": "2026-11-26T15:55:21.676491+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26120
+      "review_count": 26121
     },
     {
       "appid": "627270",
@@ -36,19 +36,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 85,
-      "review_count": 6982
+      "review_count": 6983
     },
     {
-      "appid": "316930",
-      "name": "Kings of Kung Fu",
+      "appid": "1089930",
+      "name": "Aeon Must Die!",
       "discount_pct": 90,
-      "final_price": "$0.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/316930/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/316930/header.jpg",
+      "final_price": "$1.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1089930/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1089930/header.jpg",
       "review_label": "Mixed",
-      "review_pct": 67,
-      "review_count": 629
+      "review_pct": 50,
+      "review_count": 102
     },
     {
       "appid": "1465260",
@@ -84,7 +84,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1041840/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 75,
-      "review_count": 1802
+      "review_count": 1803
     },
     {
       "appid": "1971870",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17740
+      "review_count": 17745
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88667
+      "review_count": 88673
     },
     {
       "appid": "242700",
@@ -156,7 +156,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222420/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 710
+      "review_count": 711
     },
     {
       "appid": "794580",
@@ -171,18 +171,6 @@
       "review_count": 909
     },
     {
-      "appid": "366240",
-      "name": "GAROU: MARK OF THE WOLVES",
-      "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/366240/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 939
-    },
-    {
       "appid": "1244950",
       "name": "Battletoads",
       "discount_pct": 85,
@@ -193,6 +181,18 @@
       "review_label": "Mixed",
       "review_pct": 64,
       "review_count": 720
+    },
+    {
+      "appid": "366240",
+      "name": "GAROU: MARK OF THE WOLVES",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/366240/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 939
     },
     {
       "appid": "702110",
@@ -216,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11946
+      "review_count": 11949
     },
     {
       "appid": "307780,347880,524620",
@@ -228,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40384
+      "review_count": 40389
     },
     {
       "appid": "702890",
@@ -267,6 +267,18 @@
       "review_count": 340
     },
     {
+      "appid": "536560",
+      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+      "discount_pct": 80,
+      "final_price": "$3.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/536560/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536560/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 90,
+      "review_count": 254
+    },
+    {
       "appid": "251470",
       "name": "TowerFall Ascension",
       "discount_pct": 80,
@@ -289,18 +301,6 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 320
-    },
-    {
-      "appid": "536560",
-      "name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
-      "discount_pct": 80,
-      "final_price": "$3.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/536560/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536560/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 254
     },
     {
       "appid": "989550",
@@ -339,30 +339,6 @@
       "review_count": 958
     },
     {
-      "appid": "3061900",
-      "name": "Revenge of the Boxer: Moscow Criminality",
-      "discount_pct": 80,
-      "final_price": "$0.99",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/3061900/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3061900/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 90,
-      "review_count": 167
-    },
-    {
-      "appid": "1024630",
-      "name": "Fighters Legacy",
-      "discount_pct": 80,
-      "final_price": "$1.99",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/1024630/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1024630/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 71,
-      "review_count": 80
-    },
-    {
       "appid": "356910",
       "name": "Battle Fantasia -Revised Edition-",
       "discount_pct": 77,
@@ -384,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1732
+      "review_count": 1735
     },
     {
       "appid": "597170",
@@ -396,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
       "review_label": "Overwhelmingly Positive",
       "review_pct": 96,
-      "review_count": 18144
+      "review_count": 18153
     },
     {
       "appid": "1498570",
@@ -492,19 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6024
-    },
-    {
-      "appid": "357190",
-      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
-      "discount_pct": 70,
-      "final_price": "$7.49",
-      "original_price": "$24.99",
-      "url": "https://store.steampowered.com/app/357190/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 92,
-      "review_count": 4252
+      "review_count": 6029
     },
     {
       "appid": "1602010",
@@ -516,7 +480,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2622
+      "review_count": 2623
+    },
+    {
+      "appid": "357190",
+      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+      "discount_pct": 70,
+      "final_price": "$7.49",
+      "original_price": "$24.99",
+      "url": "https://store.steampowered.com/app/357190/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 92,
+      "review_count": 4254
     },
     {
       "appid": "502800",
@@ -567,6 +543,18 @@
       "review_count": 830
     },
     {
+      "appid": "2634890",
+      "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
+      "discount_pct": 60,
+      "final_price": "$19.99",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/2634890/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 93,
+      "review_count": 1654
+    },
+    {
       "appid": "1659600",
       "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
       "discount_pct": 60,
@@ -579,18 +567,6 @@
       "review_count": 804
     },
     {
-      "appid": "2634890",
-      "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
-      "discount_pct": 60,
-      "final_price": "$19.99",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/2634890/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 93,
-      "review_count": 1653
-    },
-    {
       "appid": "674940",
       "name": "Stick Fight: The Game",
       "discount_pct": 60,
@@ -600,7 +576,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52685
+      "review_count": 52686
     },
     {
       "appid": "612930",
