@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T01:14:03.933142+00:00",
+  "updated_at": "2026-11-27T15:43:54.424248+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -49,6 +49,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 73,
       "review_count": 526
+    },
+    {
+      "appid": "297740",
+      "name": "Overruled!",
+      "discount_pct": 90,
+      "final_price": "$1.29",
+      "original_price": "$12.99",
+      "url": "https://store.steampowered.com/app/297740/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/297740/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 60,
+      "review_count": 20
     },
     {
       "appid": "1465260",
@@ -108,7 +120,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88678
+      "review_count": 88684
     },
     {
       "appid": "242700",
@@ -120,19 +132,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242700/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 3933
-    },
-    {
-      "appid": "999660",
-      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
-      "discount_pct": 85,
-      "final_price": "$5.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/999660/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 81,
-      "review_count": 382
+      "review_count": 3934
     },
     {
       "appid": "794580",
@@ -145,6 +145,18 @@
       "review_label": "Mostly Positive",
       "review_pct": 72,
       "review_count": 909
+    },
+    {
+      "appid": "999660",
+      "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+      "discount_pct": 85,
+      "final_price": "$5.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/999660/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 81,
+      "review_count": 382
     },
     {
       "appid": "571260",
@@ -171,18 +183,6 @@
       "review_count": 711
     },
     {
-      "appid": "366240",
-      "name": "GAROU: MARK OF THE WOLVES",
-      "discount_pct": 85,
-      "final_price": "$1.49",
-      "original_price": "$9.99",
-      "url": "https://store.steampowered.com/app/366240/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 939
-    },
-    {
       "appid": "1244950",
       "name": "Battletoads",
       "discount_pct": 85,
@@ -193,6 +193,18 @@
       "review_label": "Mixed",
       "review_pct": 64,
       "review_count": 720
+    },
+    {
+      "appid": "366240",
+      "name": "GAROU: MARK OF THE WOLVES",
+      "discount_pct": 85,
+      "final_price": "$1.49",
+      "original_price": "$9.99",
+      "url": "https://store.steampowered.com/app/366240/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/366240/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 940
     },
     {
       "appid": "702110",
@@ -216,7 +228,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11950
+      "review_count": 11951
     },
     {
       "appid": "702890",
@@ -240,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40393
+      "review_count": 40392
     },
     {
       "appid": "493840",
@@ -265,6 +277,18 @@
       "review_label": "Very Positive",
       "review_pct": 85,
       "review_count": 340
+    },
+    {
+      "appid": "989550",
+      "name": "Million Arthur: Arcana Blood",
+      "discount_pct": 80,
+      "final_price": "$7.99",
+      "original_price": "$39.99",
+      "url": "https://store.steampowered.com/app/989550/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/989550/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 80,
+      "review_count": 296
     },
     {
       "appid": "536560",
@@ -301,18 +325,6 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 320
-    },
-    {
-      "appid": "989550",
-      "name": "Million Arthur: Arcana Blood",
-      "discount_pct": 80,
-      "final_price": "$7.99",
-      "original_price": "$39.99",
-      "url": "https://store.steampowered.com/app/989550/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/989550/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 80,
-      "review_count": 296
     },
     {
       "appid": "1051960",
@@ -360,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1739
+      "review_count": 1740
     },
     {
       "appid": "1498570",
@@ -384,7 +396,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 1676
+      "review_count": 1677
     },
     {
       "appid": "482450",
@@ -408,7 +420,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1891090/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 82,
-      "review_count": 391
+      "review_count": 392
     },
     {
       "appid": "1217050",
@@ -435,18 +447,6 @@
       "review_count": 67
     },
     {
-      "appid": "449210",
-      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
-      "discount_pct": 75,
-      "final_price": "$1.24",
-      "original_price": "$4.99",
-      "url": "https://store.steampowered.com/app/449210/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 87,
-      "review_count": 636
-    },
-    {
       "appid": "1372110",
       "name": "JoJo's Bizarre Adventure: All-Star Battle R",
       "discount_pct": 72,
@@ -456,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6033
+      "review_count": 6036
     },
     {
       "appid": "1602010",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2623
+      "review_count": 2624
     },
     {
       "appid": "357190",
@@ -480,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4254
+      "review_count": 4255
     },
     {
       "appid": "502800",
@@ -543,18 +543,6 @@
       "review_count": 1876
     },
     {
-      "appid": "1498740",
-      "name": "Troublemaker",
-      "discount_pct": 65,
-      "final_price": "$6.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1498740/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498740/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 89,
-      "review_count": 955
-    },
-    {
       "appid": "2634890",
       "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
       "discount_pct": 60,
@@ -564,7 +552,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2634890/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 93,
-      "review_count": 1654
+      "review_count": 1655
     },
     {
       "appid": "674940",
@@ -588,7 +576,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1659600/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 804
+      "review_count": 805
+    },
+    {
+      "appid": "612930",
+      "name": "Fight of Gods",
+      "discount_pct": 60,
+      "final_price": "$5.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/612930/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/612930/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 84,
+      "review_count": 765
     }
   ]
 }
