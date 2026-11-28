@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T00:47:16.657431+00:00",
+  "updated_at": "2026-11-28T14:39:33.166295+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -48,7 +48,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/263720/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 526
+      "review_count": 527
     },
     {
       "appid": "1465260",
@@ -72,7 +72,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 5299
+      "review_count": 5300
     },
     {
       "appid": "1041840",
@@ -96,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17748
+      "review_count": 17750
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -108,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88695
+      "review_count": 88706
     },
     {
       "appid": "242700",
@@ -123,18 +123,6 @@
       "review_count": 3934
     },
     {
-      "appid": "794580",
-      "name": "SNK HEROINES Tag Team Frenzy",
-      "discount_pct": 85,
-      "final_price": "$7.49",
-      "original_price": "$49.99",
-      "url": "https://store.steampowered.com/app/794580/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 909
-    },
-    {
       "appid": "999660",
       "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
       "discount_pct": 85,
@@ -145,6 +133,18 @@
       "review_label": "Very Positive",
       "review_pct": 81,
       "review_count": 382
+    },
+    {
+      "appid": "794580",
+      "name": "SNK HEROINES Tag Team Frenzy",
+      "discount_pct": 85,
+      "final_price": "$7.49",
+      "original_price": "$49.99",
+      "url": "https://store.steampowered.com/app/794580/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794580/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 909
     },
     {
       "appid": "571260",
@@ -204,7 +204,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/702110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 90,
-      "review_count": 387
+      "review_count": 388
     },
     {
       "appid": "307780",
@@ -231,6 +231,18 @@
       "review_count": 2262
     },
     {
+      "appid": "661990",
+      "name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+      "discount_pct": 80,
+      "final_price": "$5.99",
+      "original_price": "$29.99",
+      "url": "https://store.steampowered.com/app/661990/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/661990/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 85,
+      "review_count": 340
+    },
+    {
       "appid": "307780,347880,524620",
       "name": "Mortal Kombat XL",
       "discount_pct": 80,
@@ -240,7 +252,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780,347880,524620/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 40392
+      "review_count": 40394
     },
     {
       "appid": "493840",
@@ -253,18 +265,6 @@
       "review_label": "Mixed",
       "review_pct": 66,
       "review_count": 1425
-    },
-    {
-      "appid": "661990",
-      "name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
-      "discount_pct": 80,
-      "final_price": "$5.99",
-      "original_price": "$29.99",
-      "url": "https://store.steampowered.com/app/661990/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/661990/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 85,
-      "review_count": 340
     },
     {
       "appid": "251470",
@@ -360,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1741
+      "review_count": 1742
     },
     {
       "appid": "1498570",
@@ -372,19 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2804
-    },
-    {
-      "appid": "922500",
-      "name": "KILL la KILL -IF",
-      "discount_pct": 75,
-      "final_price": "$4.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/922500/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
-      "review_label": "Mostly Positive",
-      "review_pct": 72,
-      "review_count": 1678
+      "review_count": 2806
     },
     {
       "appid": "482450",
@@ -396,7 +384,19 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/482450/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 91,
-      "review_count": 1076
+      "review_count": 1077
+    },
+    {
+      "appid": "922500",
+      "name": "KILL la KILL -IF",
+      "discount_pct": 75,
+      "final_price": "$4.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/922500/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
+      "review_label": "Mostly Positive",
+      "review_pct": 72,
+      "review_count": 1679
     },
     {
       "appid": "1891090",
@@ -456,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6040
+      "review_count": 6042
     },
     {
       "appid": "1602010",
@@ -480,7 +480,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 4255
+      "review_count": 4256
     },
     {
       "appid": "502800",
@@ -492,7 +492,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/502800/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 1491
+      "review_count": 1492
     },
     {
       "appid": "586200",
@@ -564,7 +564,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52694
+      "review_count": 52700
     },
     {
       "appid": "1659600",
