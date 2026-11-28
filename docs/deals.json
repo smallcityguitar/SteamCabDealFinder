@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T15:43:54.424248+00:00",
+  "updated_at": "2026-11-28T00:47:16.657431+00:00",
   "min_discount": 60,
   "deals": [
     {
@@ -24,7 +24,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 86,
-      "review_count": 26121
+      "review_count": 26127
     },
     {
       "appid": "627270",
@@ -49,18 +49,6 @@
       "review_label": "Mostly Positive",
       "review_pct": 73,
       "review_count": 526
-    },
-    {
-      "appid": "297740",
-      "name": "Overruled!",
-      "discount_pct": 90,
-      "final_price": "$1.29",
-      "original_price": "$12.99",
-      "url": "https://store.steampowered.com/app/297740/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/297740/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 60,
-      "review_count": 20
     },
     {
       "appid": "1465260",
@@ -108,7 +96,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 73,
-      "review_count": 17746
+      "review_count": 17748
     },
     {
       "appid": "976310,1054480,1273971,1449880",
@@ -120,7 +108,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310,1054480,1273971,1449880/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 88,
-      "review_count": 88684
+      "review_count": 88695
     },
     {
       "appid": "242700",
@@ -183,18 +171,6 @@
       "review_count": 711
     },
     {
-      "appid": "1244950",
-      "name": "Battletoads",
-      "discount_pct": 85,
-      "final_price": "$2.99",
-      "original_price": "$19.99",
-      "url": "https://store.steampowered.com/app/1244950/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
-      "review_label": "Mixed",
-      "review_pct": 64,
-      "review_count": 720
-    },
-    {
       "appid": "366240",
       "name": "GAROU: MARK OF THE WOLVES",
       "discount_pct": 85,
@@ -205,6 +181,18 @@
       "review_label": "Very Positive",
       "review_pct": 94,
       "review_count": 940
+    },
+    {
+      "appid": "1244950",
+      "name": "Battletoads",
+      "discount_pct": 85,
+      "final_price": "$2.99",
+      "original_price": "$19.99",
+      "url": "https://store.steampowered.com/app/1244950/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244950/header.jpg",
+      "review_label": "Mixed",
+      "review_pct": 64,
+      "review_count": 720
     },
     {
       "appid": "702110",
@@ -228,7 +216,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 11951
+      "review_count": 11952
     },
     {
       "appid": "702890",
@@ -279,6 +267,18 @@
       "review_count": 340
     },
     {
+      "appid": "251470",
+      "name": "TowerFall Ascension",
+      "discount_pct": 80,
+      "final_price": "$2.99",
+      "original_price": "$14.99",
+      "url": "https://store.steampowered.com/app/251470/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 94,
+      "review_count": 1783
+    },
+    {
       "appid": "989550",
       "name": "Million Arthur: Arcana Blood",
       "discount_pct": 80,
@@ -301,18 +301,6 @@
       "review_label": "Very Positive",
       "review_pct": 90,
       "review_count": 254
-    },
-    {
-      "appid": "251470",
-      "name": "TowerFall Ascension",
-      "discount_pct": 80,
-      "final_price": "$2.99",
-      "original_price": "$14.99",
-      "url": "https://store.steampowered.com/app/251470/",
-      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg",
-      "review_label": "Very Positive",
-      "review_pct": 94,
-      "review_count": 1783
     },
     {
       "appid": "370460",
@@ -348,7 +336,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/466110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 92,
-      "review_count": 958
+      "review_count": 959
     },
     {
       "appid": "356910",
@@ -372,7 +360,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 81,
-      "review_count": 1740
+      "review_count": 1741
     },
     {
       "appid": "1498570",
@@ -384,7 +372,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 84,
-      "review_count": 2805
+      "review_count": 2804
     },
     {
       "appid": "922500",
@@ -396,7 +384,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/922500/header.jpg",
       "review_label": "Mostly Positive",
       "review_pct": 72,
-      "review_count": 1677
+      "review_count": 1678
     },
     {
       "appid": "482450",
@@ -435,6 +423,18 @@
       "review_count": 452
     },
     {
+      "appid": "449210",
+      "name": "Verdict Guilty - \uc720\uc8c4 \ud3c9\uacb0",
+      "discount_pct": 75,
+      "final_price": "$1.24",
+      "original_price": "$4.99",
+      "url": "https://store.steampowered.com/app/449210/",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
+      "review_label": "Very Positive",
+      "review_pct": 87,
+      "review_count": 635
+    },
+    {
       "appid": "1236490",
       "name": "Bamerang",
       "discount_pct": 75,
@@ -456,7 +456,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372110/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 89,
-      "review_count": 6036
+      "review_count": 6040
     },
     {
       "appid": "1602010",
@@ -468,7 +468,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1602010/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 87,
-      "review_count": 2624
+      "review_count": 2623
     },
     {
       "appid": "357190",
@@ -564,7 +564,7 @@
       "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
       "review_label": "Very Positive",
       "review_pct": 94,
-      "review_count": 52690
+      "review_count": 52694
     },
     {
       "appid": "1659600",
